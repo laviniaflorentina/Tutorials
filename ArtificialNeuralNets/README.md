@@ -27,11 +27,11 @@ that creates false images or videos of celebrities or drive self-driving cars.
  
  - What are the main components and why do we need each of them?
  
-  - Weights, Bias and Layers
-  
-  - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
-  
-  - Derivatives
+   - Weights, Bias and Layers
+
+   - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
+
+   - Derivatives
  
  - Architectures of Artificial Neural Network
  
@@ -41,14 +41,14 @@ that creates false images or videos of celebrities or drive self-driving cars.
  
  - Machine Learning Categories:
  
- 1. Supervised Learning
- 
- 2. Unsupervised Learning
- 
- 3. Semi-Supervised Learning
- 
- 4. Self-Supervised Learning
- 
- 5. Reinforcement Learning
+   - Supervised Learning
+
+   - Unsupervised Learning
+
+   - Semi-Supervised Learning
+
+   - Self-Supervised Learning
+
+   - Reinforcement Learning
  
 -----------------------------------------------
