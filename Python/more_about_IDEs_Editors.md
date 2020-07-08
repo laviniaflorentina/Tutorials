@@ -1,9 +1,9 @@
 # More about IDEs and Code Editors for Python
 
 Content
-- [What is the difference between an IDE and a Code Editor?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#what-is-the-difference-between-an-ide-and-a-code-editor)
-- [Some IDEs described](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#ides)
-- [Some Editors described](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#editors)
+- [What is the difference between an IDE and a Code Editor?](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#what-is-the-difference-between-an-ide-and-a-code-editor)
+- [Some IDEs described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#ides)
+- [Some Editors described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#editors)
 
 ## What is the difference between an IDE and a Code Editor?
 
@@ -25,11 +25,11 @@ Compared to an IDE, a good dedicated code editor is usually smaller and quicker,
 
 ## IDEs
 
-1. [PyCharm](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#1-pycharm) 
+1. [PyCharm](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#1-pycharm) 
 
-2. [Eclipse](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#2-eclipse)
+2. [Eclipse](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#2-eclipse)
 
-3. [Visual Studio](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#3-visual-studio)
+3. [Visual Studio](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#3-visual-studio)
 
 
 ### 1. PyCharm
@@ -57,11 +57,11 @@ Eclipse is an integrated development environment used in computer programming. I
 
 ## Editors
 
-1. [Sublime Text](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#1-sublime-text) 
+1. [Sublime Text](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#1-sublime-text) 
 
-2. [Atom](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#2-atom)
+2. [Atom](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#2-atom)
 
-3. [Visual Studio Code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#3-visual-studio-code)
+3. [Visual Studio Code](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#3-visual-studio-code)
 
 ### 1. Sublime Text
 
