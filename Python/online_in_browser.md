@@ -58,19 +58,27 @@ You can create a new notebook by clicking **NEW NOTEBOOK** at the bottom right c
 
 Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** and you are all set to start:
 
-:pushpin: Make sure you SignIn for a better experience. 
-
 ## New Notebook
 
-**New Notebook** option it will create an _Untitled0.ipynb_ file (see below) and it will automatically be saved to your Google Drive in a folder named Colab Notebooks. 
+**New Notebook** option it will create an _Untitled0.ipynb_ file and it will automatically be saved to your Google Drive in a folder named Colab Notebooks. The new file will look similarly with the following screenshot:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab4.png)
 
 ## Features
 
+I will describe each feature marked in the above screenshot. 
+
+:one: The name of the file. The extension ".ipynb" is specifically for Python.
+
+:two: **Code** and **Text** in both places it will create a new cell either for writing code or for adding markdown plain text cell.
+
+:three: Represents an Input code cell. Notice it begins with ":arrow_forward:". You can click on that icon to run the code in the cell or you can use the shortcut CTRL+Enter/Command+Enter.
+
+:four: Represents an Output of the code cell. Notice it begins with a special icon. You can click on that icon to clear the output of the code cell.
+
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab5.png)
 
-Other Cell - related features are:
+:five: Other Cell - related features are:
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab6.png)
 
 You can: _Move Up or Move Down the Cell, Link to Cell, Add comments for a Cell, Delete the Cell_, but you can also Copy Cell (CTRL+C/Command+C), Cut Cell (CTRL+X/Command+X), Paste Cell (CTRL+V/Command+V) & Edit Cell (double click on it).
