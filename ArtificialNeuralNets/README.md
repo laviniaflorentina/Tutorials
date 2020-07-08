@@ -66,5 +66,13 @@ If you want to apply some of the exciting models that creates false images or vi
  
  ## 6. [Hardware Parts for Training](). What I cover:
  
- 
+ - Why bother?
+
+ - About **CPU, GPU, TPU, FPGA**
+
+ - How to use these resources in your code?
+
+   - In Browser (Google Colab or Jupyter Notebooks)
+
+   - On HPC (or other High Performance Computing) 
 -----------------------------------------------
