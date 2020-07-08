@@ -45,6 +45,8 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
   - From your terminal: [tutorial needed]
   
+  - From an IDE: [tutorial needed]
+  
   - From browser: [tutorial needed]
 
 :grinning: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
@@ -55,7 +57,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 ## What's next in this cool repo? :octocat:
 
-### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
+### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
 
  - What is the difference between an IDE and a Code Editor?
  
@@ -63,7 +65,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
  
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
+### 2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What I cover:
  
  - How a short program does it looks like?
  
