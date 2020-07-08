@@ -39,6 +39,8 @@ Installing PyCharm (or any software) can be a little difficult for a newbie. For
   
 :unamused: Doesn't have much memory you can play with.
 
+Still confused? Read [more about How to get started with Colab & Jupyter](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)
+
 b). **On HPC**: 
 
 While the browser method seem to be the easiest one to go with, sometime you might need to run big projects for academic purpose. That's what HPC is for! You can have access to it:
