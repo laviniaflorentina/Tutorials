@@ -1,6 +1,6 @@
 # About Python :thought_balloon:
 
-Python is one of the most popular high-level languages on Talon3. It is mainly used for software development, scripting, and artificial intelligence. It works on multiple platforms, such as: Windows, Mac, Linux, Raspberry Pi etc.
+Python is one of the most popular high-level programming languages. It is mainly used for software development, scripting, and artificial intelligence. It works on multiple platforms, such as: Windows, Mac, Linux, Raspberry Pi etc.
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
