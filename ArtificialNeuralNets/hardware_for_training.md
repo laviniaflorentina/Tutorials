@@ -1,12 +1,13 @@
 # :nut_and_bolt: Hardware Parts for Training :wrench:
 # :construction: ... Work in Progress ... :construction:
+----------------------------
 Content
 
 - [Why bother? ]() 
 
 - [About **CPU, GPU, TPU, FPGA**]()
 
-- [How to use these resources in your code?]()
+- [How to use these resources for your code?]()
 
   - In Browser (Google Colab or Jupyter Notebooks)
 
@@ -31,22 +32,21 @@ Moreover, the company created a library in 2007, called CUDA, making possible to
 **FPGA** (stands for **Field-Programmable Gate Arrays**) makes it easier to develop hardware, frameworks, and software for building effective neural network systems. The advantage of this approach is that it gives high performance and allows you to change the architecture of the neural network for a specific task.
 
 **Special processors.** Many companies are now working on creating effective solutions for training neural networks using specialized processors. This makes it possible to realize the necessary computing power for a certain class of tasks, such as: _voice recognition, auto control, image, and video recognition_. 
-
 With less power consumption, such specialized solutions will give better results compared to GPU and TPU, and these solutions are compact for placement in a small form factor. 
 
-## How to use these resources in your code?
+## How to use these resources for your code?
 
-CPU is being used as default everytime unless otherwise specified by user. 
+CPU is being used everytime as default, unless otherwise specified by user. 
 
 ### In Browser (Google Colab or Jupyter Notebooks)
 
-Google Colaboratory and Jupyter Notebook are the easiest to use online environments for running Python code, and additionally they give you free access to GPUs and TPUs. 
+Google Colaboratory and Jupyter Notebook are the easiest and most popular online tools to use for running Python code, and additionally they give you free access to GPUs and TPUs resources. 
 
 Check-out [this tutorial](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#runtime-environment-options) for more details on how to set up GPU/TPU for your code.
 
 ### On HPC (or other High Performance Computing)
 
-The good thing about having access to an HPC is that they have huge numbers of core processors that you can play with. Obvoiusly, the first thing would be to check how many such processors are available.
+The good thing about having access to an HPC is that they have huge numbers of core processors you can play with. Obvoiusly, the first thing would be to check how many such processors are available.
 
 For University of North Texas students: [check available resources here](https://hpc.unt.edu/userguide#Compiling_Software).
 
