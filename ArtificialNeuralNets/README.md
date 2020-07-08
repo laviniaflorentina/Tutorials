@@ -15,3 +15,40 @@ that creates false images or videos of celebrities or drive self-driving cars.
 
 
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
+
+
+----------------------------------------------- 
+
+## What's next in this cool repo? :octocat:
+
+### 1. [Introduction](). What I cover:
+
+ - What is an Artificial Neural Network?
+ 
+ - What are the main components and why do we need each of them?
+ 
+  - Weights, Bias and Layers
+  
+  - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
+  
+  - Derivatives
+ 
+ - Architectures of Artificial Neural Network
+ 
+### 2. [Machine Learning](). What I cover:
+ 
+ - Description
+ 
+ - Machine Learning Categories:
+ 
+ 1. Supervised Learning
+ 
+ 2. Unsupervised Learning
+ 
+ 3. Semi-Supervised Learning
+ 
+ 4. Self-Supervised Learning
+ 
+ 5. Reinforcement Learning
+ 
+-----------------------------------------------
