@@ -50,13 +50,15 @@ There are some tab options:
 
 You can create a new notebook by clicking **NEW NOTEBOOK** at the bottom right corner. Or **CANCEL** if you do not wish to continue.
 
-:pushpin: Make sure you SignIn for a better experience. 
-
 2. **Google Drive**: if you have a Google Drive account, access your drive https://drive.google.com as usual and look for the " + New " button which should be in the upper left corner as shown below:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab3.png)
 
-Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** and you are all set to start:
+Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** and you are all set to start!
+
+:pushpin: Make sure you SignIn for a better experience. 
+
+:pushpin: Works the best in Google Chrome! 
 
 ## New Notebook
 
@@ -76,8 +78,6 @@ I will describe each feature marked in the above screenshot.
 
 :four: Represents an Output of the code cell. Notice it begins with a special icon. You can click on that icon to clear the output of the code cell.
 
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab5.png)
-
 :five: Other Cell - related features are:
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab6.png)
 
@@ -87,7 +87,16 @@ If you click on the settings button you can see the following control panel:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab7.png)
 
+**Site.** Has options for the whole website with regard to the Theme (_Light, Dark, Adaptive_).
+
+**Editor.** Has options for the editor with regard to the Text Coloring (_Default, Monokai, Intense and Synthwave84_), Key Bindings (_Default, VIM & Classic_), Font size, etc.
+
+**Colab Pro.** They present the benefits of getting a subscrption for a Pro account. With Colab Pro you have priority access to our fastest GPUs. 
+
+**Miscellaneous.** Power level is an April fools joke feature that adds sparks and combos to cell editing. See [their post on Twitter](https://twitter.com/GoogleColab/status/1112708634905964545).
+
 ## Runtime Environment Options
+
 
 
 ## Download the Notebook
