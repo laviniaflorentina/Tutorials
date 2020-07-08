@@ -15,7 +15,7 @@ a). **From an IDE/Editor**:
   
 :unamused: It can't be shared easily and you can't have acces to your code from any device.  
 
-Still confused? Read [more about IDEs and Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python).
+_Still confused? Read [more about IDEs and Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python)._
 
 b). **From terminal**: 
 
@@ -39,7 +39,7 @@ Installing PyCharm (or any software) can be a little difficult for a newbie. For
   
 :unamused: Doesn't have much memory you can play with.
 
-Still confused? Read [more about How to get started with Colab & Jupyter](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)
+_Still confused? Read about [How to get started with Colab & Jupyter](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)._
 
 b). **On HPC**: 
 
