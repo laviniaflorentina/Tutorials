@@ -42,7 +42,7 @@ CPU is being used as default everytime unless otherwise specified by user.
 
 Google Colaboratory and Jupyter Notebook are the easiest to use online environments for running Python code, and additionally they give you free access to GPUs and TPUs. 
 
-Check-out [this tutorial]() for more details on how to set up GPU/TPU for your code.
+Check-out [this tutorial](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#runtime-environment-options) for more details on how to set up GPU/TPU for your code.
 
 ### On HPC (or other High Performance Computing)
 
