@@ -1,25 +1,15 @@
 # How to get started with Google Colaboratory & Jupyter Notebook
 
------------------------------------
-
 Content
-
 - [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#introduction)
-
 - [Google Colaboratory](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#google-colaboratory)
-
     - [New Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#new-notebook)
-
     - [Main Features](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#main-features)
-
     - [Runtime Environment Options](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#runtime-environment-options)
-
     - [Run the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#run-the-notebook)
-
     - [Download the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#download-the-notebook)
-
     - [Share the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#share-the-notebook)
-
+- [Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#jupyter-notebook)
 -----------------------------------
 
 # Introduction
