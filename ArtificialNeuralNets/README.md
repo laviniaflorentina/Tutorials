@@ -64,7 +64,7 @@ If you want to apply some of the exciting models that creates false images or vi
  
  - Model Evaluation Methods
  
- ## 6. [Hardware Parts for Training](). What I cover:
+ ## 6. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
  
  - Why bother?
 
