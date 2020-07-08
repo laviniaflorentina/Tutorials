@@ -36,16 +36,6 @@ If you are already logged in with a gmail account:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab2.png)
 
-:pushpin: Make sure you SignIn for a better experience. 
-
-2. **Google Drive**: if you have a Google Drive account, access your drive https://drive.google.com as usual and look for the " + New " button which should be in the upper left corner as shown below:
-
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab3.png)
-
-Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** and you are all set to start:
-
-:pushpin: Make sure you SignIn for a better experience. 
-
 There are some tab options:
 
 **EXAMPLES**: Contains several files designed to present different types of notebooks.
@@ -59,6 +49,16 @@ There are some tab options:
 **UPLOAD**: Upload notebooks from your local computer.
 
 You can create a new notebook by clicking **NEW NOTEBOOK** at the bottom right corner. Or **CANCEL** if you do not wish to continue.
+
+:pushpin: Make sure you SignIn for a better experience. 
+
+2. **Google Drive**: if you have a Google Drive account, access your drive https://drive.google.com as usual and look for the " + New " button which should be in the upper left corner as shown below:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab3.png)
+
+Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** and you are all set to start:
+
+:pushpin: Make sure you SignIn for a better experience. 
 
 ## New Notebook
 
