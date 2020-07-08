@@ -1,23 +1,27 @@
 # How to get started with Google Colaboratory & Jupyter Notebook
 
+-----------------------------------
+
 Content
 
-- [Introduction]()
+- [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#introduction)
 
-- [Google Colaboratory]()
+- [Google Colaboratory](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#google-colaboratory)
 
-    - [New Notebook]()
+    - [New Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#new-notebook)
 
-    - [Main Features]()
+    - [Main Features](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#main-features)
 
-    - [Runtime Environment Options]()
+    - [Runtime Environment Options](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#runtime-environment-options)
 
-    - [Run the Notebook]()
+    - [Run the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#run-the-notebook)
 
-    - [Download the Notebook]()
+    - [Download the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#download-the-notebook)
 
-    - [Share the Notebook]()
-    
+    - [Share the Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#share-the-notebook)
+
+-----------------------------------
+
 # Introduction
 
 Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install an IDE in the local machine.
@@ -64,7 +68,7 @@ Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** 
 
 ## New Notebook
 
-**New Notebook** option it will create an _Untitled0.ipynb_ file and it will automatically be saved to your Google Drive in a folder named Colab Notebooks. The new file will look similarly with the following screenshot:
+**New Notebook** option will create an _Untitled0.ipynb_ file and it will automatically be saved to your Google Drive in a folder named Colab Notebooks. The new file will look similarly with the following screenshot:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab4.png)
 
