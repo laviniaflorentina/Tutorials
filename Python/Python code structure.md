@@ -1,16 +1,16 @@
 # Python code structure 
 
 Content:
-- [Introduction](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#introduction)
-- [Python Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-input)
-- [Python Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-output)
-- [Python Imports: Useful libraries/modules to import](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-import-useful-librariesmodules-to-import)
+- [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#introduction)
+- [Python Input](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-input)
+- [Python Output](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-output)
+- [Python Imports: Useful libraries/modules to import](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-import-useful-librariesmodules-to-import)
 
 ## Introduction 
 
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
-![Example of a basic py code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure.png)
+![Example of a basic py code](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure.png)
 
 As shown in the example above, the file can contain _imports, defined functions, built-in functions_, and so on. Almost any code you'll write will have an input, output and imports, along with the main commands and functions.
 
@@ -22,7 +22,7 @@ personal/school/work projects (Data-Analysis, Data processing, etc. …).
 Until now, the value of variables was defined. To allow flexibility in the program, sometimes we might want to take the input from the user. In Python, the input() function allows this. 
 The syntax for input() is:
 
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure2.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure2.png)
 
 Where ‘Your name is: ‘ can be replaced with what you need from the user. For example:
 
@@ -38,7 +38,7 @@ If you need a string – the above method works, but if you need an integer or a
 
 **Bonus** you can directly calculate a string operation using _eval()_ on the input() as in the example below: 
 
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure3.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure3.png)
 
 ## Python Output
 The _print()_ function is used to output data to the screen. We can also output [data to a file](https://www.programiz.com/python-programming/file-operation) (useful when run the code on HPC). 
@@ -57,7 +57,7 @@ print ('The value of the variable is:', x)
 ```
 
 **Output formatting.** If you want a more rigorous output you can do this by using _str.format()_ method.
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure1.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure1.png)
 
 ## Python Import. Useful libraries/modules to import
 
@@ -108,7 +108,7 @@ import numpy as np
 ```
 
 How to use it ([more examples](https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/)):
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure4.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure4.png)
 **Note**: .shape, .size, .ndim are features of the numpy package.
 
 ### 3. [Scipy]() is a python library that is used for mathematics, science, and engineering computation.
@@ -147,7 +147,7 @@ print("The cubic root is: ",a)
 e = int(exp10(3))
 print("The exponential is: ",e)
 ```
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure5.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure5.png)
 
 b). features of the library for image processing: 
 ``` python 
@@ -166,7 +166,7 @@ ax1.imshow(panda)
 ax2.imshow(panda_rotated)
 ```
 
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure6.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure6.png)
 
 ### 4. [Panda](https://pandas.pydata.org/docs/user_guide/index.html) is a fast, demonstrative package that can be used to easily manipulate datasets.
 
@@ -199,7 +199,7 @@ print ("These are the columns: \n", data.columns)
 # Print the beginning of the table to check how it looks like
 data.head() # you can indicate between () the number of rows to be shown
 ```
-![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure7.png)
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/code_structure7.png)
 **Note**: Use only one of the 3 methods. I wrote all the commands just to give an example for each of them.
 
 ### Other modules and libraries can be found [here](https://docs.python.org/3/library/). 
