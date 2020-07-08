@@ -15,7 +15,7 @@ a). **From an IDE/Editor**:
   
 :unamused: It can't be shared easily and you can't have acces to your code from any device.  
 
-Still confused? Read [more about IDEs and Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python).
+Still confused? Read [more about IDEs and Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python).
 
 b). **From terminal**: 
 
@@ -57,7 +57,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 ## What's next in this cool repo? :octocat:
 
-### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
+### 1. [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
 
  - What is the difference between an IDE and a Code Editor?
  
@@ -65,7 +65,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
  
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What I cover:
+### 2. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
  - How a short program does it looks like?
  
