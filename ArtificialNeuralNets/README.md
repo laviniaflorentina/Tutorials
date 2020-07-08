@@ -26,9 +26,9 @@ If you want to apply some of the exciting models that creates false images or vi
 
    - Derivatives
  
- - Architectures of Artificial Neural Network
+## 2. [Artificial Neural Network Architectures](). What I cover:
  
-## 2. [Machine Learning](). What I cover:
+## 3. [Machine Learning](). What I cover:
  
  - Description
  
