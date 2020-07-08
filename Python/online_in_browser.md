@@ -8,9 +8,11 @@ Content
 
     - [New Notebook]()
 
-    - [Features]()
+    - [Main Features]()
 
     - [Runtime Environment Options]()
+
+    - [Run the Notebook]()
 
     - [Download the Notebook]()
 
@@ -66,13 +68,13 @@ Click on **+ New** :arrow_right: **More** :arrow_right: **Google Colaboratory** 
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab4.png)
 
-## Features
+## Main Features
 
 I will describe each feature marked in the above screenshot. 
 
 :one: The name of the file. The extension ".ipynb" is specifically for Python.
 
-:two: **Code** and **Text** in both places it will create a new cell either for writing code or for adding markdown plain text cell.
+:two: **Code** and **Text** in both places it will create a new cell either for writing code or for adding [markdown plain text](https://www.markdownguide.org/cheat-sheet/) cell.
 
 :three: Represents an Input code cell. Notice it begins with ":arrow_forward:". You can click on that icon to run the code in the cell or you can use the shortcut CTRL+Enter/Command+Enter.
 
@@ -97,8 +99,60 @@ If you click on the settings button you can see the following control panel:
 
 ## Runtime Environment Options
 
+Neural networks, for example, are a common task that needs more powerful resources then an usual program. Colab is offering free access to GPU and TPU resources. You can change the “Hardware accelerator” to GPU or TPU based on your code complexity. Read more about [Hardware parts in training a Neural Network](). 
 
+Click on **Runtime** dropdown menu. 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab8.png)
+
+Select **Change runtime type** and another window will pop-up:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab9.png)
+
+You can choose either one, depending on your needs, then run the entire program.
+
+## Run the Notebook
+
+There are different options for running the code in browser which is a huge advantage in contrast with an IDE.
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab8.png)
+
+You can select:
+
+1. **Run all** and it will run all the cell in order from the first one to the last one.
+
+2. **Run before** and it will run the cell before the one selected.
+
+3. **Run the focused cell** and it will run the selected cell.
+
+4. **Run selection** and it will run only the selected part from a cell.
+
+5. **Run after** and it will run all the cells one by one.
+
+From the same dropdown list you can:
+
+1. **Interrupt the execution** of the program.
+
+2. **Restart runtime** command will drop your current backend memory, like data you have downloaded, packages & libraries you have installed, etc.
+
+3. **Restart and run all** command behaves like the previous command and, additionally, it runs the entire program after restart.
+
+4. **Factory reset runtime** command is similar with the Restart, but more powerful.
 
 ## Download the Notebook
 
+If you want to download the notebook file: click on **File** (top left corner) :arrow_right: _download .ipynb_ or _download .py_. See screenshot below:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab10.png)
+
 ## Share the Notebook
+
+If you want to share the notebook file: click on **Share** (top right corner), and choose one of the sharing options:
+
+1. By e-mail invite: type in the person e-mail address:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab11.png)
+
+2. By link sharing. Here, you can customize the viewer rights: _viewer/ commenter/ editor_, as well as who might have access: _Restricted_ (only people with the link) or _Anyone on the internet with the link_.
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab12.png)
