@@ -14,7 +14,7 @@ If you want to apply some of the exciting models that creates false images or vi
 
 # What's next in this cool repo? :octocat:
 
-## 1. [Introduction](). What I cover:
+## 1. [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
 
  - What is an Artificial Neural Network?
  
@@ -52,7 +52,6 @@ If you want to apply some of the exciting models that creates false images or vi
  ## 5. [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
  
  - Training Evaluation Methods
- 
  - Model Evaluation Methods
  
  ## 6. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
@@ -66,4 +65,5 @@ If you want to apply some of the exciting models that creates false images or vi
    - In Browser (Google Colab or Jupyter Notebooks)
 
    - On HPC (or other High Performance Computing) 
+   
 -----------------------------------------------
