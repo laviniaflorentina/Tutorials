@@ -24,11 +24,11 @@ To get started with Colab there are two methods:
 
 1. **Direct link**: by accessing https://colab.research.google.com. This will open a page as shown below, and you are all set to start.
 
-If you are not logged in with a gmail account:
+If you are not logged in with a gmail account, it will probably look like this:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab1.png)
 
-If you are already logged in with a gmail account:
+If you are already logged in with a gmail account, it will probably look like this:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab2.png)
 
@@ -150,3 +150,51 @@ If you want to share the notebook file: click on **Share** (top right corner), a
 2. By link sharing. Here, you can customize the viewer rights: _viewer/ commenter/ editor_, as well as who might have access: _Restricted_ (only people with the link) or _Anyone on the internet with the link_.
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab12.png)
+
+# Jupyter Notebook
+
+To get started with Jupyter Notebook you can click the link https://cocalc.com/doc/jupyter-notebook.html. 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup1.png)
+
+There are two options: **Run Jupyter Now** or **Sign In** with a social network (Facebook, GitHub, etc.). For a better experience it's recommended to be Signed In.
+
+After Sign In, click on the button **Projects** (top left corner) to create a Project file - in order to manage all .py and dataset files. 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup2.png)
+
+Give a name to the Project (I used _Getting_started_) :arrow_right: **Create new project** :arrow_right: again **Create new project**.
+
+## New notebook
+
+It asks you to create or upload a file:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup3.png)
+
+I will start with creating a new file by giving a name and selecting its type as a **Jupyter Notebook**.
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup4.png)
+
+Next, you need to choose the kernel (the programming language) that you want to work with. I will go with _Python 3_. 
+
+If you typically use the same programming language all the time, then you can select "Do not ask, instead default to your most recent selection (..)" so that the next time it will open a file of the same type you created the last time. 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup5.png)
+
+Once you select the programming language it will finally open a new notebook!
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup6.png)
+
+## Main Features
+
+I will describe each feature marked in the above screenshot. 
+
+:one: The name of the file. The extension ".ipynb" is specifically for Python.
+
+:two: The name of the project where your notebook file is.
+
+:three: Represents an Input code cell. To run the code in the cell you can use the shortcut CTRL+Enter/Command+Enter.
+
+:four: Represents an Output of the code cell. 
+
+:five: Other Cell - related features:
