@@ -26,39 +26,30 @@ If you want to apply some of the exciting models that creates false images or vi
 
    - Derivatives
  
-## 2. [Artificial Neural Network Architectures](). What I cover:
+## 2. [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
  
-## 3. [Machine Learning](). What I cover:
+## 3. [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
  
  - Description
- 
  - Machine Learning Categories:
- 
    - Supervised Learning
-
    - Unsupervised Learning
-
    - Semi-Supervised Learning
-
    - Self-Supervised Learning
-
    - Reinforcement Learning
  
- ## 3. [Algorithms by tasks](). What I cover:
+ ## 3. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
  
  - Classification: 
- 
  - Clustering: 
- 
  - 
  
- ## 4. [Training](). What I cover:
+ ## 4. [Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
  
  -
- 
  -
  
- ## 5. [Evaluation](). What I cover:
+ ## 5. [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
  
  - Training Evaluation Methods
  
