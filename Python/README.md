@@ -62,23 +62,21 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 ### 1. [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
 
  - What is the difference between an IDE and a Code Editor?
- 
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
- 
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 2. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
+### 2. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+
+- Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
+- Jupyter Notebook ((New Notebook, Main Features)
+
+### 3. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
  - How a short program does it looks like?
- 
  - What are the main components of a program?
- 
    - Imports
-   
    - Input
-   
    - Defined functions/ Algorithms/ Build-in functions
-   
    - Output
 
 -------------------------------------------------------------------------------------------------------
