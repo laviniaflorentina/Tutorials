@@ -1,10 +1,10 @@
 # About Artificial Inteligence :thought_balloon:
 
-Artificial Inteligence (AI) is a field in Computer Science where the code is “dynamic”, being able to learn by itself from previous similar situations by “observing” (word substitute for “applying mathematical magic beasts”). Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
+**Artificial Inteligence (AI)** is a field in Computer Science where the code is _dynamic_, being able to learn by itself, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
 If you want to apply some of the exciting models that creates false images or videos of celebrities or drive self-driving cars, or if you just wonder about what Artificial Inteligence is about, you might find this repository useful.
 
-This repository aims to expose all the terminology used in Neural Networks, as well as to present and explain the most common used algorithms that you need to know in order to understand how to build your own model.
+This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
 
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
 
