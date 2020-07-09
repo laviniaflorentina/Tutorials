@@ -157,21 +157,23 @@ To get started with Jupyter Notebook you can click the link https://cocalc.com/d
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup1.png)
 
-There are two options: **Run Jupyter Now** or **Sign In** with a social network (Facebook, GitHub, etc.). For a better experience it's recommended to be Signed In.
+There are two options: **Run Jupyter Now** or **Sign In** with a social network (_Facebook, GitHub, etc._). For a better experience it's recommended to be Signed In.
 
-After Sign In, click on the button **Projects** (top left corner) to create a Project file - in order to manage all .py and dataset files. 
+After Sign In, click on the button **Projects** (top left corner) to create a Project file - in order to manage all .py and dataset files within that project. 
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup2.png)
 
-Give a name to the Project (I used _Getting_started_) :arrow_right: **Create new project** :arrow_right: again **Create new project**.
+Give a name to the Project (I used _Getting_started_), then click on :arrow_right: **+ Create New Project...** :arrow_right: again **+ Create New Project**. This is the main folder for the project.
 
 ## New notebook
 
-It asks you to create or upload a file:
+Next, in order to get a new notebook it asks you to create or upload a file:
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup3.png)
 
-I will start with creating a new file by giving a name and selecting its type as a **Jupyter Notebook**.
+Click on _+ Create or Upload Files_. 
+
+I will start with creating a new file by giving it a name (I used _first_jupyter_file_) and selecting its type as a **Jupyter Notebook**.
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/jup4.png)
 
@@ -198,3 +200,11 @@ I will describe each feature marked in the above screenshot.
 :four: Represents an Output of the code cell. 
 
 :five: Other Cell - related features:
+
+:mag_right: Zoom Out/Zoom In -- for font size; :scissors: Cut, :clipboard: Copy, :page_facing_up: Paste; 
+
+:heavy_plus_sign: create a new cell; :arrow_up:/:arrow_down: move the cell up/down; :arrow_forward: go run the next cell ; :black_medium_small_square: interrupt execution; :arrows_counterclockwise: restart the entire notebook; :fast_forward: run next cells.
+
+:six: Notebook presentation options.
+
+
