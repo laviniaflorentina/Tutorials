@@ -1,7 +1,5 @@
 # About this ... :dizzy: 
 
-# :construction: ... Work in Progress ... :construction:
-
 There are many tutorials, courses and papers already published regarding these topics ... _Why another one?!_ Because this one is meant to summarize all the others! 
 
 When I first started to learn about all this it felt to be overwhelming to follow up with the new technology tools. 
@@ -14,11 +12,75 @@ I created this repository to sum up all the things I found to be useful and all 
 # What can you find around here:
 
 ## 1. [Python](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
-This folder contains helpful information on some of the basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language.
+This folder contains helpful information on _What Python is, Basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language._
+
+### [Introduction](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
+
+### [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
+
+ - What is the difference between an IDE and a Code Editor?
+ - Some IDEs described: PyCharm, Eclipse, Visual Studio.
+ - Some Editors described: Sublime Text, Atom, Visual Studio Code.
+ 
+### [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+
+- Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
+- Jupyter Notebook (New Notebook, Main Features)
+
+### [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
+ 
+ - How a short program does it looks like?
+ - What are the main components of a program?
+   - Imports
+   - Input
+   - Defined functions/ Algorithms/ Build-in functions
+   - Output
 
 ## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
-This folder contains explanations about AI concepts, such as Artificial Neural Networks, Machine Learning and Deep Learning Algorithms. 
+This folder contains explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
 
+### [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
+
+ - What is an Artificial Neural Network?
+ - What are the main components and why do we need each of them?
+   - Weights, Bias and Layers
+   - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
+   - Derivatives
+ 
+### [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
+ 
+### [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
+ 
+ - Description
+ - Machine Learning Categories:
+   - Supervised Learning
+   - Unsupervised Learning
+   - Semi-Supervised Learning
+   - Self-Supervised Learning
+   - Reinforcement Learning
+ 
+ ### [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
+ 
+ - Classification: 
+ - Regression:
+ - Clustering: 
+ - Prediction:
+ 
+ ### [Training an AI model](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
+ 
+ ### [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
+ 
+ - Training Evaluation Methods
+ - Model Evaluation Methods
+ 
+ ### [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
+ 
+ - Why bother?
+ - About **CPU, GPU, TPU, FPGA**
+ - How to use these resources in your code?
+   - In Browser (Google Colab or Jupyter Notebooks)
+   - On HPC (or other High Performance Computing) 
+   
 ------------------------
 ## References
 
@@ -38,11 +100,8 @@ by _Yves Hilpisch_ - [Amazon](https://www.amazon.com/Python-Finance-Mastering-Da
 
 ### :computer: Websites
 
-[MIT Course of Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
-
-[MIT Resources for DL](https://deeplearning.mit.edu)
-
-Other:
+  - [MIT Course of Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
+  - [MIT Resources for DL](https://deeplearning.mit.edu)
   - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
   - https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
   - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
