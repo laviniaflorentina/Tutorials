@@ -14,20 +14,20 @@ I created this repository to sum up all the things I found to be useful and all 
 ## 1. [Python](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
 This folder contains helpful information on _What Python is, Basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language._
 
-### [Introduction](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
+### Introduction
 
-### [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
+### More about IDE & Editors. What I cover:
 
  - What is the difference between an IDE and a Code Editor?
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+### How to get started with Google Colab & Jupyter Notebook. What I cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
-### [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
+### Python code structure. What I cover:
  
  - How a short program does it looks like?
  - What are the main components of a program?
@@ -39,7 +39,7 @@ This folder contains helpful information on _What Python is, Basic steps of how 
 ## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
 This folder contains explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
 
-### [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
+### Introduction. What I cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
@@ -47,9 +47,9 @@ This folder contains explanations about AI concepts, such as _Artificial Neural 
    - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
    - Derivatives
  
-### [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
+### Artificial Neural Network Architectures. What I cover:
  
-### [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
+### Machine Learning. What I cover:
  
  - Description
  - Machine Learning Categories:
@@ -59,21 +59,21 @@ This folder contains explanations about AI concepts, such as _Artificial Neural 
    - Self-Supervised Learning
    - Reinforcement Learning
  
- ### [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
+ ### Algorithms by tasks. What I cover:
  
  - Classification: 
  - Regression:
  - Clustering: 
  - Prediction:
  
- ### [Training an AI model](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
+ ### Training an AI model. What I cover:
  
- ### [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
+ ### Evaluation. What I cover:
  
  - Training Evaluation Methods
  - Model Evaluation Methods
  
- ### [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
+ ### Hardware Parts for Training. What I cover:
  
  - Why bother?
  - About **CPU, GPU, TPU, FPGA**
