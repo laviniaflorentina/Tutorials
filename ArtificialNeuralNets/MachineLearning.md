@@ -38,6 +38,39 @@ Whenever the problem lies in one of the two subcategories: **regression** or **c
 
 **Classification** is the task of estimating or predicting discrete values (static values), processes which assigns meaning to items (tags, annotations, topics, etc.), having applications such as: image classification, spam detection, etc. using algorithms like _linear regression, Decision Tree_ and _Random Forests_. 
 
+### Supervised Learning in different areas:
+
+### Text (Natural Language Processing - NLP)
+
+- **Language Modelling**:
+- **Machine Translation**: 
+- **Text Classification**:
+- **Natural Language Inference**:
+- **Question Answering**:
+- **Named entity recognition**:
+- **Abstractive Summarization**:
+- **Dependency Parsing**: 
+
+### Image (Computer Vision)
+
+- **Image Classification**: 
+- **Instance Segmentation**:
+- **Visual Question Answering**:
+- **Person Re-identification**:
+
+
+### Audio (Automatic Speech Recognition - ASR)
+
+- **Speech to Text/ Text to Speech**: Speech to text and text to speech recognition systems-Areview - [paper](https://www.iosrjournals.org/iosr-jce/papers/Vol20-issue2/Version-1/E2002013643.pdf).
+
+- **Speech recognition**: [paper](https://arxiv.org/pdf/1512.02595v1.pdf) & [code](https://github.com/tensorflow/models/tree/master/research/deep_speech), Real-Time Voice Cloning - [code](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+
+- **Speech Synthesis**: Natural TTS Synthesis by conditioning wavenet on MEL spectogram predictions - [paper](https://arxiv.org/pdf/1712.05884v2.pdf) & [code](https://github.com/NVIDIA/tacotron2) & [explained](https://github.com/codetendolkar/tacotron-2-explained)(using Tacotron 2 method); Other method: [WaveNet] (https://github.com/r9y9/wavenet_vocoder) - [paper](https://arxiv.org/pdf/1609.03499v2.pdf) & [code](https://github.com/maciejkula/spotlight).
+
+- **Speeche Enhancement**: Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression - [paper](https://arxiv.org/pdf/2005.07551.pdf) & [code](https://github.com/breizhn/DTLN).
+
+- **Speaker Verification**: Text Independant Speaker Verification - [code](https://github.com/Suhee05/Text-Independent-Speaker-Verification).
+
 ## 2.	Unsupervised Learning
 
 Unsupervised learning, on the other hand, is dealing with unlabeled datasets, being forced to find patterns on its own by extracting useful features from provided data and analyzing its structure.
