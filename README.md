@@ -8,9 +8,16 @@ When I first started to learn about all this it felt to be overwhelming to follo
 
 Even though there are lots of other online materials for free, especially as a beginner, it's difficult to find all you need to know in one place so you end up with even more questions and several tabs opened in your browser.. :bookmark_tabs: :hear_no_evil:
 
-If you would like a smooth transition in deep learning concepts, you need to follow the materials in a sequential order.
+I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
-Enjoy! :smile:
+------------------------
+# What can you find around here:
+
+## 1. [Python](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
+This folder contains helpful information on some of the basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language.
+
+## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
+This folder contains explanations about AI concepts, such as Artificial Neural Networks, Machine Learning and Deep Learning Algorithms. 
 
 ------------------------
 ## References
