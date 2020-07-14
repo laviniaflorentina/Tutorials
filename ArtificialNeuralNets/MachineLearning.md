@@ -4,7 +4,7 @@ Content:
 
 [Description](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#description)
 
-[Machine Learning Categories:](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#machine-learning-categories)
+[Machine Learning Categories by the level of human supervision:](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#machine-learning-categories)
   1. [Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#1supervised-learning)
   2. [Unsupervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#2unsupervised-learning)
   3. [Semi-Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#3semi-supervised-learning)
