@@ -98,11 +98,11 @@ This learning method is being used for tasks such as: _clustering, data visualiz
 
 ### Text (Natural Language Processing - NLP)
 
-- **Language Modelling**:  - [paper]() & [code]().
-- **Machine Translation**:  - [paper]() & [code]().
-- **Text Classification**:  - [paper]() & [code]().
-- **Question Answering**:  - [paper]() & [code]().
-- **Abstractive Summarization**:  - [paper]() & [code]().
+- **Language Modelling**: Improving Language Understanding by Generative Pre-Training - [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) & [code](https://github.com/openai/finetune-transformer-lm).
+- **Machine Translation**: Unsupervised Neural Machine Translation with Weight Sharing - [paper](https://arxiv.org/pdf/1804.09057.pdf) & [code](https://github.com/facebookresearch/UnsupervisedMT).
+- **Text Classification**: Unsupervised Text Classification for Natural Language Interactive Narratives - [paper](https://people.ict.usc.edu/~gordon/publications/INT17A.PDF) & code not provided.
+- **Question Answering**: Language Models are Unsupervised Multitask Learner - [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [code](https://github.com/hanchuanchuan/gpt-2).
+- **Abstractive Summarization**: Centroid-based Text Summarization through Compositionality of Word Embeddings - [paper](https://www.aclweb.org/anthology/W17-1003.pdf) & [code](https://github.com/gaetangate/text-summarizer).
 
 ### Image (Computer Vision)
 
