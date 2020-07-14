@@ -21,7 +21,7 @@ It is been around for decades and nowadays it is present in so many shapes that 
 Every such application uses a specific learning system and we can categorize these systems by different criteria. We call them _supervised, unsupervised, semi-supervised, self-supervised_ or _reinforcement learning_ by the level of human supervision, _online_ or _batch learning_ depending on weather they are pretrained or learn on-the-spot and _instance-based_ or _model-based learning_ if it compares receiving data to known data points, or if otherwise detects patterns in the training data and builds a predictive model.
 
 ----------------------------------------
-# Machine Learning Categories
+# Machine Learning Categories by the level of human supervision
 ## 1.	Supervised Learning
 
 Supervised learning is the most common method because of its advantage of using known target to correct itself. 
