@@ -53,19 +53,18 @@ Whenever the problem lies in one of the two subcategories: **regression** or **c
 
 ### Image (Computer Vision)
 
+- **Semantic Segmentation**: ResNeSt: Split-Attention Networks - [paper](https://arxiv.org/pdf/2004.08955v1.pdf) & code [Tensorflow](https://github.com/dmlc/gluon-cv)/[PyTorch](https://github.com/zhanghang1989/ResNeSt).
 - **Image Classification**: 
-- **Instance Segmentation**:
 - **Visual Question Answering**:
 - **Person Re-identification**:
-
 
 ### Audio (Automatic Speech Recognition - ASR)
 
 - **Speech to Text/ Text to Speech**: Speech to text and text to speech recognition systems-Areview - [paper](https://www.iosrjournals.org/iosr-jce/papers/Vol20-issue2/Version-1/E2002013643.pdf).
 
-- **Speech recognition**: [paper](https://arxiv.org/pdf/1512.02595v1.pdf) & [code](https://github.com/tensorflow/models/tree/master/research/deep_speech), Real-Time Voice Cloning - [code](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+- **Speech recognition**: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin - [paper](https://arxiv.org/pdf/1512.02595v1.pdf) & [code](https://github.com/tensorflow/models/tree/master/research/deep_speech), Real-Time Voice Cloning - [code](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
 
-- **Speech Synthesis**: Natural TTS Synthesis by conditioning wavenet on MEL spectogram predictions - [paper](https://arxiv.org/pdf/1712.05884v2.pdf) & [code](https://github.com/NVIDIA/tacotron2) & [explained](https://github.com/codetendolkar/tacotron-2-explained)(using Tacotron 2 method); Other method: [WaveNet] (https://github.com/r9y9/wavenet_vocoder) - [paper](https://arxiv.org/pdf/1609.03499v2.pdf) & [code](https://github.com/maciejkula/spotlight).
+- **Speech Synthesis**: Natural TTS Synthesis by conditioning wavenet on MEL spectogram predictions - [paper](https://arxiv.org/pdf/1712.05884v2.pdf) & [code](https://github.com/NVIDIA/tacotron2) & [explained](https://github.com/codetendolkar/tacotron-2-explained)(using Tacotron 2 method); Other method: [WaveNet](https://github.com/r9y9/wavenet_vocoder) - [paper](https://arxiv.org/pdf/1609.03499v2.pdf) & [code](https://github.com/maciejkula/spotlight).
 
 - **Speeche Enhancement**: Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression - [paper](https://arxiv.org/pdf/2005.07551.pdf) & [code](https://github.com/breizhn/DTLN).
 
@@ -95,7 +94,30 @@ This learning method is being used for tasks such as: _clustering, data visualiz
 
    - An anomaly detection algorithm used before a learning method will eliminate possible outliers, improving the dataset quality.
 
-Some specific areas include recommender systems, targeted marketing and customer segmentation, big data visualization, etc.
+### Unsupervised Learning in different areas:
+
+### Text (Natural Language Processing - NLP)
+
+- **Language Modelling**:  - [paper]() & [code]().
+- **Machine Translation**:  - [paper]() & [code]().
+- **Text Classification**:  - [paper]() & [code]().
+- **Question Answering**:  - [paper]() & [code]().
+- **Abstractive Summarization**:  - [paper]() & [code]().
+
+### Image (Computer Vision)
+
+- **Semantic Segmentation**:  - [paper]() & code .
+- **Image Classification**:  - [paper]() & [code]().
+- **Object Recognition**:  - [paper]() & [code]().
+- **Person Re-identification**:  - [paper]() & [code]().
+
+### Audio (Automatic Speech Recognition - ASR)
+
+- **Speech to Text/ Text to Speech**:  - [paper]().
+- **Speech recognition**:  - [paper]() & [code]().
+- **Speech Synthesis**:  - [paper]() & [code]().
+- **Speeche Enhancement**:  - [paper]() & [code]().
+- **Speaker Verification**:  - [code]().
 
 ## 3.	Semi-supervised Learning
 
@@ -109,6 +131,31 @@ Semi-Supervised learning is used when have both labeled and unlabeled data.
 
 Some Semi-Supervised Algorithms include: **self-training, generative methods, mixture models, graph-based methods, co-training, semi-supervised SVM** and many others. 
 
+### Semi-supervised Learning in different areas:
+
+### Text (Natural Language Processing - NLP)
+
+- **Language Modelling**:  - [paper]() & [code]().
+- **Machine Translation**:  - [paper]() & [code]().
+- **Text Classification**:  - [paper]() & [code]().
+- **Question Answering**:  - [paper]() & [code]().
+- **Abstractive Summarization**:  - [paper]() & [code]().
+
+### Image (Computer Vision)
+
+- **Semantic Segmentation**:  - [paper]() & code .
+- **Image Classification**: Fixing the train-test resolution discrepancy - [paper](https://arxiv.org/pdf/2003.08237v4.pdf) & [code](https://github.com/facebookresearch/FixRes).
+- **Object Recognition**:  - [paper]() & [code]().
+- **Person Re-identification**:  - [paper]() & [code]().
+
+### Audio (Automatic Speech Recognition - ASR)
+
+- **Speech to Text/ Text to Speech**:  - [paper]().
+- **Speech recognition**:  - [paper]() & [code]().
+- **Speech Synthesis**:  - [paper]() & [code]().
+- **Speeche Enhancement**:  - [paper]() & [code]().
+- **Speaker Verification**:  - [code]().
+
 ## 4.	Self-supervised Learning
 
 Self-supervised learning is the method with a level of supervision similar with the fully supervised method, but the labels here are automatically generated, typically by a heuristic algorithm, from the input data. After the label extraction, the following steps are similar as in the supervised learning algorithm.
@@ -119,6 +166,30 @@ Supervised learning is a safe bet, but it is limited. Unsupervised and Self-supe
 
 Self-Supervised Learning is mostly use for motion-object detection as in this [paper](https://arxiv.org/pdf/1905.11137.pdf) & [code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/). Here is [a list of other papers](https://github.com/jason718/awesome-self-supervised-learning) using self-supervised learning.
 
+### Self-supervised Learning in different areas:
+
+### Text (Natural Language Processing - NLP)
+
+- **Language Modelling**:  - [paper]() & [code]().
+- **Machine Translation**:  - [paper]() & [code]().
+- **Text Classification**:  - [paper]() & [code]().
+- **Question Answering**:  - [paper]() & [code]().
+- **Abstractive Summarization**:  - [paper]() & [code]().
+
+### Image (Computer Vision)
+
+- **Semantic Segmentation**:  - [paper]() & code .
+- **Image Classification**:  - [paper]() & [code]().
+- **Object Recognition**:  - [paper]() & [code]().
+- **Person Re-identification**:  - [paper]() & [code]().
+
+### Audio (Automatic Speech Recognition - ASR)
+
+- **Speech to Text/ Text to Speech**:  - [paper]().
+- **Speech recognition**:  - [paper]() & [code]().
+- **Speech Synthesis**:  - [paper]() & [code]().
+- **Speeche Enhancement**:  - [paper]() & [code]().
+- **Speaker Verification**:  - [code]().
 
 ## 5.	Reinforcement Learning (RL) 
 
