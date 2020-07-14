@@ -4,7 +4,7 @@ There are many tutorials, courses and papers already published regarding these t
 
 When I first started to learn about all this it felt to be overwhelming to follow up with the new technology tools. 
 
-Even though there are lots of other online materials for free, especially as a beginner, it's difficult to find all you need to know in one place so you end up with even more questions and several tabs opened in your browser.. :bookmark_tabs: :hear_no_evil:
+Even though there are lots of other online materials for free, especially as a beginner, it's difficult to find all you need to know in one place so you end up with even more questions and several tabs opened in your browser ... :bookmark_tabs: :hear_no_evil:
 
 I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
