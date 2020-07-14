@@ -2,14 +2,14 @@
 
 Content:
 
-[Description]()
+[Description](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#description)
 
-[Machine Learning Categories:]()
-  1. [Supervised Learning]()
-  2. [Unsupervised Learning]()
-  3. [Semi-Supervised Learning]()
-  4. [Self-Supervised Learning]()
-  5. [Reinforcement Learning]()
+[Machine Learning Categories:](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#machine-learning-categories)
+  1. [Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#1supervised-learning)
+  2. [Unsupervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#2unsupervised-learning)
+  3. [Semi-Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#3semi-supervised-learning)
+  4. [Self-Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#4self-supervised-learning)
+  5. [Reinforcement Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#5reinforcement-learning-rl)
 
 ----------------------------------------
 # Description 
