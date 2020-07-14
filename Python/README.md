@@ -68,7 +68,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 ### 2. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
-- Jupyter Notebook ((New Notebook, Main Features)
+- Jupyter Notebook (New Notebook, Main Features)
 
 ### 3. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
