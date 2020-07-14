@@ -47,7 +47,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
   - From your terminal: [tutorial needed]
   
-  - From an IDE: [tutorial needed]
+  - From an IDE: [tutorial](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/clone_git_pycharm.md)
   
   - From browser: [tutorial needed]
 
