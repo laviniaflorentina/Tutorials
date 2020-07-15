@@ -2,7 +2,7 @@
 
 Content:
 
-[Description](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#description)
+[Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#introduction)
 
 [Machine Learning Categories by the level of human supervision:](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#machine-learning-categories)
   1. [Supervised Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#1supervised-learning)
@@ -12,7 +12,7 @@ Content:
   5. [Reinforcement Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#5reinforcement-learning-rl)
 
 ----------------------------------------
-# Description 
+# Introduction 
 
 **Machine Learning (ML)** is the computer programming field where the machine is led to learn from data. In contrast with traditional programming approaches where the developer had to continuously improve the code, machine learning aims to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
