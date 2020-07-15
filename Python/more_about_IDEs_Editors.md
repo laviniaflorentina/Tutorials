@@ -5,7 +5,7 @@ Content
 - [Some IDEs described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#ides)
 - [Some Editors described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#editors)
 
-## What is the difference between an IDE and a Code Editor?
+# What is the difference between an IDE and a Code Editor?
 
 An **IDE** (Integrated Development Environment) is a program specifically designed for software development. When you install an IDE, it usually comes with tools such as:
 
@@ -23,7 +23,7 @@ A **code editor** is like a text editor with syntax highlighting and code format
 
 Compared to an IDE, a good dedicated code editor is usually smaller and quicker, but has less cool features.
 
-## IDEs
+# IDEs
 
 1. [PyCharm](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#1-pycharm) 
 
@@ -55,7 +55,7 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: Visual Studio is a big download for just Python. Plus, if you’re on Linux, you’re out of luck: there’s no Visual Studio install for that platform.
 
-## Editors
+# Editors
 
 1. [Sublime Text](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#1-sublime-text) 
 
@@ -81,7 +81,7 @@ Eclipse is an integrated development environment used in computer programming. I
 
 ### 3. Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com/docs) Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. - _Wikipedia_
+[Visual Studio Code](https://code.visualstudio.com/docs) is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. - _Wikipedia_
 
 :grinning: It is very light in weight and takes very little time to start. VS Code is really good at allowing customization and extensibility. There are a ton of extensions to use for all types of workflow enhancement. 
 
