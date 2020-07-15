@@ -26,8 +26,8 @@ This repository exposes all the terminology used in Neural Networks, as well as 
  
 ## 3. [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
  
- - Description
- - Machine Learning Categories:
+ - Introduction
+ - Machine Learning Categories by the level of human supervision:
    - Supervised Learning
    - Unsupervised Learning
    - Semi-Supervised Learning
