@@ -4,13 +4,17 @@
 
 Let's say you want to run a project from GitHub. They usually have multiple folders, subfolders and other interconnected function files which cannot be easily managed in an Online Notebook due to memory limilations. 
 
-The good news is if you have access to a server with better resources than your computer, you can clone the repository on that server and work on it from your IDE.  
+However, you can still do this with having access to a server with better resources! 
+
+This tutorial shows how to clone the repository on a server and work on it from your IDE.  
 
 -------------------------------
 ## **Step 1.** Connect to VPN 
 Everytime you try to access the HPC server you need to be connected to the UNT VPN. Not sure how? Check [this tutorial](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn).
 
 ## **Step 2.** Go to the main page of the repository you want to clone. Copy the repo link. 
+
+## The following two steps will clone the repository to your server:
 
 ## **Step 3.** Open terminal/command prompt window and login to your HPC account by typing: **ssh youraccount@vis.hpc.unt.edu**, press Enter and fill in your password.
 
@@ -27,6 +31,10 @@ It looks like I am in the home folder of my user so I can go ahead and clone the
 ## **Step 4.** In the folder you decide to copy the repository type: **git clone git_repo_link** as in the example below.
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/clone3.png)
+
+
+## Next, we need to open the IDE and corellate it with the file earlier created on the server. We will do this by downloading the project from server to the local machine and match their paths so that everything you do in the IDE will actually run on the server: 
+
 
 ## **Step 5.** Open PyCharm and choose "**+ Create new project**".
 
