@@ -51,13 +51,13 @@ This folder contains explanations about AI concepts, such as _Artificial Neural 
  
 ### Machine Learning. What I cover:
  
- - Description
- - Machine Learning Categories:
-   - Supervised Learning
-   - Unsupervised Learning
-   - Semi-Supervised Learning
-   - Self-Supervised Learning
-   - Reinforcement Learning
+ - Introduction
+ - Machine Learning Categories by the level of human supervision:
+   - Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Unsupervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Semi-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
  
  ### Algorithms by tasks. What I cover:
  
