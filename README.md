@@ -61,10 +61,10 @@ This folder contains explanations about AI concepts, such as _Artificial Neural 
  
  ### Algorithms by tasks. What I cover:
  
- - Classification: 
- - Regression:
- - Clustering: 
- - Prediction:
+ - Classification: Binary, Multiclass, Multilabel. Logistic Regression, SVMs, or Random Forest classifiers
+ - Regression: 
+ - Clustering: Soft clustering , Hard clustering K - Means,
+ - Dimensionality reduction: PCA, T-SNE, Autoencoders, SVD.
  
  ### Training an AI model. What I cover:
  
