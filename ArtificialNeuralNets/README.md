@@ -28,11 +28,11 @@ This repository exposes all the terminology used in Neural Networks, as well as 
  
  - Introduction
  - Machine Learning Categories by the level of human supervision:
-   - Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image (Computer Vision), Audio (Automatic Speech Recognition).
-   - Unsupervised Learning in different areas: Text - Natural Language Processing (NLP), Image (Computer Vision), Audio (Automatic Speech Recognition)
-   - Semi-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image (Computer Vision), Audio (Automatic Speech Recognition)
-   - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image (Computer Vision), Audio (Automatic Speech Recognition)
-   - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image (Computer Vision), Audio (Automatic Speech Recognition)
+   - Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Unsupervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Semi-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
+   - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision), Audio - Automatic Speech Recognition (ASR).
  
  ## 3. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
  
