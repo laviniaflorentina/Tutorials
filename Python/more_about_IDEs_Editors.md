@@ -5,6 +5,8 @@ Content
 - [Some IDEs described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#ides)
 - [Some Editors described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#editors)
 
+-----------------------
+
 # What is the difference between an IDE and a Code Editor?
 
 An **IDE** (Integrated Development Environment) is a program specifically designed for software development. When you install an IDE, it usually comes with tools such as:
@@ -22,6 +24,8 @@ A **code editor** is like a text editor with syntax highlighting and code format
 - The very best ones: interact with source control systems as well. 
 
 Compared to an IDE, a good dedicated code editor is usually smaller and quicker, but has less cool features.
+
+-----------------------
 
 # IDEs
 
@@ -54,6 +58,8 @@ Eclipse is an integrated development environment used in computer programming. I
 :grinning: Enables Python coding in Visual Studio, as well as Intellisense for Python, debugging, and other tools.
 
 :unamused: Visual Studio is a big download for just Python. Plus, if you’re on Linux, you’re out of luck: there’s no Visual Studio install for that platform.
+
+-----------------------
 
 # Editors
 
