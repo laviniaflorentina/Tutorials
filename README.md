@@ -12,7 +12,7 @@ I created this repository to sum up all the things I found to be useful and all 
 # What can you find around here:
 
 ## 1. [Python](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
-This folder contains helpful information on _What Python is, Basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language._
+This folder provides helpful information on _What Python is, Basic steps of how to get started with Python, as well as a brief overview on the most frequently used functions and commands in this programming language._
 
 ### Introduction
 
@@ -37,7 +37,7 @@ This folder contains helpful information on _What Python is, Basic steps of how 
    - Output
 
 ## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
-This folder contains explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
+This folder brings forth explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
 
 ### Introduction. What I cover:
 
