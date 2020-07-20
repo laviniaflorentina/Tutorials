@@ -19,7 +19,7 @@ This repository exposes all the terminology used in Neural Networks, as well as 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
    - Weights, Bias and Layers
-   - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
+   - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
    - Derivatives
  
 ## 2. [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
