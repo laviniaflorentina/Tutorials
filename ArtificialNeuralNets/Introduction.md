@@ -2,11 +2,17 @@
 ## :construction: ... Work in Progress ... :construction:
 
 Content:
-- [What is an Artificial Neural Network?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-is-an-artificial-neural-network)
-- [What are the main components and why do we need each of them?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-are-the-main-components-and-why-do-we-need-each-of-them)
-    - Weights, Bias and Layers
-    - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
-    - Derivatives
+
+[What is an Artificial Neural Network?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-is-an-artificial-neural-network)
+
+[What are the main components and why do we need each of them?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-are-the-main-components-and-why-do-we-need-each-of-them)
+
+- Weights, Bias and Layers
+
+- Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
+
+- Derivatives
+    
 ----------------------------------
 
 ## What is an Artificial Neural Network?
@@ -25,9 +31,9 @@ A **node (neuron)** is just **a place where computation happens**. It receives i
 
 The input-weights are multiplied between each other and summed up. The sum is passed through a node’s so-called **activation function**, to determine whether or to what extent that signal should progress further through the network to affect the ultimate outcome. If the signal passes through, the neuron has been **activated**.
 
-### What are the main components and why do we need each of them?
+## What are the main components and why do we need each of them?
 
-#### 1. Why do we need Weights, Bias and Layers?
+### 1. Why do we need Weights, Bias and Layers?
 
 **Weight** shows the strength of the particular node. In other words, the weight is the assigned significance of an input in comparison with the relative importance of other inputs.
 
@@ -41,7 +47,7 @@ A neural network can usually consist of three types of nodes:
 
    - **Output Nodes** – they are collectively referred to as the “Output Layer” and are responsible for computations and mapping information from the network to the outside world.
 
-#### 2. Why do we need Activation Function?
+### 2. Why do we need Activation Function?
 
 Also known as Transfer Function, it is used to determine the output of neural network like yes or no. It maps the resulting values in between (0, 1) or (-1, 1) etc. (depending upon the type of function).
 
@@ -65,7 +71,7 @@ The most common non-linear activation functions are:
 - Tanh or hyperbolic tangent Activation Function
 - ReLU (Rectified Linear Unit) Activation Function 
 
-#### 3. Why the derivative/differentiation is being used?
+### 3. Why the derivative/differentiation is being used?
 
 We use differentiation in almost every part of Machine Learning and Deep Learning, because when updating the curve, we need to know in which direction and how much to change or update the curve depending upon the slope. 
 
