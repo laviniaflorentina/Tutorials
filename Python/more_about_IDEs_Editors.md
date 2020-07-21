@@ -95,7 +95,7 @@ Eclipse is an integrated development environment used in computer programming. I
 
 --------------------------
 
-<img align="left" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="200" height="200">
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="200" height="200">
 
 
 <div align="right">
