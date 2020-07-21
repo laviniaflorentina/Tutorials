@@ -47,9 +47,11 @@ The neural network architecture represents the way in which the elements of the 
 
 # 1.	Feedforward Neural Networks (FF)
 
-Feedforward Neural Networks were the first type of Artificial Neural Network. These kinds of nets have a large variance but there are mainly two pioneers:
+Feedforward Neural Networks were the first type of Artificial Neural Network. These kinds of nets have a large variance but there are mainly the following:
 
-## 1.1.	Singe-layer Perceptron (Perceptron) - [Coursera](https://www.coursera.org/lecture/mind-machine-computational-vision/perceptrons-4AT1O)
+## 1.1.	Perceptron
+
+### a). Singe-layer Perceptron (Perceptron) - [Coursera](https://www.coursera.org/lecture/mind-machine-computational-vision/perceptrons-4AT1O)
 
 The **perceptron** is the simplest type of feedforward neural network, compost of only one neuron, where:  
 
@@ -69,7 +71,7 @@ The issue with individual neurons rapidly arises when trying to solve every day 
 
 And so, the creation of an Artificial Neural Network with more neurons seems to be the answer.
 
-## 1.2.	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
+### b).	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="220" height="170" > 
 
@@ -85,7 +87,7 @@ Contrasting single layer perceptrons, MLPs are capable to manipulate non-linearl
 
 Therefore, these nets are used in many applications, but not by themselves. Most of the time they stand as a pillar of support in the construction of the next neural networks’ architecture. 
 
-# 2.	Radial Basis Function (RBF) Neural Network 
+## 1.2.	Radial Basis Function (RBF) Neural Network 
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png" width="280" height="180" > 
 
@@ -107,7 +109,7 @@ Moreover, Wikipedia says:
 
 RBF nets are used in [function approximation](https://github.com/andrewdyates/Radial-Basis-Function-Neural-Network/blob/master/CSE779LabReport2.pdf) ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.6019&rep=rep1&type=pdf) & [code](https://github.com/thomberg1/UniversalFunctionApproximation)), time series prediction ([paper](https://dl.acm.org/doi/pdf/10.1145/3305160.3305187) & [code](https://www.mathworks.com/matlabcentral/fileexchange/66216-mackey-glass-time-series-prediction-using-radial-basis-function-rbf-neural-network)), and machine/system control (for example as a replacement of Partial Integral Derivative controllers). 
 
-# 3.	Deep Feedforward Network (DFF) - [Coursera](https://www.coursera.org/lecture/ai/deep-feed-forward-neural-networks-kfTED)
+## 1.3.	Deep Feedforward Network (DFF) - [Coursera](https://www.coursera.org/lecture/ai/deep-feed-forward-neural-networks-kfTED)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann6.png" width="200" height="180" > 
 
@@ -126,9 +128,9 @@ Nowadays, a series of effective methods for training DFF have been developed, wh
 
 DFF is being used for automatic language identification (the process of automatically identifying the language spoken or written: [paper](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42538.pdf), [paper](https://arxiv.org/pdf/1708.04811.pdf) & [code](https://github.com/HPI-DeepLearning/crnn-lid)), acoustic modeling for speech recognition ([thesis](https://mi.eng.cam.ac.uk/~mjfg/thesis_cw564.pdf), [paper](https://arxiv.org/pdf/1809.02108.pdf) & [code](https://github.com/amitai1992/AutomatedLipReading)), and other.
 
-# 4.	Recurrent Networks 
+# 2.	Recurrent Networks 
 
-## 4.1. Recurrent Neural Networks (RNN) – [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model-ftkzt) 
+## 2.1. Recurrent Neural Networks (RNN) – [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model-ftkzt) 
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png" width="280" height="180" > 
 
@@ -146,7 +148,7 @@ The most common examples of such contexts are texts — a word can be analyzed o
 
 [More on RNN](https://github.com/kjw0612/awesome-rnn) - A curated list of resources dedicated to recurrent neural networks.
 
-## 4.2.	Long-Short Term Memory (LSTM) Neural Networks - [Coursera](https://www.coursera.org/lecture/tensorflow-sequences-time-series-and-prediction/lstm-5Iebr)
+## 2.2.	Long-Short Term Memory (LSTM) Neural Networks - [Coursera](https://www.coursera.org/lecture/tensorflow-sequences-time-series-and-prediction/lstm-5Iebr)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png" width="280" height="180" > 
 
@@ -164,7 +166,7 @@ Note that there are **no activation functions** between blocks.
 
 LSTM networks are used when we have timeseries data, such as: video frame processing ([paper](https://arxiv.org/pdf/1909.05622.pdf) & [code](https://github.com/matinhosseiny/Inception-inspired-LSTM-for-Video-frame-Prediction)), writing generator ([article w/ code](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/), [article w/ code](https://medium.com/towards-artificial-intelligence/sentence-prediction-using-word-level-lstm-text-generator-language-modeling-using-rnn-a80c4cda5b40)) as it can “keep in mind” something that happened many frames/ sentences ago. 
 
-## 4.3.	Gated Recurrent Unit (GRU) Neural Networks - [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
+## 2.3.	Gated Recurrent Unit (GRU) Neural Networks - [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann9.png" width="250" height="180" > 
 
@@ -174,9 +176,9 @@ LSTM networks are used when we have timeseries data, such as: video frame proces
 
 They are currently used in similar applications as LSTMs.
 
-# 5.	Auto-Encoder Networks
+# 3.	Auto-Encoder Networks
 
-## 5.1. Auto-Encoder (AE) Neural Networks - [Coursera](https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python)
+## 3.1. Auto-Encoder (AE) Neural Networks - [Coursera](https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann10.png" width="145" height="200"> 
 
@@ -189,7 +191,7 @@ The fact that AE is trained such that the output is as close as possible to the 
 
 Auto-encoders can only answer questions like: "How do we summarize the data?", so they are used for classification, clustering and feature compression in problems like face recognition and acquiring semantic meaning of words.  
 
-## 5.2. Variational Auto-Encoder (VAE) Neural Networks - [Coursera](https://www.coursera.org/projects/image-compression-generation-vae)
+## 3.2. Variational Auto-Encoder (VAE) Neural Networks - [Coursera](https://www.coursera.org/projects/image-compression-generation-vae)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann11.png" width="150" height="200" > 
 
@@ -216,7 +218,7 @@ They are powerful generative models with vast applications, including generating
 
 Other paper & code.
 
-## 5.3.	Denoising Auto-Encoder (DAE) Neural Networks - [Coursera](https://www.coursera.org/projects/autoencoders-image-denoising)
+## 3.3.	Denoising Auto-Encoder (DAE) Neural Networks - [Coursera](https://www.coursera.org/projects/autoencoders-image-denoising)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann12.png" width="150" height="200" > 
 
@@ -229,7 +231,7 @@ By doing this, a forced noise reduction auto-encoder reconstructs the output fro
 
 They are important for feature selection and extraction and the main usage of this network is to recover a clean input from a corrupted version, such as image denoising (super resolution) for medical purposes.
 
-## 5.4.	Sparse Auto-Encoder (SAE) Neural Networks
+## 3.4.	Sparse Auto-Encoder (SAE) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann13.png" width="150" height="200" > 
 
@@ -241,7 +243,7 @@ Here, the number of hidden cells is greater than the number of input or output c
 
 This type of auto-encoders can be used in popularity prediction (as this paper studied the prediction of Instagram posts popularity), and machine translation.
 
-# 6.	Markov Chain (MC) Neural Networks - [Coursera](https://www.coursera.org/lecture/bayesian-methods-in-machine-learning/markov-chains-uGsUe)
+# 4.	Markov Chain (MC) Neural Networks - [Coursera](https://www.coursera.org/lecture/bayesian-methods-in-machine-learning/markov-chains-uGsUe)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann14.png" width="180" height="200" > 
 
@@ -253,7 +255,7 @@ Each of its endpoints is assigned with a certain probability.
 In the past, it’s been used to construct a text structure like "dear" appears after "Hello" with a probability of 0.0053%.
 They can be used as **probability-based categories** (like Bayesian filtering), for **clustering** and also as finite state machines.
 
-# 7.	Hopfield Network (HN) Neural Networks
+# 5.	Hopfield Network (HN) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann15.png" width="180" height="200" > 
 
@@ -269,9 +271,9 @@ Each cell serves as input cell before training, as hidden cell during training a
 
 As HNs are able to discern the information even if corrupted, they can be used for denoising and restoring inputs. Given a half of learned picture or sequence, they will return a full object.
 
-# 8.	Boltzmann Networks
+# 6.	Boltzmann Networks
 
-## 8.1. Boltzmann Machine (BM) Neural Networks
+## 6.1. Boltzmann Machine (BM) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann16.png" width="180" height="190" > 
 
@@ -289,7 +291,7 @@ They don’t have the typical 1 or 0 type output through which patterns are lear
 
 Multi-layered Boltzmann machines can be used for so-called Deep Belief Networks.
 
-## 8.2.	Restricted Boltzmann Machine (RBM) Neural Networks - [Coursera](https://www.coursera.org/lecture/building-deep-learning-models-with-tensorflow/introduction-to-restricted-boltzmann-machines-XEYUx)
+## 6.2.	Restricted Boltzmann Machine (RBM) Neural Networks - [Coursera](https://www.coursera.org/lecture/building-deep-learning-models-with-tensorflow/introduction-to-restricted-boltzmann-machines-XEYUx)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann17.png" width="150" height="200" > 
 
@@ -299,7 +301,7 @@ The **Restricted Boltzmann Machines** are very similar to BMs in structure, but 
 
 Restricted Boltzmann machine is an algorithm useful for dimensionality reduction, collaborative filtering, feature learning and topic modeling with practical application, for example, in speech recognition. 
 
-# 9.	Deep Belief Network (DBN) Neural Networks
+# 7.	Deep Belief Network (DBN) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann18.png" width="280" height="190" > 
 
@@ -309,9 +311,9 @@ Restricted Boltzmann machine is an algorithm useful for dimensionality reduction
 
 Deep belief networks can be used for feature detection and extraction.
 
-# 10.	Convolutional Networks
+# 8.	Convolutional Networks
 
-## 10.1. Deep Convolutional Network (DCN) Neural Networks - [Coursera](https://www.coursera.org/learn/convolutional-neural-networks)
+## 8.1. Deep Convolutional Network (DCN) Neural Networks - [Coursera](https://www.coursera.org/learn/convolutional-neural-networks)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann19.png" width="280" height="190" > 
 
@@ -325,7 +327,7 @@ There is a small window sliding over along the image, analyzing pixel by pixel. 
 
 In terms of image recognition, the first layer identifies the gradient, the second layer identifies the line, and the third layer identifies the shape, and so on, up to the level of a particular object. DFF is usually attached to the end of the convolution layer for future data processing.
 
-## 10.2. Deconvolutional Neural Network (DNN) Neural Networks
+## 8.2. Deconvolutional Neural Network (DNN) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20.png"  width="200" height="210" > 
 
@@ -341,7 +343,7 @@ You could tell the network “cat” and it will try to project it’s understan
 
 DNN by itself is not entirely powerful, but when used in conjunction with some other structures, it can become very useful.
 
-## 10.3. Deep Convolutional Inverse Graphics Network (DCIGN)
+## 8.3. Deep Convolutional Inverse Graphics Network (DCIGN)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann21.png" width="280" height="200" > 
 
@@ -354,7 +356,7 @@ Most of these networks can be used in image processing and can process images th
 They can be used to remove something from a picture, redraw it, or replace a horse with a zebra like the famous CycleGAN.
 There are also many other types such as atrous convolutions and separable convolutions, that you can learn more about here.
 
-# 11.	Generative Adversarial Neural Networks (GAN) - [Coursera](https://www.coursera.org/projects/generative-adversarial-networks-keras)
+# 9.	Generative Adversarial Neural Networks (GAN) - [Coursera](https://www.coursera.org/projects/generative-adversarial-networks-keras)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann22.png"  width="300" height="200" > 
 
@@ -366,7 +368,7 @@ As long as you can maintain the balance between the training of the two neural n
 
 They are used in text to **image generation** ([paper](), [code]()), **image to image translation** ([paper](), [code]()), **increasing image resolution** ([paper](), [code]()) and **predicting next video frame** ([paper](), [code]()).
 
-# 12.	Liquid State Machine (LSM) Neural Networks
+# 10.	Liquid State Machine (LSM) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann23.png"  width="240" height="200" > 
 
@@ -376,7 +378,7 @@ They are used in text to **image generation** ([paper](), [code]()), **image to 
 
 These neural networks are widely used in computer vision, speech recognition systems, but has no major breakthrough.
 
-# 13.	Extreme Learning Machine (ELM) Neural Networks
+# 11.	Extreme Learning Machine (ELM) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann24.png"  width="240" height="200"> 
 
@@ -389,7 +391,7 @@ They require less computer power, and the actual efficiency depends very much on
 It is widely used in batch learning, sequential learning, and incremental learning because of its fast and efficient learning speed, fast convergence, good generalization ability, and ease of implementation.
 However, due to its memory-residency, and high space and time complexity, the traditional ELM is not able to train big data fast and efficiently.
 
-# 14.	Echo State Neural Networks (ESN) - [Youtube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0waLEiN_qAhVIeawKHbpeBcMQtwIwBHoECAoQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT12mA9h1VRs&usg=AOvVaw2OVyOK0knDdlfhBhOrAT8F)
+# 12.	Echo State Neural Networks (ESN) - [Youtube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0waLEiN_qAhVIeawKHbpeBcMQtwIwBHoECAoQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT12mA9h1VRs&usg=AOvVaw2OVyOK0knDdlfhBhOrAT8F)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann25.png" width="220" height="200"> 
 
@@ -399,7 +401,7 @@ However, due to its memory-residency, and high space and time complexity, the tr
 
 Besides multiple theoretical benchmarks, there is not any practical use of this Network. 
 
-# 15.	Deep Residual Neural Networks (DRN) - [Coursera](https://www.coursera.org/lecture/convolutional-neural-networks/resnets-HAhz9)
+# 13.	Deep Residual Neural Networks (DRN) - [Coursera](https://www.coursera.org/lecture/convolutional-neural-networks/resnets-HAhz9)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann26.png"  width="380" height="180"> 
 
@@ -409,7 +411,7 @@ Besides multiple theoretical benchmarks, there is not any practical use of this 
 
 As the Microsoft Research study proves, Deep Residual Networks can be used with a significantly importance in image recognition.
 
-# 16.	Kohonen Neural Networks (KN)
+# 14.	Kohonen Neural Networks (KN)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann27.png"  width="220" height="200"> 
 
@@ -429,7 +431,7 @@ The input data was a table with a row for each member of Congress, and columns f
 
 The SOM algorithm arranged these members in a two-dimensional grid placing similar members closer together. 
 
-# 17.	Support Vector Machine (SVM) Neural Networks - [Coursera](https://www.coursera.org/lecture/machine-learning/using-an-svm-sKQoJ)
+# 15.	Support Vector Machine (SVM) Neural Networks - [Coursera](https://www.coursera.org/lecture/machine-learning/using-an-svm-sKQoJ)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"  width="220" height="200"> 
 
@@ -441,7 +443,7 @@ It uses a technique called the kernel trick to do some extremely complex data tr
 
 SVMs should be the first choice for any classification task, because is one of the most robust and accurate algorithm among the other classification algorithms.
 
-# 18.	Neural Turing Machine (NTM) Neural Networks
+# 16.	Neural Turing Machine (NTM) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann29.png"  width="220" height="200"> 
 
