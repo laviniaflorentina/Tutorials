@@ -95,10 +95,9 @@ Eclipse is an integrated development environment used in computer programming. I
 
 --------------------------
 
-<img align="center" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="200" height="200">
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="200" height="200">
 
-<div align="left">
-<b>:arrow_left: : </b> 
-<a href="" ><i>Python Home</i></a> <b>:triangular_flag_on_post: You are here: </b> <a href="" ><i>More about IDEs and Code Editors</i></a> <b>:arrow_right: : </b> 
+<div align="right">
+<b>:arrow_right:  </b> 
 <a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook" ><i>Getting started with Google Colab & Jupyter Notebook</i></a> 
 </div>  
