@@ -210,3 +210,9 @@ data.head() # you can indicate between () the number of rows to be shown
 
 Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?article=181) course from After Hours Programming.
 
+----------------------------
+
+<div align="centre">
+ <b> THE END! </b> 
+<img src="https://media.giphy.com/media/9Dxh8ZKJroRCKuRxht/giphy.gif">
+</div> 
