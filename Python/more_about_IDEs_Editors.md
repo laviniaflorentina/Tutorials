@@ -93,8 +93,9 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: You can't open the same project in two different windows. A forward approach to git repositories is to have a 'monorepo'. This doesn't the best with VSCode since you can't open the same project in multiple windows. 
 
-<div align="right">
-<b> NEXT </b> 
-</div>  
+<img align="left" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="200" height="200">
 
-<img align="left" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif">
+<div align="right">
+<b> NEXT: </b> 
+<p>Do not forget to buy <mark>milk</mark> today.</p>  
+</div>  
