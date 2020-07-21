@@ -10,6 +10,12 @@ This repository exposes all the terminology used in Neural Networks, as well as 
 
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
 
+<div align="center">
+<img src="https://miro.medium.com/max/800/1*YL6_gcdw5nCkCsjFp3AUwA.gif">
+</div>
+
+:copyright: _Medium_
+
 ----------------------------------------------- 
 
 # What's next in this cool repo? :octocat:
