@@ -213,6 +213,6 @@ Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?ar
 ----------------------------
 
 <div align="centre">
-<b> THE END! </b> 
-<img src="https://media.giphy.com/media/9Dxh8ZKJroRCKuRxht/giphy.gif" width="300" height="300">
+ <b> THE END! </b>  <i>(of this folder)</i>
+<img src="https://media.giphy.com/media/2zotXB1xGbTB28cKAD/giphy.gif" width="300" height="300">
 </div> 
