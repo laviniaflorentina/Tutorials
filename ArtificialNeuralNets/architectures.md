@@ -6,10 +6,11 @@ Content:
 
 - [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#introduction)
 - Feedforward Neural Networks (FF):
-  - [Singe-layer Perceptron (Perceptron)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#11singe-layer-perceptron-perceptron---coursera)
-  - [Multi-Layer Perceptron (MLP)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#12multi-layer-perceptron-mlp---coursera)
-- [Radial Basis Function (RBF) Neural Network ](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#2radial-basis-function-rbf-neural-network)
-- [Deep Feedforward Network (DFF)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#3deep-feedforward-network-dff---coursera)
+  - Perceptron: 
+    - [Singe-layer Perceptron](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#11singe-layer-perceptron-perceptron---coursera)
+    - [Multi-Layer Perceptron (MLP)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#12multi-layer-perceptron-mlp---coursera)
+  - [Radial Basis Function (RBF) Neural Network ](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#2radial-basis-function-rbf-neural-network)
+  - [Deep Feedforward Network (DFF)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#3deep-feedforward-network-dff---coursera)
 - Recurrent Networks:
   - [Recurrent Neural Networks (RNN)](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#41-recurrent-neural-networks-rnn--coursera)
   - [Long-Short Term Memory (LSTM) Neural Networks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#42long-short-term-memory-lstm-neural-networks---coursera)
