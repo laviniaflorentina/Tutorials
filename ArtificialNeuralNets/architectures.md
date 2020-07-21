@@ -309,7 +309,7 @@ The **Deconvolution Neural Network** is the inverted version of Deep Convolution
 
 DNN can generate the vector as: [dog: 0, lizard: 0, horse: 0, cat: 1] after capturing the cat's picture, while DCN can draw a cat after getting this vector. 
 
-<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"> 
+<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"  width="200" height="180"> 
 
 **Where do we use Deconvolutional Network?**
 
@@ -377,7 +377,7 @@ Besides multiple theoretical benchmarks, there is not any practical use of this 
 
 # 15.	Deep Residual Neural Networks (DRN) - [Coursera](https://www.coursera.org/lecture/convolutional-neural-networks/resnets-HAhz9)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann26.png"  width="350" height="200"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann26.png"  width="380" height="180"> 
 
 **Deep Residual Network** (or **ResNet**) passes parts of input values to the next level. This feature makes it possible to reach many layers (up to 300), but they are actually recurrent neural network without a clear delay. 
 
@@ -387,7 +387,7 @@ As the Microsoft Research study proves, Deep Residual Networks can be used with 
 
 # 16.	Kohonen Neural Networks (KN)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann27.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann27.png"  width="220" height="200"> 
 
 **Kohonen Network**, also known as Self-Organizing Map (SOM), introduces the "cell distance" feature. This network tries to adjust its cells to make the most probable response to a particular input. When a cell is updated, the closest cells are also updated.
 
@@ -395,7 +395,7 @@ They are not always considered "real" neural networks.
 
 **Where do we use Kohonen Network?**
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann27-1.png"> 
+<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann27-1.png"  width="220" height="200"> 
 
 Kohonen Network produces a low-dimensional (typically two-dimensional) representation of the input space, called a map, and is therefore a method to do dimensionality reduction. 
 
@@ -407,7 +407,7 @@ The SOM algorithm arranged these members in a two-dimensional grid placing simil
 
 # 17.	Support Vector Machine (SVM) Neural Networks - [Coursera](https://www.coursera.org/lecture/machine-learning/using-an-svm-sKQoJ)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"  width="220" height="200"> 
 
 **Support Vector Machines** are used for binary categorical work and the result will be "yes" or "no" regardless of how many dimensions or inputs the network processes.
 
@@ -419,7 +419,7 @@ SVMs should be the first choice for any classification task, because is one of t
 
 # 18.	Neural Turing Machine (NTM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann29.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann29.png"  width="220" height="200"> 
 
 Neural networks are like black boxes - we can train them, get results, enhance them, but most of the actual decision paths are not visible to us.
 
