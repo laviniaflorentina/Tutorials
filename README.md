@@ -8,6 +8,13 @@ Even though there are lots of other online materials for free, especially as a b
 
 I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
+<div align="center">
+<img src="https://media1.tenor.com/images/3882cc7a43e95ee557cb813fcf0a62be/tenor.gif">
+</div>
+
+<!---
+https://cdn.dribbble.com/users/24711/screenshots/1507479/learngit-teaser.gif
+--> 
 ------------------------
 # What can you find around here:
 
