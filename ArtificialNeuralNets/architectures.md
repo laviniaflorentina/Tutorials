@@ -70,7 +70,7 @@ Intuitively, RBF answers the question _“How far is the target from where we ar
 
 The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
-![](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif)
+![gif](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif)
 
 RBN is strictly limited to have **exactly one hidden layer** (green dots in the related figure). Here, this hidden layer is known as a **feature vector**.
 
