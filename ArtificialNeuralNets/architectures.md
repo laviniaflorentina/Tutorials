@@ -24,7 +24,7 @@ The neural network architecture represents the way in which the elements of the 
 
 Feedforward Neural Networks were the first type of Artificial Neural Network. These kinds of nets have a large variance but there are mainly two pioneers:
 
-## 1.1.	Singe-layer Perceptron (Perceptron)
+## 1.1.	Singe-layer Perceptron (Perceptron) - [Coursera](https://www.coursera.org/lecture/mind-machine-computational-vision/perceptrons-4AT1O)
 
 The **perceptron** is the simplest type of feedforward neural network, compost of only one neuron, where:  
 
@@ -44,7 +44,7 @@ The issue with individual neurons rapidly arises when trying to solve every day 
 
 And so, the creation of an Artificial Neural Network with more neurons seems to be the answer.
 
-## 1.2.	Multi-Layer Perceptron (MLP)
+## 1.2.	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png"> 
 
@@ -101,7 +101,9 @@ Nowadays, a series of effective methods for training DFF have been developed, wh
 
 DFF is being used for automatic language identification (the process of automatically identifying the language spoken or written: [paper](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42538.pdf), [paper](https://arxiv.org/pdf/1708.04811.pdf) & [code](https://github.com/HPI-DeepLearning/crnn-lid)), acoustic modeling for speech recognition ([thesis](https://mi.eng.cam.ac.uk/~mjfg/thesis_cw564.pdf), [paper](https://arxiv.org/pdf/1809.02108.pdf) & [code](https://github.com/amitai1992/AutomatedLipReading)), and other.
 
-# 4.	Recurrent Neural Networks (RNN) – [YouTube](https://www.youtube.com/watch?v=QciIcRxJvsM) 
+# 4.	Recurrent Networks 
+
+## 4.1. Recurrent Neural Networks (RNN) – [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model-ftkzt) 
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png"> 
 
@@ -119,7 +121,7 @@ The most common examples of such contexts are texts — a word can be analyzed o
 
 [More on RNN](https://github.com/kjw0612/awesome-rnn) - A curated list of resources dedicated to recurrent neural networks.
 
-## 4.1.	Long-Short Term Memory (LSTM) Neural Networks
+## 4.2.	Long-Short Term Memory (LSTM) Neural Networks - [Coursera](https://www.coursera.org/lecture/tensorflow-sequences-time-series-and-prediction/lstm-5Iebr)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png"> 
 
@@ -137,7 +139,7 @@ Note that there are **no activation functions** between blocks.
 
 LSTM networks are used when we have timeseries data, such as: video frame processing ([paper](https://arxiv.org/pdf/1909.05622.pdf) & [code](https://github.com/matinhosseiny/Inception-inspired-LSTM-for-Video-frame-Prediction)), writing generator ([article w/ code](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/), [article w/ code](https://medium.com/towards-artificial-intelligence/sentence-prediction-using-word-level-lstm-text-generator-language-modeling-using-rnn-a80c4cda5b40)) as it can “keep in mind” something that happened many frames/ sentences ago. 
 
-## 4.2.	Gated Recurrent Unit (GRU) Neural Networks
+## 4.3.	Gated Recurrent Unit (GRU) Neural Networks - [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann9.png"> 
 
