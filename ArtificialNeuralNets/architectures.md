@@ -10,7 +10,8 @@ Content
   - [Multi-Layer Perceptron (MLP)]()
 - [Radial Basis Function (RBF) Neural Network ]()
 - [Deep Feedforward Network (DFF)]()
-- [Recurrent Neural Networks (RNN)]():
+- [Recurrent Networks]():
+  - [Recurrent Neural Networks (RNN)]()
   - [Long-Short Term Memory (LSTM) Neural Networks]()
   - [Gated Recurrent Unit (GRU) Neural Networks]()
   
