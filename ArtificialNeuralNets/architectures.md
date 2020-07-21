@@ -57,7 +57,9 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 **Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. 
 
-Intuitively, RBF answers the question _“How far is the target from where we are?”_. More technically, it is a real-valued function defined as the difference between the input and some fixed point, called the **center**. The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
+Intuitively, RBF answers the question _“How far is the target from where we are?”_. More technically, it is a real-valued function defined as the difference between the input and some fixed point, called the **center**. 
+
+The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
 ![](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif)
 
