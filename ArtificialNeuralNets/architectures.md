@@ -53,9 +53,11 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 # 2.	Radial Basis Function (RBF) Neural Network 
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png"> 
+<img align="right" width="400" height="280" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png"> 
 
-**Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
+**Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. 
+
+The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
 ![](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif) 
 
