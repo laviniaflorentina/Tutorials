@@ -47,7 +47,7 @@ And so, the creation of an Artificial Neural Network with more neurons seems to 
 
 ## 1.2.	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="250" height="200" > 
 
 The **multi-layer perceptron** is a type of feedforward neural network that introduces the _multiple neurons_ design, where:
 
@@ -63,7 +63,7 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 # 2.	Radial Basis Function (RBF) Neural Network 
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png" width="280" height="180" > 
 
 **Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. 
 
@@ -71,7 +71,7 @@ Intuitively, RBF answers the question _“How far is the target from where we ar
 
 The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
-<img src="https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif" width="320" height="250" >
+<img src="https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif" width="300" height="200" > 
 
 RBN is strictly limited to have **exactly one hidden layer** (green dots in the related figure). Here, this hidden layer is known as a **feature vector**.
 
@@ -85,7 +85,7 @@ RBF nets are used in [function approximation](https://github.com/andrewdyates/Ra
 
 # 3.	Deep Feedforward Network (DFF) - [Coursera](https://www.coursera.org/lecture/ai/deep-feed-forward-neural-networks-kfTED)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann6.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann6.png" width="200" height="180" > 
 
 **Deep Feedforward Neural Networks** are feedforward nets with _more than one hidden layer_.
 
@@ -106,7 +106,7 @@ DFF is being used for automatic language identification (the process of automati
 
 ## 4.1. Recurrent Neural Networks (RNN) – [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model-ftkzt) 
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png" width="280" height="180" > 
 
 The **Recurrent Neural Networks (RNN)** introduce the _recurrent cells_, a special type of cells located in the hidden layer (blue dots) and responsible of receiving its own output with a fixed delay — for one or more iterations creating loops. Apart from that, this network is like a usual FF net and so it follows similar rules:
 
@@ -124,7 +124,7 @@ The most common examples of such contexts are texts — a word can be analyzed o
 
 ## 4.2.	Long-Short Term Memory (LSTM) Neural Networks - [Coursera](https://www.coursera.org/lecture/tensorflow-sequences-time-series-and-prediction/lstm-5Iebr)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png" width="280" height="180" > 
 
 **LSTM** is a subcategory of RNN. They introduce a _memory cell_ – a special cell that can store and recall facts from time dependent data sequences. (tutorial like [paper](https://arxiv.org/pdf/1909.09586.pdf))
 
@@ -142,7 +142,7 @@ LSTM networks are used when we have timeseries data, such as: video frame proces
 
 ## 4.3.	Gated Recurrent Unit (GRU) Neural Networks - [Coursera](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann9.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann9.png" width="250" height="180" > 
 
 **GRU** is a subcategory of RNN. GRUs are similar with LSTMs, but with a different type of gates. The lack of output gate makes it easier to repeat the same output for a concrete input multiple time and, therefore, they are less resource consuming than LSTMs and have similar performance.
 
@@ -154,7 +154,7 @@ They are currently used in similar applications as LSTMs.
 
 ## 5.1. Auto-Encoder (AE) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann10.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann10.png" width="145" height="200"> 
 
 **Auto-encoder networks** can be trained without supervision – covered in the next chapter!
 Their structure with a number of hidden cells smaller than the number of input cells (and number of output cells equals number of input cells). 
@@ -167,7 +167,7 @@ Auto-encoders can only answer questions like: "How do we summarize the data?", s
 
 ## 5.2. Variational Auto-Encoder (VAE) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann11.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann11.png" width="150" height="200" > 
 
 **VAE** is a category of AE. While the Auto-Encoder compresses features, Variational Auto-Encoders compresses the probability. 
 This change makes a VAE answer questions like _"How strong is the connection between the two things?”_, _“Should we divide in two parts or are they completely independent?"_.
@@ -194,7 +194,7 @@ Other paper & code.
 
 ## 5.3.	Denoising Auto-Encoder (DAE) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann12.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann12.png" width="150" height="200" > 
 
 **DAE** is a category of AE. Auto-encoders sometimes fail to find the most proper features but rather adapts to the input data (example of over-fitting). 
 
@@ -207,7 +207,7 @@ They are important for feature selection and extraction and the main usage of th
 
 ## 5.4.	Sparse Auto-Encoder (SAE) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann13.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann13.png" width="150" height="200" > 
 
 **Sparse Auto-Encoder** is another form of auto-encoding that sometimes pulls out some hidden aspects from the data. 
 
@@ -219,7 +219,7 @@ This type of auto-encoders can be used in popularity prediction (as this paper s
 
 # 6.	Markov Chain (MC) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann14.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann14.png" width="180" height="200" > 
 
 **Markov Chain** is an old chart concept. It is not a typical neural networks. 
 Each of its endpoints is assigned with a certain probability. 
@@ -231,7 +231,7 @@ They can be used as **probability-based categories** (like Bayesian filtering), 
 
 # 7.	Hopfield Network (HN) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann15.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann15.png" width="180" height="200" > 
 
 **Hopfield network** is initially trained to store a number of patterns or memories.
  
@@ -249,7 +249,7 @@ As HNs are able to discern the information even if corrupted, they can be used f
 
 ## 8.1. Boltzmann Machine (BM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann16.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann16.png" width="180" height="190" > 
 
 **Boltzmann Machine**, also known as **Stochastic Hopfield Network**, is a network of symmetrically connected neurons. It is the first network topology that successfully preserves the simulated annealing approach.
 
@@ -267,7 +267,7 @@ Multi-layered Boltzmann machines can be used for so-called Deep Belief Networks.
 
 ## 8.2.	Restricted Boltzmann Machine (RBM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann17.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann17.png" width="150" height="200" > 
 
 The **Restricted Boltzmann Machines** are very similar to BMs in structure, but constrained RBMs are allowed to be trained back-propagating like FFs (the only difference is that the RBM will go through the input layer once before data is backpropagated). 
 
@@ -277,7 +277,7 @@ Restricted Boltzmann machine is an algorithm useful for dimensionality reduction
 
 # 9.	Deep Belief Network (DBN) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann18.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann18.png" width="280" height="190" > 
 
 **Deep Belief Network** is actually a number of Boltzmann Machines surrounded by VAE together. They can be linked together (when one neural network is training another), and data can be generated using patterns learned. 
 
@@ -289,7 +289,7 @@ Deep belief networks can be used for feature detection and extraction.
 
 ## 10.1. Deep Convolutional Network (DCN) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann19.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann19.png" width="280" height="190" > 
 
 **Deep Convolutional Network** has convolutional units (or pools) and kernels, each for a different purpose. Convolution kernels are actually used to process input data, and pooling layers are used to reduce unnecessary features.
 
@@ -303,12 +303,12 @@ In terms of image recognition, the first layer identifies the gradient, the seco
 
 ## 10.2. Deconvolutional Neural Network (DNN) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20.png"> 
-
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20.png"  width="200" height="210" > 
 
 The **Deconvolution Neural Network** is the inverted version of Deep Convolutional Network. 
 DNN can generate the vector as: [dog: 0, lizard: 0, horse: 0, cat: 1] after capturing the cat's picture, while DCN can draw a cat after getting this vector. 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png)
 
 **Where do we use Deconvolutional Network?**
 
