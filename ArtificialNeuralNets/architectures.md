@@ -152,7 +152,7 @@ They are currently used in similar applications as LSTMs.
 
 # 5.	Auto-Encoder Networks
 
-## 5.1. Auto-Encoder (AE) Neural Networks
+## 5.1. Auto-Encoder (AE) Neural Networks - [Coursera](https://www.coursera.org/projects/dimensionality-reduction-autoencoder-python)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann10.png" width="145" height="200"> 
 
@@ -165,7 +165,7 @@ The fact that AE is trained such that the output is as close as possible to the 
 
 Auto-encoders can only answer questions like: "How do we summarize the data?", so they are used for classification, clustering and feature compression in problems like face recognition and acquiring semantic meaning of words.  
 
-## 5.2. Variational Auto-Encoder (VAE) Neural Networks
+## 5.2. Variational Auto-Encoder (VAE) Neural Networks - [Coursera](https://www.coursera.org/projects/image-compression-generation-vae)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann11.png" width="150" height="200" > 
 
@@ -192,7 +192,7 @@ They are powerful generative models with vast applications, including generating
 
 Other paper & code.
 
-## 5.3.	Denoising Auto-Encoder (DAE) Neural Networks
+## 5.3.	Denoising Auto-Encoder (DAE) Neural Networks - [Coursera](https://www.coursera.org/projects/autoencoders-image-denoising)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann12.png" width="150" height="200" > 
 
@@ -217,7 +217,7 @@ Here, the number of hidden cells is greater than the number of input or output c
 
 This type of auto-encoders can be used in popularity prediction (as this paper studied the prediction of Instagram posts popularity), and machine translation.
 
-# 6.	Markov Chain (MC) Neural Networks
+# 6.	Markov Chain (MC) Neural Networks - [Coursera](https://www.coursera.org/lecture/bayesian-methods-in-machine-learning/markov-chains-uGsUe)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann14.png" width="180" height="200" > 
 
@@ -265,7 +265,7 @@ They don’t have the typical 1 or 0 type output through which patterns are lear
 
 Multi-layered Boltzmann machines can be used for so-called Deep Belief Networks.
 
-## 8.2.	Restricted Boltzmann Machine (RBM) Neural Networks
+## 8.2.	Restricted Boltzmann Machine (RBM) Neural Networks - [Coursera](https://www.coursera.org/lecture/building-deep-learning-models-with-tensorflow/introduction-to-restricted-boltzmann-machines-XEYUx)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann17.png" width="150" height="200" > 
 
@@ -287,7 +287,7 @@ Deep belief networks can be used for feature detection and extraction.
 
 # 10.	Convolutional Networks
 
-## 10.1. Deep Convolutional Network (DCN) Neural Networks
+## 10.1. Deep Convolutional Network (DCN) Neural Networks - [Coursera](https://www.coursera.org/learn/convolutional-neural-networks)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann19.png" width="280" height="190" > 
 
@@ -306,17 +306,20 @@ In terms of image recognition, the first layer identifies the gradient, the seco
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20.png"  width="200" height="210" > 
 
 The **Deconvolution Neural Network** is the inverted version of Deep Convolutional Network. 
+
 DNN can generate the vector as: [dog: 0, lizard: 0, horse: 0, cat: 1] after capturing the cat's picture, while DCN can draw a cat after getting this vector. 
 
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png)
+<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"> 
 
 **Where do we use Deconvolutional Network?**
 
-You could tell the network “cat” and it will try to project it’s understanding of the features of a “cat”. DNN by itself is not entirely powerful, but when used in conjunction with some other structures, it can become very useful.
+You could tell the network “cat” and it will try to project it’s understanding of the features of a “cat”. 
+
+DNN by itself is not entirely powerful, but when used in conjunction with some other structures, it can become very useful.
 
 ## 10.3. Deep Convolutional Inverse Graphics Network (DCIGN)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann21.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann21.png" width="280" height="200" > 
 
 **Deep Convolutional Inverse Graphics Network** is a structure that connects a Convolutional Neural Network with a Deconvolutional Neural Network.
 It might be confusing to call it a network when it is actually more of a Variational Auto-encoder (VAE).
@@ -327,9 +330,9 @@ Most of these networks can be used in image processing and can process images th
 They can be used to remove something from a picture, redraw it, or replace a horse with a zebra like the famous CycleGAN.
 There are also many other types such as atrous convolutions and separable convolutions, that you can learn more about here.
 
-# 11.	Generative Adversarial Neural Networks (GAN)
+# 11.	Generative Adversarial Neural Networks (GAN) - [Coursera](https://www.coursera.org/projects/generative-adversarial-networks-keras)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann22.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann22.png"  width="300" height="200" > 
 
 The **Generative Adversarial Network** represents a dual network consisting of generators and differentiator. Imagine two networks in competition, each trying to outsmart the other. The generator tries to generate some data, and the differentiator tries to discern which are the samples and which ones are generated (code). 
 
@@ -341,7 +344,7 @@ They are used in text to **image generation** ([paper](), [code]()), **image to 
 
 # 12.	Liquid State Machine (LSM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann23.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann23.png"  width="240" height="200" > 
 
 **Liquid State Machines** are sparse neural networks whose activation functions are replaced (not all connected) by thresholds. When the threshold is reached, the cell accumulates the value information from the successive samples and the output freed, then again sets the internal copy to zero. 
 
@@ -351,7 +354,7 @@ These neural networks are widely used in computer vision, speech recognition sys
 
 # 13.	Extreme Learning Machine (ELM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann24.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann24.png"  width="240" height="200"> 
 
 **Extreme Learning Machines** reduce the complexity behind a feedforward network by creating a sparse, random connection of hidden layers. 
 
@@ -362,9 +365,9 @@ They require less computer power, and the actual efficiency depends very much on
 It is widely used in batch learning, sequential learning, and incremental learning because of its fast and efficient learning speed, fast convergence, good generalization ability, and ease of implementation.
 However, due to its memory-residency, and high space and time complexity, the traditional ELM is not able to train big data fast and efficiently.
 
-# 14.	Echo State Neural Networks (ESN)
+# 14.	Echo State Neural Networks (ESN) - [Youtube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0waLEiN_qAhVIeawKHbpeBcMQtwIwBHoECAoQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT12mA9h1VRs&usg=AOvVaw2OVyOK0knDdlfhBhOrAT8F)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann25.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann25.png" width="220" height="200"> 
 
 **Echo status network** is a subdivision of a repeating network. Data passes through the input, and if multiple iterations are monitored, only the weight between hidden layers is updated after that.
 
@@ -372,9 +375,9 @@ However, due to its memory-residency, and high space and time complexity, the tr
 
 Besides multiple theoretical benchmarks, there is not any practical use of this Network. 
 
-# 15.	Deep Residual Neural Networks (DRN) 
+# 15.	Deep Residual Neural Networks (DRN) - [Coursera](https://www.coursera.org/lecture/convolutional-neural-networks/resnets-HAhz9)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann26.png"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann26.png"  width="350" height="200"> 
 
 **Deep Residual Network** (or **ResNet**) passes parts of input values to the next level. This feature makes it possible to reach many layers (up to 300), but they are actually recurrent neural network without a clear delay. 
 
@@ -402,7 +405,7 @@ The input data was a table with a row for each member of Congress, and columns f
 
 The SOM algorithm arranged these members in a two-dimensional grid placing similar members closer together. 
 
-# 17.	Support Vector Machine (SVM) Neural Networks
+# 17.	Support Vector Machine (SVM) Neural Networks - [Coursera](https://www.coursera.org/lecture/machine-learning/using-an-svm-sKQoJ)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"> 
 
