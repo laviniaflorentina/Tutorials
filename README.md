@@ -48,7 +48,39 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
    - Derivatives
  
 ### Artificial Neural Network Architectures. What I cover:
- 
+- Introduction
+- Feedforward Neural Networks (FF):
+  - Perceptron : Singe-layer Perceptron & Multi-Layer Perceptron (MLP)
+  - Radial Basis Function (RBF) Neural Network 
+  - Deep Feedforward Network (DFF)
+- Recurrent Networks:
+  - Recurrent Neural Networks (RNN)
+  - Long-Short Term Memory (LSTM) Neural Networks
+  - Gated Recurrent Unit (GRU) Neural Networks
+- Auto-Encoder Networks:
+  - Auto-Encoder (AE) Neural Networks
+  - Variational Auto-Encoder (VAE) Neural Networks
+  - Denoising Auto-Encoder (DAE) Neural Networks
+  - Sparse Auto-Encoder (SAE) Neural Networks
+- Markov Chain (MC) Neural Networks
+- Hopfield Network (HN) Neural Networks
+- Boltzmann Networks:
+  - Boltzmann Machine (BM) Neural Networks
+  - Restricted Boltzmann Machine (RBM) Neural Networks
+- Deep Belief Network (DBN) Neural Networks
+- Convolutional Networks:
+  - Deep Convolutional Network (DCN) Neural Networks
+  - Deconvolutional Neural Network (DNN) Neural Networks
+  - Deep Convolutional Inverse Graphics Network (DCIGN)
+- Generative Adversarial Neural Networks (GAN)
+- Liquid State Machine (LSM) Neural Networks
+- Extreme Learning Machine (ELM) Neural Networks
+- Echo State Neural Networks (ESN)
+- Deep Residual Neural Networks (DRN)
+- Kohonen Neural Networks (KN)
+- Support Vector Machine (SVM) Neural Networks
+- Neural Turing Machine (NTM) Neural Networks
+
 ### Machine Learning. What I cover:
  
  - Introduction
