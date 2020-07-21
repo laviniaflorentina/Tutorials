@@ -8,13 +8,14 @@ Even though there are lots of other online materials for free, especially as a b
 
 I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
-<img align="center" src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg">
+<img align="center" src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="700" height="450">
 :copyright: _iStock_
 
 <!---
 https://cdn.dribbble.com/users/24711/screenshots/1507479/learngit-teaser.gif
 --> 
 ------------------------
+
 # What can you find around here:
 
 ## 1. [Python](https://github.com/laviniaflorentina/Tutorials/tree/master/Python)
