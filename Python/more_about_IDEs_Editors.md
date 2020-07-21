@@ -97,5 +97,5 @@ Eclipse is an integrated development environment used in computer programming. I
 
 <div align="right">
 <b> NEXT: </b> 
-<p>Do not forget to buy <mark>milk</mark> today.</p>  
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook" >Getting started with Google Colab & Jupyter Notebook</a> 
 </div>  
