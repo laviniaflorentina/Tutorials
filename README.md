@@ -8,7 +8,10 @@ Even though there are lots of other online materials for free, especially as a b
 
 I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
-<img align="center" src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="700" height="450">
+<div align="center">
+<img src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="700" height="450">
+</div>
+
 :copyright: _iStock_
 
 <!---
