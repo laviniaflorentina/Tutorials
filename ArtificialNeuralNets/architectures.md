@@ -59,7 +59,7 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
-<img width="400" height="280" src="https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif">
+<gif width="400" height="280" src="https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif">
 
 Intuitively, RBF answers the question _“How far is the target from where we are?”_. More technically, it is a real-valued function defined as the difference between the input and some fixed point, called the **center**.
 
