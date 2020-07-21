@@ -17,7 +17,7 @@ Feedforward Neural Networks were the first type of Artificial Neural Network. Th
 
 ## 1.1.	Singe-layer Perceptron (Perceptron)
 
-The perceptron is the simplest type of feedforward neural network, compost of only one neuron, where:  
+The **perceptron** is the simplest type of feedforward neural network, compost of only one neuron, where:  
 
 •	It takes some inputs, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/xi.png" alt="inpits" width="25" height="25">, and each of them is multiplied with their related weight, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/wi.png" alt="inpits" width="25" height="25"> :
 
@@ -37,15 +37,15 @@ And so, the creation of an Artificial Neural Network with more neurons seems to 
 
 ## 1.2.	Multi-Layer Perceptron (MLP)
 
-The multi-layer perceptron is a type of feedforward neural network that introduces the multiple neurons design, where:
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png)
+
+The **multi-layer perceptron** is a type of feedforward neural network that introduces the _multiple neurons_ design, where:
 
 •	 all nodes are fully connected (each node connects all the nodes from the next layer);
 
 •	 information only travels forward in the network (no loops);
 
 •	 there is one hidden layer (if present).
-
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png)
 
 **Where do we use Multi-Layer Perceptron?**
 
@@ -55,10 +55,89 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 # 2.	Radial Basis Function (RBF) Neural Network 
 
-**Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. The RBF chosen is usually a Gaussian, and it behaves like in the following image: 
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png)
+
+**Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. The RBF chosen is usually a Gaussian, and it behaves like in the following example: 
 
 ![](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif) 
 
-Intuitively, RBF answers the question _“How far is the target from where we are?”_. More technically, it is a real-valued function defined as the difference between the input and some fixed point, called the center.
+Intuitively, RBF answers the question _“How far is the target from where we are?”_. More technically, it is a real-valued function defined as the difference between the input and some fixed point, called the **center**.
 
+RBN is strictly limited to have **exactly one hidden layer** (green dots in the related figure). Here, this hidden layer is known as a **feature vector**.
+
+**Where do we use Radial Basis Function Network?**
+
+RBF nets are used in function approximation ([paper]() & [code]()), time series prediction ([paper]() & [code]()), and machine/system control (for example as a replacement of Partial Integral Derivative controllers). 
+
+# 3.	Deep Feedforward Network ([DFF]())
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann6.png)
+
+**Deep Feedforward Neural Networks** are feedforward nets with _more than one hidden layer_.
+
+It follows the rules:
+
+•	 all nodes are fully connected;
+
+•	 activation flows from input layer to output, without back loops;
+
+•	 there is **more than one layer** between input and output (hidden layers – green dots).
+
+When training the traditional FF model, only a small amount of error information passes to the next layer. With more layers, DFF is able to learn more about errors; however, it becomes impractical as the amount of training time required increases.
+
+Nowadays, a series of effective methods for training DFF have been developed, which have formed the core of modern machine learning systems and enable the functionality of feedforward neural networks.
+
+**Where do we use Deep Feed-Forward Network?**
+
+DFF is being used for automatic language identification (the process of automatically identifying the language spoken or written: [paper](), [paper]() & [code]()), acoustic modeling for speech recognition ([thesis](), [paper]() & [code]()), and other.
+
+# 4.	Recurrent Neural Networks (RNN) – [YouTube]() 
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png)
+
+The **Recurrent Neural Networks (RNN)** introduce the _recurrent cells_, a special type of cells located in the hidden layer (blue dots) and responsible of receiving its own output with a fixed delay — for one or more iterations creating loops. Apart from that, this network is like a usual FF net and so it follows similar rules:
+
+•	 all nodes are fully connected;
+
+•	 activation flows from input layer to output, with back loops;
+
+•	 there is more than one layer between input and output (hidden layers).
+
+**Where do we use Recurrent Neural Networks?**
+
+RNN is mainly used when the context is important — when decisions from past iterations or samples can influence the current ones, such as sentiment analysis ([paper]() & [code]()).
+
+The most common examples of such contexts are texts — a word can be analyzed only in the context of previous words or sentences. RNNs can process texts by “keeping in mind” ten previous words.
+
+More on RNN: https://github.com/kjw0612/awesome-rnn - A curated list of resources dedicated to recurrent neural networks.
+
+## 4.1.	Long-Short Term Memory (LSTM) Neural Networks
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png)
+
+**LSTM** is a subcategory of RNN. They introduce a _memory cell_ – a special cell that can store and recall facts from time dependent data sequences. (tutorial like [paper]())
+
+Memory cells are actually composed of a couple of elements — called gates, that are recurrent and control how information is being remembered and forgotten. 
+
+-	The input Gate determines how much of the last sample is stored in memory; 
+
+-	The output gate adjusts the amount of data transferred to the next level; 
+
+-	The Forget Gate controls the rate at which memory is stored.
+
+Note that there are **no activation functions** between blocks.
+
+**Where do we use Long-Short Term Memory Network?**
+
+LSTM networks are used when we have timeseries data, such as: video frame processing ([paper]() & [code]()), writing generator ([article w/ code](), [article w/ code]()) as it can “keep in mind” something that happened many frames/ sentences ago. 
+
+## 4.2.	Gated Recurrent Unit (GRU) Neural Networks
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann9.png)
+
+**GRU** is a subcategory of RNN. GRUs are similar with LSTMs, but with a different type of gates. The lack of output gate makes it easier to repeat the same output for a concrete input multiple time and, therefore, they are less resource consuming than LSTMs and have similar performance.
+
+**Where do we use Gated Recurrent Unit?**
+
+They are currently used in similar applications as LSTMs.
 
