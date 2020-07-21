@@ -70,7 +70,7 @@ And so, the creation of an Artificial Neural Network with more neurons seems to 
 
 ## 1.2.	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="250" height="200" > 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="220" height="170" > 
 
 The **multi-layer perceptron** is a type of feedforward neural network that introduces the _multiple neurons_ design, where:
 
