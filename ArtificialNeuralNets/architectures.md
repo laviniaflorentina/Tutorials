@@ -19,13 +19,13 @@ Feedforward Neural Networks were the first type of Artificial Neural Network. Th
 
 The **perceptron** is the simplest type of feedforward neural network, compost of only one neuron, where:  
 
-•	It takes some inputs, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/xi.png" alt="inpits" width="25" height="25">, and each of them is multiplied with their related weight, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/wi.png" alt="inpits" width="25" height="25"> :
+  -	It takes some inputs, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/xi.png" alt="inpits" width="25" height="25">, and each of them is multiplied with their related weight, <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/wi.png" alt="inpits" width="25" height="25"> :
 
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann3.png)
+  ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann3.png)
 
-•		Then, it sums them up: <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/sum_n.png" alt="inpits" width="50" height="50">, particularly for the example above, we will have: <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/sum_5.png" alt="inpits" width="50" height="50">.
+  - Then, it sums them up: <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/sum_n.png" alt="inpits" width="50" height="50">, particularly for the example above, we will have: <img src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/sum_5.png" alt="inpits" width="50" height="50">.
 
-•	The **activation function** (usually this is a _logistic function_) squashes the above summation and passes it to the output layer.
+  -	The **activation function** (usually this is a _logistic function_) squashes the above summation and passes it to the output layer.
 
 **Where do we use Perceptron?**
 
@@ -41,11 +41,9 @@ And so, the creation of an Artificial Neural Network with more neurons seems to 
 
 The **multi-layer perceptron** is a type of feedforward neural network that introduces the _multiple neurons_ design, where:
 
-•	 all nodes are fully connected (each node connects all the nodes from the next layer);
-
-•	 information only travels forward in the network (no loops);
-
-•	 there is one hidden layer (if present).
+  - all nodes are fully connected (each node connects all the nodes from the next layer);
+  - information only travels forward in the network (no loops);
+  - there is one hidden layer (if present).
 
 **Where do we use Multi-Layer Perceptron?**
 
@@ -76,12 +74,9 @@ RBF nets are used in function approximation ([paper]() & [code]()), time series 
 **Deep Feedforward Neural Networks** are feedforward nets with _more than one hidden layer_.
 
 It follows the rules:
-
-•	 all nodes are fully connected;
-
-•	 activation flows from input layer to output, without back loops;
-
-•	 there is **more than one layer** between input and output (hidden layers – green dots).
+  - all nodes are fully connected;
+  - activation flows from input layer to output, without back loops;
+  - there is **more than one layer** between input and output (hidden layers – green dots).
 
 When training the traditional FF model, only a small amount of error information passes to the next layer. With more layers, DFF is able to learn more about errors; however, it becomes impractical as the amount of training time required increases.
 
@@ -97,11 +92,9 @@ DFF is being used for automatic language identification (the process of automati
 
 The **Recurrent Neural Networks (RNN)** introduce the _recurrent cells_, a special type of cells located in the hidden layer (blue dots) and responsible of receiving its own output with a fixed delay — for one or more iterations creating loops. Apart from that, this network is like a usual FF net and so it follows similar rules:
 
-•	 all nodes are fully connected;
-
-•	 activation flows from input layer to output, with back loops;
-
-•	 there is more than one layer between input and output (hidden layers).
+  - all nodes are fully connected;
+  - activation flows from input layer to output, with back loops;
+  - there is more than one layer between input and output (hidden layers).
 
 **Where do we use Recurrent Neural Networks?**
 
@@ -119,11 +112,9 @@ More on RNN: https://github.com/kjw0612/awesome-rnn - A curated list of resource
 
 Memory cells are actually composed of a couple of elements — called gates, that are recurrent and control how information is being remembered and forgotten. 
 
--	The input Gate determines how much of the last sample is stored in memory; 
-
--	The output gate adjusts the amount of data transferred to the next level; 
-
--	The Forget Gate controls the rate at which memory is stored.
+  -	The input Gate determines how much of the last sample is stored in memory; 
+  -	The output gate adjusts the amount of data transferred to the next level; 
+  -	The Forget Gate controls the rate at which memory is stored.
 
 Note that there are **no activation functions** between blocks.
 
