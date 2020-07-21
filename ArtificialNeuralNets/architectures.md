@@ -4,7 +4,16 @@
 
 Content
 
-
+- [Introduction]()
+- [Feedforward Neural Networks (FF)]():
+  - [Singe-layer Perceptron (Perceptron)]()
+  - [Multi-Layer Perceptron (MLP)]()
+- [Radial Basis Function (RBF) Neural Network ]()
+- [Deep Feedforward Network (DFF)]()
+- [Recurrent Neural Networks (RNN)]():
+  - [Long-Short Term Memory (LSTM) Neural Networks]()
+  - [Gated Recurrent Unit (GRU) Neural Networks]()
+  
 --------------------
 
 ## Introduction
@@ -63,14 +72,17 @@ The RBF chosen is usually a Gaussian, and it behaves like in the following examp
 
 ![](https://www.digitalvidya.com/wp-content/uploads/2019/01/Image-3.gif)
 
-
 RBN is strictly limited to have **exactly one hidden layer** (green dots in the related figure). Here, this hidden layer is known as a **feature vector**.
+
+Moreover, Wikipedia says:
+
+![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5-1.png)
 
 **Where do we use Radial Basis Function Network?**
 
-RBF nets are used in function approximation ([paper]() & [code]()), time series prediction ([paper]() & [code]()), and machine/system control (for example as a replacement of Partial Integral Derivative controllers). 
+RBF nets are used in [function approximation](https://github.com/andrewdyates/Radial-Basis-Function-Neural-Network/blob/master/CSE779LabReport2.pdf) ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.6019&rep=rep1&type=pdf) & [code](https://github.com/thomberg1/UniversalFunctionApproximation)), time series prediction ([paper](https://dl.acm.org/doi/pdf/10.1145/3305160.3305187) & [code](https://www.mathworks.com/matlabcentral/fileexchange/66216-mackey-glass-time-series-prediction-using-radial-basis-function-rbf-neural-network)), and machine/system control (for example as a replacement of Partial Integral Derivative controllers). 
 
-# 3.	Deep Feedforward Network ([DFF]())
+# 3.	Deep Feedforward Network (DFF) - [Coursera](https://www.coursera.org/lecture/ai/deep-feed-forward-neural-networks-kfTED)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann6.png"> 
 
@@ -87,9 +99,9 @@ Nowadays, a series of effective methods for training DFF have been developed, wh
 
 **Where do we use Deep Feed-Forward Network?**
 
-DFF is being used for automatic language identification (the process of automatically identifying the language spoken or written: [paper](), [paper]() & [code]()), acoustic modeling for speech recognition ([thesis](), [paper]() & [code]()), and other.
+DFF is being used for automatic language identification (the process of automatically identifying the language spoken or written: [paper](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42538.pdf), [paper](https://arxiv.org/pdf/1708.04811.pdf) & [code](https://github.com/HPI-DeepLearning/crnn-lid)), acoustic modeling for speech recognition ([thesis](https://mi.eng.cam.ac.uk/~mjfg/thesis_cw564.pdf), [paper](https://arxiv.org/pdf/1809.02108.pdf) & [code](https://github.com/amitai1992/AutomatedLipReading)), and other.
 
-# 4.	Recurrent Neural Networks (RNN) – [YouTube]() 
+# 4.	Recurrent Neural Networks (RNN) – [YouTube](https://www.youtube.com/watch?v=QciIcRxJvsM) 
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann7.png"> 
 
@@ -101,17 +113,17 @@ The **Recurrent Neural Networks (RNN)** introduce the _recurrent cells_, a speci
 
 **Where do we use Recurrent Neural Networks?**
 
-RNN is mainly used when the context is important — when decisions from past iterations or samples can influence the current ones, such as sentiment analysis ([paper]() & [code]()).
+RNN is mainly used when the context is important — when decisions from past iterations or samples can influence the current ones, such as sentiment analysis ([paper](https://arxiv.org/pdf/1902.09314v2.pdf) & [code](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo/tree/master/SentimentAnalysisProject)).
 
 The most common examples of such contexts are texts — a word can be analyzed only in the context of previous words or sentences. RNNs can process texts by “keeping in mind” ten previous words.
 
-More on RNN: https://github.com/kjw0612/awesome-rnn - A curated list of resources dedicated to recurrent neural networks.
+[More on RNN](https://github.com/kjw0612/awesome-rnn) - A curated list of resources dedicated to recurrent neural networks.
 
 ## 4.1.	Long-Short Term Memory (LSTM) Neural Networks
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann8.png"> 
 
-**LSTM** is a subcategory of RNN. They introduce a _memory cell_ – a special cell that can store and recall facts from time dependent data sequences. (tutorial like [paper]())
+**LSTM** is a subcategory of RNN. They introduce a _memory cell_ – a special cell that can store and recall facts from time dependent data sequences. (tutorial like [paper](https://arxiv.org/pdf/1909.09586.pdf))
 
 Memory cells are actually composed of a couple of elements — called gates, that are recurrent and control how information is being remembered and forgotten. 
 
@@ -123,7 +135,7 @@ Note that there are **no activation functions** between blocks.
 
 **Where do we use Long-Short Term Memory Network?**
 
-LSTM networks are used when we have timeseries data, such as: video frame processing ([paper]() & [code]()), writing generator ([article w/ code](), [article w/ code]()) as it can “keep in mind” something that happened many frames/ sentences ago. 
+LSTM networks are used when we have timeseries data, such as: video frame processing ([paper](https://arxiv.org/pdf/1909.05622.pdf) & [code](https://github.com/matinhosseiny/Inception-inspired-LSTM-for-Video-frame-Prediction)), writing generator ([article w/ code](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/), [article w/ code](https://medium.com/towards-artificial-intelligence/sentence-prediction-using-word-level-lstm-text-generator-language-modeling-using-rnn-a80c4cda5b40)) as it can “keep in mind” something that happened many frames/ sentences ago. 
 
 ## 4.2.	Gated Recurrent Unit (GRU) Neural Networks
 
