@@ -14,7 +14,7 @@ This repository exposes all the terminology used in Neural Networks, as well as 
 <img src="https://miro.medium.com/max/800/1*YL6_gcdw5nCkCsjFp3AUwA.gif">
 </div>
 
-:copyright: _Medium_
+:copyright: Image found on _[Medium](https://medium.com/@saratechnologiesinc/revolutionizing-industry-by-integrating-artificial-intelligence-machine-learning-e0433bc5f5e7)_
 
 ----------------------------------------------- 
 
