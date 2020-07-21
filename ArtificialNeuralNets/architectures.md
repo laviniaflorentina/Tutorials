@@ -335,7 +335,8 @@ The **Deconvolution Neural Network** is the inverted version of Deep Convolution
 
 DNN can generate the vector as: [dog: 0, lizard: 0, horse: 0, cat: 1] after capturing the cat's picture, while DCN can draw a cat after getting this vector. 
 
-<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"  width="200" height="180"> 
+<img align="left" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann20-1.png"  width="200" height="170"> 
+
 
 **Where do we use Deconvolutional Network?**
 
