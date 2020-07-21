@@ -11,6 +11,7 @@ I created this repository to sum up all the things I found to be useful and all 
 <div align="center">
 <img src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="700" height="450">
 </div>
+
 :copyright: _iStock_
 
 <!---
