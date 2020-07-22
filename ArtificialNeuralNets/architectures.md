@@ -467,5 +467,5 @@ Other open source implementations of NTMs exist but are not sufficiently stable 
 
 <div align="right">
 <b>:arrow_right:  </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#machine-learning" ><i>Machine Learning</i></a> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml" ><i>Machine Learning</i></a> 
 </div>  
