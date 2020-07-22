@@ -108,6 +108,7 @@ This repository exposes all the terminology used in Neural Networks, as well as 
    
 Waiting for people to go through all these like: 
 
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_   
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
+
 -----------------------------------------------   
 
