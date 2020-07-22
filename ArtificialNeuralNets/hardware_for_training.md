@@ -50,3 +50,11 @@ The good thing about having access to an HPC is that they have huge numbers of c
 
 For University of North Texas students: [check available resources here](https://hpc.unt.edu/userguide#Compiling_Software).
 
+-------------------
+
+<div align="center">
+<p> THE END! (of this folder)</p>  
+<img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
+</div>
+
+:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
