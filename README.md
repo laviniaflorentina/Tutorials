@@ -122,7 +122,9 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
  - How to use these resources in your code?
    - In Browser (Google Colab or Jupyter Notebooks)
    - On HPC (or other High Performance Computing) 
-   
+
+<img align="center" src"https://i.imgur.com/MtIi7Iv.gif">
+
 ------------------------
 ## References
 
