@@ -53,7 +53,7 @@ For University of North Texas students: [check available resources here](https:/
 -------------------
 
 <div align="center">
-<p> THE END! (of this folder)</p>  
+<p> <b>THE END!</b> <i>(of this folder)</i></p>  
 <img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
 </div>
 
