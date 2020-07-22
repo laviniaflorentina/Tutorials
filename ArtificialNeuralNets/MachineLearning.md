@@ -203,3 +203,13 @@ Reinforcement learning has no kind of human supervision. It is a completely diff
 **When do we use Reinforcement Learning?**
 
 Reinforcement learning is used in Games ([DeepMind’s AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) – from Google: [paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ), the official code hasn’t been released, but here’s an [alternative](https://github.com/tensorflow/minigo)), Real-Time Decisions (Traffic Light Control – [paper](http://web.eecs.utk.edu/~ielhanan/Papers/IET_ITS_2010.pdf), [paper](https://arxiv.org/pdf/1903.04527.pdf) & [code](https://github.com/cts198859/deeprl_network/blob/master/README.md)), Robot Navigation ([MuJoCo](http://www.mujoco.org/book/index.html) – physics simulator), Skill Acquisition (Self-Driving Car – [paper](https://arxiv.org/pdf/1801.02805.pdf) & [code](https://github.com/lexfridman/deeptraffic)). 
+
+--------------------------
+
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b>:arrow_right:  </b> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#algorithms-by-tasks" ><i> Algorithms by tasks</i></a> 
+</div>  
+
