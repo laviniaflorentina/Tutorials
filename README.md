@@ -9,7 +9,7 @@ Even though there are lots of other online materials for free, especially as a b
 I created this repository to sum up all the things I found to be useful and all the things that made me understand these subjects. 
 
 <div align="center">
-<img src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="500" height="250">
+<img src="https://tedideas.files.wordpress.com/2018/08/featured_art_iowa_big.jpg" width="600" height="350">
 </div>
 
 :copyright: _iStock_
@@ -123,8 +123,10 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
    - In Browser (Google Colab or Jupyter Notebooks)
    - On HPC (or other High Performance Computing) 
 
-<img align="center" src="https://i.imgur.com/MtIi7Iv.gif">
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)
+<div align="center">
+<img src="https://i.imgur.com/MtIi7Iv.gif">
+</div> 
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)_
 
 ------------------------
 ## References
