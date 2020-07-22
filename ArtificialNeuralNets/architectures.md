@@ -459,3 +459,13 @@ Memory is content based; this network can read memory based on the status quo, w
 A Neurological Turing Machine with a long short-term memory (LSTM) network controller can infer simple algorithms such as copying, sorting, and associative recall from examples alone.
 
 Other open source implementations of NTMs exist but are not sufficiently stable for production use.
+
+
+--------------------------
+
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b>:arrow_right:  </b> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#machine-learning" ><i>Machine Learning</i></a> 
+</div>  
