@@ -8,6 +8,6 @@
 
 <div align="right">
 <b>:arrow_right:  </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md#evaluation" ><i> Evaluation </i></a> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md#evaluation" ><i> Evaluation </i></a> 
 </div>  
 
