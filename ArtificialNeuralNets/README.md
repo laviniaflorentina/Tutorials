@@ -104,7 +104,7 @@ This repository exposes all the terminology used in Neural Networks, as well as 
 
    - On HPC (or other High Performance Computing) 
    
-   
+   .
    
 Waiting for people to go through all these like: 
 
