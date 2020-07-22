@@ -89,7 +89,9 @@ This repository exposes all the terminology used in Neural Networks, as well as 
  
  - Training Evaluation Methods
  - Model Evaluation Methods
- 
+
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+
  ## 6. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
  
  - Why bother?
@@ -102,4 +104,10 @@ This repository exposes all the terminology used in Neural Networks, as well as 
 
    - On HPC (or other High Performance Computing) 
    
------------------------------------------------
+   
+   
+Waiting for people to go through all these like: 
+
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_   
+-----------------------------------------------   
+
