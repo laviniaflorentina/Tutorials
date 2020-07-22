@@ -59,6 +59,8 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 ## What's next in this cool repo? :octocat:
 
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
+
 ### 1. [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
 
  - What is the difference between an IDE and a Code Editor?
