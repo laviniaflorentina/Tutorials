@@ -212,7 +212,10 @@ Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?ar
 
 ----------------------------
 
-<div align="centre">
- <b> THE END! </b>  <i>(of this folder)</i>
-<img src="https://media.giphy.com/media/2zotXB1xGbTB28cKAD/giphy.gif" width="300" height="300">
-</div> 
+<div align="center">
+<p> <b>THE END!</b> <i>(of this folder)</i></p>  
+<img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
+</div>
+
+:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
+
