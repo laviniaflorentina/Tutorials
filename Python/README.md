@@ -70,6 +70,9 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
+
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
+
 ### 3. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
  - How a short program does it looks like?
@@ -79,8 +82,6 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    - Defined functions/ Algorithms/ Build-in functions
    - Output
 
-
-<img align="center" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
 
 -------------------------------------------------------------------------------------------------------
 
