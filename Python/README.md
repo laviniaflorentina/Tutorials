@@ -71,7 +71,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 - Jupyter Notebook (New Notebook, Main Features)
 
 
-<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> :copyright: Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)
 
 ### 3. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
@@ -82,6 +82,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    - Defined functions/ Algorithms/ Build-in functions
    - Output
 
+Me waiting for people to go through these tutorials: 
 
 -------------------------------------------------------------------------------------------------------
 
