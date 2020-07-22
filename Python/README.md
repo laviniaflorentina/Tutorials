@@ -80,7 +80,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    - Output
 
 
-<img align="centre" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
+<img align="center" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
 
 -------------------------------------------------------------------------------------------------------
 
