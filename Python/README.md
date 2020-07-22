@@ -59,8 +59,6 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 ## What's next in this cool repo? :octocat:
 
-<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
-
 ### 1. [More about IDE & Editors](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What I cover:
 
  - What is the difference between an IDE and a Code Editor?
@@ -81,6 +79,9 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    - Defined functions/ Algorithms/ Build-in functions
    - Output
 
+
+<img align="centre" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif">
+
 -------------------------------------------------------------------------------------------------------
 
 ## :bulb: TIPS AND TRICKS in learning to code (applicable to any programming language):
@@ -90,3 +91,4 @@ While the browser method seem to be the easiest one to go with, sometime you mig
     ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
 
     ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
+
