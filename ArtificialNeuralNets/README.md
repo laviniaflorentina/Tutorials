@@ -8,13 +8,20 @@ If you want to apply some of the exciting models that creates false images or vi
 
 This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
 
+<img align="right" src="https://i.pinimg.com/originals/72/f4/0e/72f40e467447d149f5b1a47b5ac350c3.gif"> 
+
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
 
+<!---
 <div align="center">
 <img src="https://miro.medium.com/max/800/1*YL6_gcdw5nCkCsjFp3AUwA.gif">
 </div>
-
 :copyright: Image found on _[Medium](https://medium.com/@saratechnologiesinc/revolutionizing-industry-by-integrating-artificial-intelligence-machine-learning-e0433bc5f5e7)_
+--->
+
+When you think AI is so easy to play with, but you get sucked in: 
+
+:copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
 
 ----------------------------------------------- 
 
