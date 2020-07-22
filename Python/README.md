@@ -82,9 +82,10 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    - Defined functions/ Algorithms/ Build-in functions
    - Output
 
-Me waiting for people to go through these tutorials: 
 
-:copyright: Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)
+Waiting for people to go through all these like: 
+
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_
 
 -------------------------------------------------------------------------------------------------------
 
