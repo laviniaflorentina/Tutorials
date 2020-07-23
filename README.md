@@ -134,7 +134,9 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
 <img src="https://i.imgur.com/MtIi7Iv.gif">
 </div> 
 
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)_
+<div align="center">
+<p> <i> :copyright: Image found on <a href="https://imgur.com/gallery/si9OZ"> imgur.com </a></i></p>  
+</div>
 
 ------------------------
 ## References
