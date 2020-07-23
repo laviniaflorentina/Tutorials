@@ -1,5 +1,10 @@
 # About this ... :dizzy: 
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 There are many tutorials, courses and papers already published regarding these topics ... _Why another one?!_ Because this one is meant to summarize all the others! 
 
 When I first started to learn about all this it felt to be overwhelming to follow up with the new technology tools. 
