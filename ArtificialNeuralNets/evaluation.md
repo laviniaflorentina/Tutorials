@@ -13,9 +13,11 @@ In order to evaluate the abilities of a machine learning system, we must design 
 
 # Model Evaluation Methods
 
-For tasks such as _classification_ we often measure **the accuracy** of the model, or **the error rate**. **Accuracy** is just the proportion of examples for which the model produces the correct output. **The error rate**, on the other hand, is the proportion of examples for which the model produces an incorrect output. We often refer to the error rate as the expected 0-1 loss. The 0-1 loss on a particular example is **0 if it is correctly classified** and **1 if it is not**. 
+For tasks such as _classification_ we often measure **the accuracy** of the model, or **the error rate**. 
 
-For tasks such as density estimation, we must use a different performance metric that gives the model a continuous-valued score for each example. The most common approach is to report the average log-probability the model assigns to some examples.
+**Accuracy** is just the proportion of examples for which the model produces the correct output. **The error rate**, on the other hand, is the proportion of examples for which the model produces an incorrect output. We often refer to the error rate as the expected 0-1 loss. The 0-1 loss on a particular example is **0 if it is correctly classified** and **1 if it is not**. 
+
+For tasks such as _density estimation_, we must use a different performance metric that gives the model a continuous-valued score for each example. The most common approach is to report the average log-probability the model assigns to some examples.
 
 
 
