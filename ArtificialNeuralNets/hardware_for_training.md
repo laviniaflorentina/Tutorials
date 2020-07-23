@@ -63,4 +63,8 @@ For University of North Texas students: [check available resources here](https:/
 <img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
 </div>
 
-:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
+<div align="center">
+<p>  <i> :copyright: Image found on </i></p>  
+  <a href="https://gfycat.com/hugescaredhorsechestnutleafminer"> gfycat.com </a>
+</div>
+
