@@ -80,15 +80,11 @@ That moment when you think AI is easy and you get sucked in by all the tutorials
  
  ## 3. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
  
- - Classification: 
- - Regression:
- - Clustering: K - Means, K - Nearest Neighbors.
- - Prediction:
+:soon:
  
  ## 4. [Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
  
- -
- -
+:soon:
  
  ## 5. [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
  
