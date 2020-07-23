@@ -29,7 +29,8 @@ The following two steps will clone the repository to your server:
 
 ## **Step 3.** Open terminal/command prompt window and login to your HPC account by typing: **ssh youraccount@vis.hpc.unt.edu**, press Enter and fill in your password.
 
-- "_vis.hpc.unt.edu_" is the name of the remote HPC server; you can replace it with an IP address. 
+- I am using "_ssh_" because this is a linux-based machine.
+- "_vis.hpc.unt.edu_" is the name of the HPC remote server; you can replace it with an IP address. 
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/clone1.png)
 
