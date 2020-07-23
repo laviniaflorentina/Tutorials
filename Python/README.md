@@ -75,10 +75,15 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
+### 3. [How to clone a GitHub Project to a server and run it from your IDE](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/clone_git_pycharm.md#how-to-clone-a-github-repository-to-a-server-and-run-it-from-your-ide). What I cover:
+
+- How to clone a GitHub Project Repository to a server
+- How to syncronize the project from your local machine with the one on the server
+- How to run it from your IDE
 
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
 
-### 3. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
+### 4. [Python code structure](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md). What I cover:
  
  - How a short program does it looks like?
  - What are the main components of a program?
