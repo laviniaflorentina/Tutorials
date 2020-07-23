@@ -26,7 +26,7 @@ For tasks such as _density estimation_, we must use a different performance metr
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
 
 <div align="right">
-<b>:arrow_right:  </b> 
+<b> NEXT:   </b> 
 <a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench" ><i> Hardware parts for training</i></a> 
 </div>  
 
