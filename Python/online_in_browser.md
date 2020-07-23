@@ -1,5 +1,10 @@
 # How to get started with Google Colaboratory & Jupyter Notebook
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 Content
 - [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#introduction)
 - [Google Colaboratory](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#google-colaboratory)
