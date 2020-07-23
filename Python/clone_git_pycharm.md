@@ -136,8 +136,14 @@ Therefore, having the project in both places you work locally, but the program w
 
 
 
+--------------------------
 
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
 
+<div align="right">
+<b> NEXT:  </b> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-code-structure" ><i>Python code structure</i></a> 
+</div>  
 
 
 
