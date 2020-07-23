@@ -4,9 +4,17 @@
 
 Let's say you want to run a project from GitHub. They usually have multiple folders, subfolders and other interconnected function files which cannot be easily managed in an Online Notebook due to memory limilations. 
 
-However, you can still do this with having access to a server with better resources! 
+However, you can still run that project with having access to a server with better resources! 
 
-This tutorial shows how to clone the repository on a server and work on it from your IDE.  
+Accessing machines remotely became a necessity. There are many ways to establish a connection with a remote machine (server), depending on the operating system you are running, but the two most used protocols are:
+  - Secure Shell (**SSH**) for Linux-based machines
+  - Remote Desktop Protocol (**RDP**) for Windows-based machines
+  
+The two protocols use the _client and server applications_ to establish a remote connection. These tools allow you to access and remotely manage other computers, transfer files, and do virtually anything like you would've been doing if you were in front of that machine.
+
+In order to be able to access a remote server you need the **IP address** or **the name of the remote machine** you want to connect to.
+
+This tutorial shows how to clone a GitHub repository on a server and work on it from your IDE.  
 
 -------------------------------
 
@@ -20,6 +28,8 @@ Everytime you try to access the HPC server you need to be connected to the UNT V
 The following two steps will clone the repository to your server:
 
 ## **Step 3.** Open terminal/command prompt window and login to your HPC account by typing: **ssh youraccount@vis.hpc.unt.edu**, press Enter and fill in your password.
+
+- "_vis.hpc.unt.edu_" is the name of the remote HPC server; you can replace it with an IP address. 
 
 ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/clone1.png)
 
