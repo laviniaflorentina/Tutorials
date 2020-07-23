@@ -1,4 +1,4 @@
-# How to clone a GitHub repository to a server and run it from your IDE
+# How to clone a GitHub project to a server and run it from your IDE
 
 ## Introduction
 
