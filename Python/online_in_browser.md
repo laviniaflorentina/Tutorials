@@ -220,5 +220,5 @@ I will describe each feature marked in the above screenshot.
 
 <div align="right">
 <b> NEXT:  </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-code-structure" ><i>Python code structure</i></a> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/clone_git_pycharm.md#how-to-clone-a-github-project-to-a-server-and-run-it-from-your-ide" ><i> How to clone a GitHub project to a server and run it from your IDE </i></a> 
 </div>  
