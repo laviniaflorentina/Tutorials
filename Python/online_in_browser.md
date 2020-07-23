@@ -220,5 +220,5 @@ I will describe each feature marked in the above screenshot.
 
 <div align="right">
 <b>:arrow_right:  </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/Python%20code%20structure.md#python-code-structure" ><i>Python code structure</i></a> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-code-structure" ><i>Python code structure</i></a> 
 </div>  
