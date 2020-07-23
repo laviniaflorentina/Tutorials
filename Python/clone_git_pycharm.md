@@ -1,5 +1,10 @@
 # How to clone a GitHub project to a server and run it from your IDE
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 ## Introduction
 
 Let's say you want to run a project from GitHub. They usually have multiple folders, subfolders and other interconnected function files which cannot be easily managed in an Online Notebook due to memory limilations. 
