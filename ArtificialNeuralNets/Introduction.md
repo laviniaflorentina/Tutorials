@@ -90,6 +90,6 @@ In the following table it is a clear distinction and classification of some func
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
 
 <div align="right">
-<b>:arrow_right:  </b> 
+<b> NEXT:   </b> 
 <a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md#artificial-neural-networks-architectures" ><i>Artificial Neural Network Architectures</i></a> 
 </div>  
