@@ -222,5 +222,7 @@ Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?ar
 <img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
 </div>
 
-:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
+<div align="center">
+<p> <i> :copyright: Image found on <a href="https://gfycat.com/hugescaredhorsechestnutleafminer"> gfycat.com </a></i></p>  
+</div>
 
