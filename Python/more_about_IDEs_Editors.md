@@ -1,5 +1,10 @@
 # More about IDEs and Code Editors for Python
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 Content
 - [What is the difference between an IDE and a Code Editor?](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#what-is-the-difference-between-an-ide-and-a-code-editor)
 - [Some IDEs described](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#ides)
