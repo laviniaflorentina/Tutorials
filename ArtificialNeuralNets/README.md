@@ -105,11 +105,11 @@ That moment when you think AI is easy and you get sucked in by all the tutorials
 
    - On HPC (or other High Performance Computing) 
    
-   .
-   
-Waiting for people to go through all these like: 
 
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
+<div align="right">   
+<p><i>Waiting for people to go through all these like: 
+:copyright:Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
+</div>
 
 -----------------------------------------------   
 
