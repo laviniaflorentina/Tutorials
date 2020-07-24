@@ -44,6 +44,12 @@ This folder provides helpful information on _What Python is, Basic steps of how 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
+### How to clone a GitHub Project to a server and run it from your IDE. What I cover:
+
+- How to clone a GitHub Project Repository to a server
+- How to syncronize the project from your local machine with the one on the server
+- How to run it from your IDE
+
 ### Python code structure. What I cover:
  
  - How a short program does it looks like?
