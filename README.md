@@ -24,6 +24,7 @@ I created this repository to sum up all the things I found to be useful and all 
 <!---
 https://cdn.dribbble.com/users/24711/screenshots/1507479/learngit-teaser.gif
 --> 
+
 ------------------------
 
 # What can you find around here:
@@ -116,12 +117,17 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
  
  ### Algorithms by tasks. What I cover:
  
+ <!---
  - Classification: Binary, Multiclass, Multilabel. Logistic Regression, SVMs, or Random Forest classifiers
  - Regression: 
  - Clustering: Soft clustering , Hard clustering K - Means,
  - Dimensionality reduction: PCA, T-SNE, Autoencoders, SVD.
+--> 
+:soon:
  
  ### Training an AI model. What I cover:
+ 
+ :soon:
  
  ### Evaluation. What I cover:
  
