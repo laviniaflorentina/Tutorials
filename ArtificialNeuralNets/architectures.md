@@ -74,6 +74,8 @@ The issue with individual neurons rapidly arises when trying to solve every day 
 
 And so, the creation of an Artificial Neural Network with more neurons seems to be the answer.
 
+
+
 ### b).	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="220" height="170" > 
