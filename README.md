@@ -140,7 +140,7 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
  - About **CPU, GPU, TPU, FPGA**
  - How to use these resources in your code?
    - In Browser (Google Colab or Jupyter Notebooks)
-   - On HPC (or other High Performance Computing) 
+   - On HPC (or other remote server) 
 
 <div align="center">
 <img src="https://i.imgur.com/MtIi7Iv.gif">
