@@ -107,9 +107,9 @@ That moment when you think AI is easy and you get sucked in by all the tutorials
 
 <div align="right">   
 <p><i>Waiting for people to go through all these like: 
-:copyright:Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
- <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
 
+ <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+:copyright:Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
 </div>
 
 -----------------------------------------------   
