@@ -95,13 +95,13 @@ That moment when you think AI is easy and you get sucked in by all the tutorials
 <p><i>Waiting for people to go through all these like: </i> </p>
 </div>
 
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+
 <div align="right">   
 <p><i>
 :copyright:Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
 </div>
 
-<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
- 
  ## 6. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
  
  - Why bother?
