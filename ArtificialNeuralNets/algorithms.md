@@ -66,8 +66,7 @@ Binary Classification:
 
 Multi-class classification:
 
--	**Support Vector Machines (SVM)**. There can be multiple hyperplanes that separate linearly separable data. SVM calculates the optimal separating hyperplane using concepts of geometry.
-  -	Least squares support vector machines
+-	**Support Vector Machines (SVM)**. There can be multiple hyperplanes that separate linearly separable data. SVM calculates the optimal separating hyperplane using concepts of geometry. 
 ``` python
 
 # importing necessary libraries 
@@ -97,8 +96,7 @@ accuracy = svm_model_linear.score(X_test, y_test)
 cm = confusion_matrix(y_test, svm_predictions) 
 
 ```
--	**Kernel estimation**
-  -	k-nearest neighbor 
+-	**Kernel estimation**: k-nearest neighbor (KNN)
 ``` python
 
 # importing necessary libraries 
@@ -130,7 +128,6 @@ cm = confusion_matrix(y_test, knn_predictions)
 
 ```
 -	**Decision trees**
-  -	Random forests
 ``` python
 
 # importing necessary libraries 
