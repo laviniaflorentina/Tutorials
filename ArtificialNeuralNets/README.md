@@ -25,7 +25,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 
 # What's next in this cool repo? :octocat:
 
-## 1. [How Artificial Intelligence differs from traditional programming?](). What I cover:
+## 1. [How Artificial Intelligence differs from traditional programming?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/ai_vs_traditionalprogramming.md#how-artificial-intelligence-differs-from-traditional-programming). What I cover:
 
 - Brief examples and explanations on why AI is different than traditional programming
 
