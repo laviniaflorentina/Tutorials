@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Artificial Neural Networks
 ## :construction: ... Work in Progress ... :construction:
 
 <div align="right">
