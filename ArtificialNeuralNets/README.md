@@ -29,7 +29,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 
 - Brief examples and explanations on why AI is different than traditional programming
 
-## 2. [Introduction to Artificial Neural Networks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
+## 2. [Introduction to Artificial Neural Networks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#introduction-to-artificial-neural-networks). What I cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
