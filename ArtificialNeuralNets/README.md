@@ -28,6 +28,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 ## 1. [How Artificial Intelligence differs from traditional programming?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/ai_vs_traditionalprogramming.md#how-artificial-intelligence-differs-from-traditional-programming). What I cover:
 
 - Brief examples and explanations on why AI is different than traditional programming
+- What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
 ## 2. [Introduction to Artificial Neural Networks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#introduction-to-artificial-neural-networks). What I cover:
 
