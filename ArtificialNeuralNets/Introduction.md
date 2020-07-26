@@ -29,7 +29,7 @@ Most of the existing neural networks architectures are shown in the following am
 
 ![ANNs](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/ann1.png)
 
-Deep learning is the name we use for _“stratified neural networks”_ = **networks composed of several layers**.
+Deep learning is the name we use for _“stratified neural networks”_ = **networks composed of several layers**. So a neural network having more than one hidden layer is generally referred to as a Deep Neural Network.
 
 The layers are represented by a column vector and the elements of the vector can be thought of as _nodes_ (also named _neurons_ or _units_).
 
