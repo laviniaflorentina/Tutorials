@@ -25,7 +25,11 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 
 # What's next in this cool repo? :octocat:
 
-## 1. [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
+## 1. [How Artificial Intelligence differs from traditional programming?](). What I cover:
+
+- Brief examples and explanations on why AI is different than traditional programming
+
+## 2. [Introduction to Artificial Neural Networks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md). What I cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
@@ -33,7 +37,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
    - Derivatives
  
-## 2. [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
+## 3. [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
 
 - Introduction
 - Feedforward Neural Networks (FF):
@@ -68,7 +72,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 - Support Vector Machine (SVM) Neural Networks
 - Neural Turing Machine (NTM) Neural Networks
 
-## 3. [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
+## 4. [Machine Learning](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#what-is-machine-learning-ml). What I cover:
  
  - Introduction
  - Machine Learning Categories by the level of human supervision:
@@ -78,15 +82,15 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
    - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision), Audio - Automatic Speech Recognition (ASR).
  
- ## 3. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
+ ## 5. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
  
 :soon:
  
- ## 4. [Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
+ ## 6. [Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
  
 :soon:
  
- ## 5. [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
+ ## 7. [Evaluation](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/evaluation.md). What I cover:
  
  - Training Evaluation Methods
  - Model Evaluation Methods
@@ -98,7 +102,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
 
 
- ## 6. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
+ ## 8. [Hardware Parts for Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/hardware_for_training.md#nut_and_bolt-hardware-parts-for-training-wrench). What I cover:
  
  - Why bother?
 
