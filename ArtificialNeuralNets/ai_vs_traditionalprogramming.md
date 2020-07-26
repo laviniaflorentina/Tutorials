@@ -8,8 +8,8 @@
 
 Content:
 
-- [Brief examples and explanations on why AI is different than traditional programming]()
-- [What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?]()
+- [Brief examples and explanations on why AI is different than traditional programming](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/ai_vs_traditionalprogramming.md#brief-examples-and-explanations-on-why-ai-is-different-than-traditional-programming)
+- [What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/ai_vs_traditionalprogramming.md#what-are-the-fundamental-differences-between-artificial-intelligence-machine-learning-and-deep-learning)
 
 --------------------------
 
@@ -37,7 +37,12 @@ Notice that traditional computing is still important! All the new tools of AI ar
 
 ## What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
-![](https://miro.medium.com/max/1440/1*Baz-jrGia6PMSdKlmygiaA.png)
+<img align="center" src="https://miro.medium.com/max/1440/1*Baz-jrGia6PMSdKlmygiaA.png" width="400" height="400">
+
+<div align="center">
+<p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
+</div>  
+
 --------------------------
 
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
