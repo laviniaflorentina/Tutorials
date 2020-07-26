@@ -17,7 +17,7 @@ This repository exposes all the terminology used in Neural Networks, as well as 
 
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
 
-That moment when you think AI is easy and you get sucked in by all the tutorials: 
+_That moment when you think AI is easy and you get sucked in by all the tutorials:_ 
 
 :copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
 
