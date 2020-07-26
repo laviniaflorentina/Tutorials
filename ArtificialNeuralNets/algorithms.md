@@ -15,9 +15,16 @@ Content:
 
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). There are different kinds of classification:
 
+<img align="right" src="https://miro.medium.com/max/2800/1*PM4dqcAe6N7kWRpXKwgWag.png" width=580 height=300>
+
+<div align="right">
+<p> <i>:copyrights: Image found on <a href="https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623" > towardsdatascience.com</a> </i> </p>
+</div> 
+
+
 -	**Binary Classification**: when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
--	**Multi-class Classification**: where there are more than two classes. In multi-class classification, each sample is assigned to one and only one target label. _**Example**_: An animal can be a cat or dog but not both at the same time. 
--	**Multi-label Classification**: Classification task where each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
+-	**Multi-class Classification**: when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
+-	**Multi-label Classification**: when each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
 
 **When do we use Classification Algorithms?**
 
