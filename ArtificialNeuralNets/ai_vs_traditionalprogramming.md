@@ -59,7 +59,7 @@ In other words: AI is the big playground, ML is the way in which the computer le
 
 --------------------------
 
-<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="350">
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="430">
 
 <div align="right">
 <b> NEXT:   </b> 
