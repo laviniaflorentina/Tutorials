@@ -1,5 +1,13 @@
 # How Artificial Intelligence differs from traditional programming
 
+
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
+--------------------------
+
 The creational progress of computing systems is classified in different groups, called _generations_: **First generation** computing used switches and wires. **The second generation** occurred because of the development of the transistor. **The third generation** involved the use of integrated circuits and higher-level languages like COBOL, Pascal, and C. **The fourth generation** was about user-end tools and code generators, developed with traditional approaches. Now, as an extension of traditional computing we live in the era of **The fifth generation** represented by Artificial Intelligence systems.
 
 In the traditional programming approaches the code is static and therefore the developer has to continuously improve it. This process might become very difficult to be maintained as some tasks might require hundreds of conditions, and also expensive as a company would always need to hire a developer to review the existing code then to find a way to reshape the program upon the changes. 
@@ -19,4 +27,14 @@ In the following table we compare the two approaches in terms of processing styl
 However, they are not totally independent of eachother.
 
 Notice that traditional computing is still important! All the new tools of AI are just a smart combination of functions from conventional approaches. For example, to create a text prediction system (AI model) you need to translate the input text examples into something that a computer understands – a vector representation, which is word processing (traditional computing method).
+
+--------------------------
+
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b> NEXT:   </b> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#introduction-to-artificial-neural-networks" ><i> Introduction to Artificial Neural Networks</i></a> 
+</div>  
+
 
