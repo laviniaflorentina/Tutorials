@@ -37,7 +37,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
    - Derivatives
  
-## 3. [Artificial Neural Network Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
+## 3. [Artificial Neural Networks Architectures](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/architectures.md). What I cover:
 
 - Introduction
 - Feedforward Neural Networks (FF):
