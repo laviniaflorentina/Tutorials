@@ -9,6 +9,23 @@
 
 Content:
 
+- [Classification]():
+  - Perceptron
+  - Logistic Regression
+  - Naive Bayes Classification
+  - Support Vector Machines (SVM)
+  - k-nearest neighbor (KNN)
+  - Decision trees
+- [Regression]():
+  - Linear Regression 
+  - Polynomial Regression 
+  - Exponential Regression 
+  - Logistic Regression 
+  - Logarithmic Regression 
+- [Clustering]():
+  - k-Means
+- [Dimensionality reduction]()
+  - PCA
 --------------------------
 
 ## Classification
@@ -169,7 +186,7 @@ These algorithms are used for problems such as:
 ### Regression Algorithms
 Regression Algorithms can be grouped as the following:
 
-•	Linear Regression 
+-	Linear Regression 
 
 ``` python
 # Import required libraries:
@@ -223,7 +240,7 @@ print("Mean absolute error: %.2f" % np.mean(np.absolute(test_y_ - test_y)))
 print("Mean sum of squares (MSE): %.2f" % np.mean((test_y_ - test_y) ** 2))
 print("R2-score: %.2f" % r2_score(test_y_ , test_y) )
 ```
-•	Polynomial Regression
+-	Polynomial Regression
 ```python
 # Import required libraries:
 import numpy as np
@@ -287,7 +304,7 @@ def err(y_pred,y):
 error = err(pred,y)
 error
 ```
-•	Exponential Regression
+-	Exponential Regression
 ```python
 # Import required libraries:
 import numpy as np
@@ -316,7 +333,7 @@ a=popt[0].round(4)
 b=popt[1].round(4)
 print(f'The equation of regression line is y={a}*{b}^x')
 ```
-•	Logistic Regression
+-	Logistic Regression
 ```python
 # Import required libraries:
 import numpy as np
@@ -371,7 +388,7 @@ plt.show()
 Accuracy =r2_score(Y_data,calc_line(X,*popt))
 print ("Accuracy of Linear Model : ",Accuracy)
 ```
-•	Logarithmic Regression
+-	Logarithmic Regression
 ```python
 # Import required libraries:
 import numpy as np
