@@ -15,11 +15,12 @@ Content:
 
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
 
+<!---
 <div align="right">
 <img align="right" src="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png" width=500 height=300>
-  
 <p> <i>:copyright: Image found on <a href="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png"> medium </a> </i> </p>
-</div> 
+</div>  
+--->
 
 **When do we use Classification Algorithms?**
 
