@@ -45,6 +45,18 @@ Notice that traditional computing is still important! All the new tools of AI ar
 <p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
 </div>  
 
+**Artificial Inteligence (AI)** is a field in Computer Science where computers are programmed to think and act like humans, with a special dynamic code called _Artificial Neural Network_ also known as _Artificial Neural Network model_ (or simply, _model_). All possible ways in which such a code could be made to learn are part of a category called **Machine Learning (ML)**. Furthermore, **Deep Learning (DL)** refers to those models that are more complex in structure, being combined with high computing power and large datasets.
+
+In other words: AI is the big playground, ML is the way in which the computer learns and DL is a name we use to call those huge fancy models out there.
+
+<div align="center">
+  
+<img align="center" src="https://i1.wp.com/klservblog.com/wp-content/uploads/2019/12/Untitled1.jpg?resize=602%2C204&ssl=1" width="600" height="200">
+
+<p> <i> :copyright: Image found on <a href="https://klservblog.com/2019/12/03/significance-of-artificial-intelligence-in-transforming-clinical-trials-paradigm/"> klservblog.com </a> </i></p> 
+</div> 
+
+
 --------------------------
 
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="350">
