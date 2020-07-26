@@ -13,28 +13,28 @@ Content:
 
 ## Classification
 
-Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). There are different kinds of classification:
-
+Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
 
 <div align="right">
 <img align="right" src="https://miro.medium.com/max/2800/1*PM4dqcAe6N7kWRpXKwgWag.png" width=580 height=300>
-
 <p> <i>:copyright: Image found on <a href="https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623" > towardsdatascience.com</a> </i> </p>
 </div> 
 
+**When do we use Classification Algorithms?**
+
+These algorithms are used for problems such as:
+-	Email spam classification.
+-	Sentiment analysis. 
+- Facial key-points detection.
+-	Pedestrian detection in automotive car driving.
+
+There are different kinds of classification:
 
 -	**Binary Classification**: when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
 -	**Multi-class Classification**: when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
 -	**Multi-label Classification**: when each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
 
-**When do we use Classification Algorithms?**
 
-These algorithms are used for problems such as:
-
--	Email spam classification.
--	Sentiment analysis. 
-- Facial key-points detection.
--	Pedestrian detection in automotive car driving.
 
 ### Classification Algorithms
 
