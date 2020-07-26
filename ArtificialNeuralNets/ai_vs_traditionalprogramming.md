@@ -37,7 +37,7 @@ Notice that traditional computing is still important! All the new tools of AI ar
 
 ## What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
-<img align="center" src="https://miro.medium.com/max/1440/1*Baz-jrGia6PMSdKlmygiaA.png" width="400" height="400">
+<img align="center" src="https://miro.medium.com/max/1440/1*Baz-jrGia6PMSdKlmygiaA.png" width="560" height="400">
 
 <div align="center">
 <p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
@@ -45,7 +45,7 @@ Notice that traditional computing is still important! All the new tools of AI ar
 
 --------------------------
 
-<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="350">
 
 <div align="right">
 <b> NEXT:   </b> 
