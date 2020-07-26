@@ -16,8 +16,8 @@ Content:
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
 
 <div align="right">
-<img align="right" src="https://miro.medium.com/max/2800/1*PM4dqcAe6N7kWRpXKwgWag.png" width=580 height=300>
-<p> <i>:copyright: Image found on <a href="https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623" > towardsdatascience.com</a> </i> </p>
+<img align="right" src="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png" width=180 height=100>
+<p> <i>:copyright: Image found on <a href="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png"> medium </a> </i> </p>
 </div> 
 
 **When do we use Classification Algorithms?**
