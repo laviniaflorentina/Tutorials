@@ -7,6 +7,12 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
+
+<!---
+READ:
+https://medium.com/the-sound-of-ai/training-to-train-artificial-neural-networks-part-ii-b1b4efd944be
+--->
+
 --------------------------
 
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
