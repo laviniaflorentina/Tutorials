@@ -250,6 +250,10 @@ Regression Algorithms can be grouped as the following:
 
 Clustering is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
 
+Determining the optimal number of clusters in a dataset is a fundamental issue in pursuing with a K-Means or K-medoids clustering algorithms. Other algorithms such as DBSCAN and OPTICS do not require this parameter, while hierarchical clustering avoids the problem altogether.
+
+The optimal number of clusters can be identified from data by applying direct methods (such as elbow and silhouette) or statistical testing methods (such as gap statistic). There are many other methods that have been published for identifying the optimal number of clusters, but these are the most commons used ones. 
+
 **When do we use Clustering Algorithms?**
 
 These algorithms are used for problems such as:
@@ -258,14 +262,9 @@ These algorithms are used for problems such as:
 
 - **K-Means**: 
 
-The *k*-means algorithm searches for a pre-determined number of clusters within an unlabeled multidimensional dataset.
-It accomplishes this using a simple conception of what the optimal clustering looks like:
+K-means clustering algorithm is also called flat clustering algorithm. It is classifying n objects into k groups (called clusters) of greatest possible distinction. A value is assigned from the beginning to k, meaning that you need to have a first guess on the number of clusters in your data. Then, each object goes to a specific cluster depending on its distance to a point that is declared to be the center of that cluster. 
 
-- The "cluster center" is the arithmetic mean of all the points belonging to the cluster.
-- Each point is closer to its own cluster center than to other cluster centers.
-
-Those two assumptions are the basis of the *k*-means model.
-We will soon dive into exactly *how* the algorithm reaches this solution, but for now let's take a look at a simple dataset and see the *k*-means result.
+In this algorithm, the data points are assigned to a cluster in such a manner that the sum of the squared distance between the data points and centroid would be minimum. It is to be understood that less variation within the clusters will lead to more similar data points within same cluster.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)  
 
