@@ -29,7 +29,7 @@ In the following table we compare the two approaches in terms of processing styl
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
 | **Application** | Word processing, Mathematical functions | Sensor/ speech/ pattern/ text recognition, Prediction/ recommendation systems|
-
+|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://www.telegraph.co.uk/content/dam/education/SPARK/stem-awards/innovation/robot-computer-getty.jpg?imwidth=1400" width="250" height="150"> |
 
 However, they are not totally independent of eachother.
 
@@ -37,6 +37,7 @@ Notice that traditional computing is still important! All the new tools of AI ar
 
 ## What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
+**Artificial Inteligence (AI)** is a field in Computer Science where computers are programmed to think and act like humans, with a special dynamic code called _Artificial Neural Network_ also known as _Artificial Neural Network model_ (or simply, _model_). All possible ways in which such a code could be made to learn are part of a category called **Machine Learning (ML)**. Furthermore, **Deep Learning (DL)** refers to those models that are more complex in structure, being combined with high computing power and large datasets.
 
 <div align="center">
   
@@ -45,9 +46,9 @@ Notice that traditional computing is still important! All the new tools of AI ar
 <p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
 </div>  
 
-**Artificial Inteligence (AI)** is a field in Computer Science where computers are programmed to think and act like humans, with a special dynamic code called _Artificial Neural Network_ also known as _Artificial Neural Network model_ (or simply, _model_). All possible ways in which such a code could be made to learn are part of a category called **Machine Learning (ML)**. Furthermore, **Deep Learning (DL)** refers to those models that are more complex in structure, being combined with high computing power and large datasets.
+_In other words:_ 
 
-In other words: AI is the big playground, ML is the way in which the computer learns and DL is a name we use to call those huge fancy models out there.
+AI is the big playground, ML is the way in which the computer learns and DL is a name we use to call those huge fancy models out there.
 
 <div align="center">
   
