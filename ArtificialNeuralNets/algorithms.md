@@ -28,7 +28,7 @@ Content:
   - PCA
 --------------------------
 
-## Classification
+## Classification - [RealPython Tutorial](https://realpython.com/logistic-regression-python/)
 
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
 
@@ -39,6 +39,15 @@ Classification is the task for identifying similarity among items in order to gr
 </div>  
 --->
 
+There are several general steps you’ll take when you’re preparing your classification models:
+
+1. Import packages, functions, and classes
+2. Get data to work with and, if appropriate, transform it
+3. Create a classification model and train (or fit) it with your existing data
+4. Evaluate your model to see if its performance is satisfactory
+
+A sufficiently good model that you define can be used to make further predictions related to new, unseen data. The above procedure is the same for classification and regression.
+
 **When do we use Classification Algorithms?**
 
 These algorithms are used for problems such as:
@@ -48,8 +57,8 @@ These algorithms are used for problems such as:
 -	Pedestrian detection in automotive car driving.
 
 There are different kinds of classification:
--	**Binary Classification**: when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
--	**Multi-class Classification**: when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
+-	**Binary (Binomial) Classification**: when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
+-	**Multi-class (Multinomial) Classification**: when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
 -	**Multi-label Classification**: when each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
 
 ### Classification Algorithms
@@ -62,7 +71,42 @@ Binary Classification:
 
 ``` python
 
+import numpy as np
 
+class Perceptron:    
+    def fit(self, X, y, n_iter=100):
+        
+        n_samples = X.shape[0]
+        n_features = X.shape[1]
+        
+        # Add 1 for the bias term
+        self.weights = np.zeros((n_features+1,))
+        
+        # Add column of 1s
+        X = np.concatenate([X, np.ones((n_samples, 1))], axis=1)
+        
+        for i in range(n_iter):
+            for j in range(n_samples):
+                if y[j]*np.dot(self.weights, X[j, :]) <= 0:
+                    self.weights += y[j]*X[j, :]
+    
+    def predict(self, X):
+        if not hasattr(self, 'weights'):
+            print('The model is not trained yet!')
+            return
+        
+        n_samples = X.shape[0]
+        # Add column of 1s
+        X = np.concatenate([X, np.ones((n_samples, 1))], axis=1)
+        y = np.matmul(X, self.weights)
+        y = np.vectorize(lambda val: 1 if val > 0 else -1)(y)
+        
+        return y
+    
+    def score(self, X, y):
+        pred_y = self.predict(X)
+        
+        return np.mean(y == pred_y)
 
 ```
 
@@ -70,17 +114,27 @@ Binary Classification:
 
 ``` python
 
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, confusion_matrix
 
+x = np.arange(10).reshape(-1, 1)
+y = np.array([0, 0, 0, 0, 1, 1, 1, 1, 1, 1])
+
+model = LogisticRegression(solver='liblinear', random_state=0)
+
+model = LogisticRegression(solver='liblinear', random_state=0).fit(x, y)
+
+model.predict_proba(x)
+
+model.score(x, y)
 
 ```
 
 -	**Naive Bayes Classification**.
 
-``` python
-
-
-
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR]
 
 Multi-class classification:
 
