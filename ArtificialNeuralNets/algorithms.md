@@ -74,70 +74,56 @@ Binary Classification:
 
 - **Perceptron**. In perceptron, we take weighted linear combination of input features and pass it through a thresholding function which outputs 1 or 0. 
 
+<!---
 ``` python
-
 import numpy as np
-
 class Perceptron:    
     def fit(self, X, y, n_iter=100):
-        
         n_samples = X.shape[0]
         n_features = X.shape[1]
-        
         # Add 1 for the bias term
         self.weights = np.zeros((n_features+1,))
-        
         # Add column of 1s
         X = np.concatenate([X, np.ones((n_samples, 1))], axis=1)
-        
         for i in range(n_iter):
             for j in range(n_samples):
                 if y[j]*np.dot(self.weights, X[j, :]) <= 0:
                     self.weights += y[j]*X[j, :]
-    
     def predict(self, X):
         if not hasattr(self, 'weights'):
             print('The model is not trained yet!')
             return
-        
         n_samples = X.shape[0]
         # Add column of 1s
         X = np.concatenate([X, np.ones((n_samples, 1))], axis=1)
         y = np.matmul(X, self.weights)
         y = np.vectorize(lambda val: 1 if val > 0 else -1)(y)
-        
         return y
-    
     def score(self, X, y):
         pred_y = self.predict(X)
-        
         return np.mean(y == pred_y)
-
-```
+--->
 
 -	**Logistic regression**. In logistic regression, we take weighted linear combination of input features and pass it through a sigmoid function which outputs a number between 1 and 0. Moreover, unlike perceptron, which just tells us which side of the plane the point lies on, logistic regression gives a probability of a point lying on a particular side of the plane. 
 
+<!---
 ``` python
-
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix
-
 x = np.arange(10).reshape(-1, 1)
 y = np.array([0, 0, 0, 0, 1, 1, 1, 1, 1, 1])
-
 model = LogisticRegression(solver='liblinear', random_state=0)
-
 model = LogisticRegression(solver='liblinear', random_state=0).fit(x, y)
-
 model.predict_proba(x)
-
 model.score(x, y)
-
 ```
+--->
 
--	**Naive Bayes Classification**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
+-	**Naive Bayes Classification**: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
 
 Multi-class classification:
 
@@ -171,7 +157,7 @@ accuracy = svm_model_linear.score(X_test, y_test)
 cm = confusion_matrix(y_test, svm_predictions) 
 
 ```
--	**Kernel estimation**: k-nearest neighbor (KNN)
+-	**Kernel estimation**: k-Nearest Neighbor (KNN)
 ``` python
 
 # importing necessary libraries 
@@ -200,11 +186,11 @@ print accuracy
 # creating a confusion matrix 
 knn_predictions = knn.predict(X_test) 
 cm = confusion_matrix(y_test, knn_predictions) 
-
 ```
--	**Decision trees**
-``` python
 
+-	**Decision trees**
+
+``` python
 # importing necessary libraries 
 from sklearn import datasets 
 from sklearn.metrics import confusion_matrix 
@@ -227,17 +213,18 @@ dtree_predictions = dtree_model.predict(X_test)
 
 # creating a confusion matrix 
 cm = confusion_matrix(y_test, dtree_predictions) 
-
 ```
+
 ## Regression
 
 Regression task is also known as a prediction task. It uses given sample datapoints of a situation in order to anticipate future outcomes of that situation.  
 
 **When do we use Regression Algorithms?**
+
 These algorithms are used for problems such as:
-•	House price prediction
-•	Forecast prediction
-•	Stock predictions
+-	House price prediction
+-	Forecast prediction
+-	Stock predictions
 
 ### Regression Algorithms
 Regression Algorithms can be grouped as the following:
@@ -268,13 +255,13 @@ In this algorithm, the data points are assigned to a cluster in such a manner th
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)  
 
-- **KNN**:  
+- **K-Nearest Neighbor (KNN)**:  
 
 This algorithm is used to solve the classification model problems. K-nearest neighbor or K-NN algorithm basically creates an imaginary boundary to classify the data. When new data points come in, the algorithm will try to predict that to the nearest of the boundary line.
 
 Therefore, larger k value means smother curves of separation resulting in less complex models. Whereas, smaller k value tends to overfit the data and resulting in complex models.
 
-Note: It’s very important to have the right k-value when analyzing the dataset to avoid overfitting and underfitting of the dataset.
+**Note**: It’s very important to have the right k-value when analyzing the dataset to avoid overfitting and underfitting of the dataset.
 
 Using the k-nearest neighbor algorithm we fit the historical data (or train the model) and predict the future.
 
