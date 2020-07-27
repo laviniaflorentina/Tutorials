@@ -123,21 +123,20 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
  - Clustering: Soft clustering , Hard clustering K - Means,
  - Dimensionality reduction: PCA, T-SNE, Autoencoders, SVD.
 --> 
-:soon:
 
 - Classification:
- - Perceptron
- - Logistic Regression
- - Naive Bayes Classification
- - Support Vector Machines (SVM)
- - k-nearest neighbor (KNN)
- - Decision trees
+  - Perceptron
+  - Logistic Regression
+  - Naive Bayes Classification
+  - Support Vector Machines (SVM)
+  - k-nearest neighbor (KNN)
+  - Decision trees
 - Regression:
- - Linear Regression
- - Polynomial Regression
- - Exponential Regression
- - Logistic Regression
- - Logarithmic Regression
+  - Linear Regression
+  - Polynomial Regression
+  - Exponential Regression
+  - Logistic Regression
+  - Logarithmic Regression
 - Clustering:
   - k-Means
 - Dimensionality reduction
