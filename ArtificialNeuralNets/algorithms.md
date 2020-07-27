@@ -15,14 +15,7 @@ Content:
   - Naive Bayes Classification
   - Support Vector Machines (SVM)
   - k-nearest neighbor (KNN)
-  - Decision trees
-  
-<div align="right">
-<img align="right" src="https://miro.medium.com/max/1400/0*botktOR526S9maYd" width=700 height=300>
-  
-<p> <i>:copyright: Image found on <a href="https://medium.com/@priyalwalpita/types-of-machine-learning-556529ad6a23"> medium </a> </i> </p>
-
-</div>   
+  - Decision trees 
 
 - [Regression]():
   - Linear Regression 
@@ -40,6 +33,12 @@ Content:
   - PCA
 --------------------------
 
+## All these tasks can be classified by the ML category they belong to as following:
+  
+<div align="center">
+<img align="center" src="https://miro.medium.com/max/1400/0*botktOR526S9maYd" width=700 height=300>
+<p> <i>:copyright: Image found on <a href="https://medium.com/@priyalwalpita/types-of-machine-learning-556529ad6a23"> medium </a> </i> </p>
+</div>  
 
 ## Classification - [RealPython Tutorial](https://realpython.com/logistic-regression-python/)
 
