@@ -25,14 +25,14 @@ It is been around for decades and nowadays it is present in so many shapes that 
 
 Every such application uses a specific learning system and we can categorize these systems by different criteria. 
 
+<img align="right" src="https://cdn2.hubspot.net/hubfs/202339/machine%20learning.png" width="600" height="340">
+
 Depending on the level of human supervision, we call them:
   - supervised 
   - unsupervised 
   - semi-supervised 
   - self-supervised 
   - reinforcement learning. 
-
-<img align="right" src="https://cdn2.hubspot.net/hubfs/202339/machine%20learning.png" width="600" height="340">
 
 Depending on weather they are pretrained or learn on-the-spot, we have:  
   - online 
