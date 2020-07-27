@@ -32,9 +32,7 @@ Depending on the level of human supervision, we call them:
   - self-supervised 
   - reinforcement learning. 
 
-<div align="right">
-  <p> <img src="https://cdn2.hubspot.net/hubfs/202339/machine%20learning.png" width="600" height="340"></p>
-</div>
+<img src="https://cdn2.hubspot.net/hubfs/202339/machine%20learning.png" width="600" height="340">
 
 Depending on weather they are pretrained or learn on-the-spot, we have:  
   - online 
