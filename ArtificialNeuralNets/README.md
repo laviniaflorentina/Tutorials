@@ -85,7 +85,24 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
  
  ## 5. [Algorithms by tasks](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md). What I cover:
  
-:soon:
+- Classification:
+  - Perceptron
+  - Logistic Regression
+  - Naive Bayes Classification
+  - Support Vector Machines (SVM)
+  - k-nearest neighbor (KNN)
+  - Decision trees
+- Regression:
+  - Linear Regression 
+  - Polynomial Regression 
+  - Exponential Regression 
+  - Logistic Regression 
+  - Logarithmic Regression 
+- Clustering:
+  - k-Means
+- Dimensionality reduction
+- Visualization:
+  - PCA
  
  ## 6. [Training](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md). What I cover:
  
