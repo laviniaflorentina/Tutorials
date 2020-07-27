@@ -75,7 +75,6 @@ The issue with individual neurons rapidly arises when trying to solve every day 
 And so, the creation of an Artificial Neural Network with more neurons seems to be the answer.
 
 
-
 ### b).	Multi-Layer Perceptron (MLP) - [Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/multilayer-perceptron-mlp-yy1NV)
 
 <img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann4.png" width="220" height="170" > 
@@ -94,7 +93,7 @@ Therefore, these nets are used in many applications, but not by themselves. Most
 
 ## 1.2.	Radial Basis Function (RBF) Neural Network 
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png" width="280" height="180" > 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann5.png" width="280" height="160" > 
 
 **Radial Basis Function Networks** are feedforward nets _with a different activation function_ in place of the logistic function, named the **radial basis function (RBF)**. 
 
@@ -351,7 +350,7 @@ DNN by itself is not entirely powerful, but when used in conjunction with some o
 
 ## 8.3. Deep Convolutional Inverse Graphics Network (DCIGN)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann21.png" width="280" height="200" > 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann21.png" width="310" height="200" > 
 
 **Deep Convolutional Inverse Graphics Network** is a structure that connects a Convolutional Neural Network with a Deconvolutional Neural Network.
 It might be confusing to call it a network when it is actually more of a Variational Auto-encoder (VAE).
@@ -376,7 +375,7 @@ They are used in text to **image generation** ([paper](), [code]()), **image to 
 
 # 10.	Liquid State Machine (LSM) Neural Networks
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann23.png"  width="240" height="200" > 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann23.png"  width="230" height="220" > 
 
 **Liquid State Machines** are sparse neural networks whose activation functions are replaced (not all connected) by thresholds. When the threshold is reached, the cell accumulates the value information from the successive samples and the output freed, then again sets the internal copy to zero. 
 
@@ -439,7 +438,7 @@ The SOM algorithm arranged these members in a two-dimensional grid placing simil
 
 # 15.	Support Vector Machine (SVM) Neural Networks - [Coursera](https://www.coursera.org/lecture/machine-learning/using-an-svm-sKQoJ)
 
-<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"  width="220" height="200"> 
+<img align="right" src="https://github.com/laviniaflorentina/Tutorials/blob/master/images/ann28.png"  width="220" height="170"> 
 
 **Support Vector Machines** are used for binary categorical work and the result will be "yes" or "no" regardless of how many dimensions or inputs the network processes.
 
