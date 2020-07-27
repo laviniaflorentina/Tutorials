@@ -63,7 +63,12 @@ This folder provides helpful information on _What Python is, Basic steps of how 
 ## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
 This folder brings forth explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
 
-### Introduction. What I cover:
+### How Artificial Intelligence differs from traditional programming?. What I cover:
+
+- Brief examples and explanations on why AI is different than traditional programming
+- What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
+
+### Introduction to Artificial Neural Networks. What I cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
