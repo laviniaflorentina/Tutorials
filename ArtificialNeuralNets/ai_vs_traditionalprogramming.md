@@ -29,8 +29,10 @@ In the following table we compare the two approaches in terms of processing styl
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
 | **Application** | Word processing, Mathematical functions | Sensor/ speech/ pattern/ text recognition, Prediction/ recommendation systems|
-|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://www.telegraph.co.uk/content/dam/education/SPARK/stem-awards/innovation/robot-computer-getty.jpg?imwidth=1400" width="250" height="150"> |
+|  |<img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://www.telegraph.co.uk/content/dam/education/SPARK/stem-awards/innovation/robot-computer-getty.jpg?imwidth=1400" width="250" height="150"> |
+| |:copyright: Image found on [developpaper](https://developpaper.com/talking-about-the-difference-between-machine-learning-and-traditional-programming)|:copyright: Image found on [telegraph.co.uk](https://www.telegraph.co.uk/education/stem-awards/innovation/will-robots-take-over-the-world)|
 
+ 
 However, they are not totally independent of eachother.
 
 Notice that traditional computing is still important! All the new tools of AI are just a smart combination of functions from conventional approaches. For example, to create a text prediction system (AI model) you need to translate the input text examples into something that a computer understands – a vector representation, which is word processing (traditional computing method).
