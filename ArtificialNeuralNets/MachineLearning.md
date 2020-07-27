@@ -62,20 +62,20 @@ Whenever the problem lies in one of the two subcategories: **regression** or **c
 
 ### Supervised Learning in different areas:
 
-### Text (Natural Language Processing - NLP)
+### :abc: Text (Natural Language Processing - NLP)
 
 - **Machine Translation**: Syntactically Supervised Transformers for Faster Neural Machine Translation - [paper](https://arxiv.org/pdf/1906.02780v1.pdf) & [code](https://github.com/dojoteef/synst).
 - **Named entity recognition**: Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning - [paper](https://arxiv.org/pdf/1906.01378v2.pdf) & [code](https://github.com/v-mipeng/LexiconNER).
 - **Text Summarization**: Iterative Document Representation Learning Towards Summarization with Polishing - [paper](https://arxiv.org/pdf/1809.10324v2.pdf) & [code](https://github.com/yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing).
 
-### Image (Computer Vision)
+### :cinema: Image (Computer Vision)
 
 - **Semantic Segmentation**: ResNeSt: Split-Attention Networks - [paper](https://arxiv.org/pdf/2004.08955v1.pdf) & code [Tensorflow](https://github.com/dmlc/gluon-cv)/[PyTorch](https://github.com/zhanghang1989/ResNeSt).
 - **Image Classification**: Dynamic Routing Between Capsules - [paper](https://arxiv.org/pdf/1710.09829.pdf) & [code](https://github.com/Sarasra/models/tree/master/research/capsules).
 - **Visual Question Answering**: Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning - [paper](https://arxiv.org/pdf/1703.06585v2.pdf) & [code](https://github.com/batra-mlp-lab/visdial-rl).
 - **Person Re-identification**: Weakly supervised discriminative feature learning with state information for person identification - [paper](https://arxiv.org/pdf/2002.11939v1.pdf) & [code](https://github.com/KovenYu/state-information).
 
-### Audio (Automatic Speech Recognition - ASR)
+### :sound: Audio (Automatic Speech Recognition - ASR)
 
 - **Speech to Text/ Text to Speech**: Speech to text and text to speech recognition systems-Areview - [paper](https://www.iosrjournals.org/iosr-jce/papers/Vol20-issue2/Version-1/E2002013643.pdf).
 - **Speech recognition**: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin - [paper](https://arxiv.org/pdf/1512.02595v1.pdf) & [code](https://github.com/tensorflow/models/tree/master/research/deep_speech), Real-Time Voice Cloning - [code](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
@@ -109,7 +109,7 @@ This learning method is being used for tasks such as: _clustering, data visualiz
 
 ### Unsupervised Learning in different areas:
 
-### Text (Natural Language Processing - NLP)
+### :abc: Text (Natural Language Processing - NLP)
 
 - **Language Modelling**: Improving Language Understanding by Generative Pre-Training - [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) & [code](https://github.com/openai/finetune-transformer-lm).
 - **Machine Translation**: Unsupervised Neural Machine Translation with Weight Sharing - [paper](https://arxiv.org/pdf/1804.09057.pdf) & [code](https://github.com/facebookresearch/UnsupervisedMT).
@@ -117,14 +117,14 @@ This learning method is being used for tasks such as: _clustering, data visualiz
 - **Question Answering**: Language Models are Unsupervised Multitask Learner - [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [code](https://github.com/hanchuanchuan/gpt-2).
 - **Abstractive Summarization**: Centroid-based Text Summarization through Compositionality of Word Embeddings - [paper](https://www.aclweb.org/anthology/W17-1003.pdf) & [code](https://github.com/gaetangate/text-summarizer).
 
-### Image (Computer Vision)
+### :cinema: Image (Computer Vision)
 
 - **Semantic Segmentation**: Invariant Information Clustering for Unsupervised Image Classification and Segmentation - [paper](https://arxiv.org/pdf/1807.06653.pdf) & [code](https://github.com/xu-ji/IIC).
 - **Image Classification**: SCAN: Learning to Classify Images without Labels - [paper](https://arxiv.org/pdf/2005.12320v2.pdf) & [code](https://github.com/wvangansbeke/Unsupervised-Classification).
 - **Object Recognition**: Unsupervised Domain Adaptation through Inter-modal Rotation for RGB-D Object Recognition - [paper](https://arxiv.org/pdf/2004.10016v1.pdf) & [code](https://github.com/MRLoghmani/relative-rotation).
 - **Person Re-identification**: Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification - [paper](https://arxiv.org/pdf/1811.10144v3.pdf) & [code](https://github.com/SHI-Labs/Self-Similarity-Grouping).
 
-### Audio (Automatic Speech Recognition - ASR)
+### :sound: Audio (Automatic Speech Recognition - ASR)
 
 - **Speech to Text/ Text to Speech**: Representation Learning with Contrastive Predictive Coding - [paper](https://arxiv.org/pdf/1807.03748v2.pdf) & [code](https://github.com/davidtellez/contrastive-predictive-coding).
 - **Speech recognition**: A segmental framework for fully-unsupervised large-vocabulary speech recognition - [paper](https://arxiv.org/pdf/1606.06950v2.pdf) & [code](https://github.com/kamperh/recipe_bucktsong_awe).
@@ -147,7 +147,7 @@ Some Semi-Supervised Algorithms include: **self-training, generative methods, mi
 
 ### Semi-supervised Learning in different areas:
 
-### Text (Natural Language Processing - NLP)
+### :abc: Text (Natural Language Processing - NLP)
 
 - **Language Modelling**: Semi-supervised sequence tagging with bidirectional language models - [paper](https://arxiv.org/pdf/1705.00108v1.pdf) & [code](https://github.com/flairNLP/flair).
 - **Machine Translation**: A Simple Baseline to Semi-Supervised Domain Adaptation for Machine Translation - [paper](https://arxiv.org/pdf/2001.08140v2.pdf) & [code](https://github.com/jind11/DAMT).
@@ -155,14 +155,14 @@ Some Semi-Supervised Algorithms include: **self-training, generative methods, mi
 - **Question Answering**: Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering - [paper](https://arxiv.org/pdf/1909.06356v1.pdf) & [code](https://github.com/ZhangShiyue/QGforQA).
 - **Abstractive Summarization**: Abstractive and Extractive Text Summarization using Document Context Vector and Recurrent Neural Networks - [paper](https://arxiv.org/pdf/1807.08000.pdf) & code not provided.
 
-### Image (Computer Vision)
+### :cinema: Image (Computer Vision)
 
 - **Semantic Segmentation**: Semi-supervised semantic segmentation needs strong, varied perturbations - [paper](https://arxiv.org/pdf/1906.01916v4.pdf) & [code](https://github.com/Britefury/cutmix-semisup-seg).
 - **Image Classification**: Fixing the train-test resolution discrepancy - [paper](https://arxiv.org/pdf/2003.08237v4.pdf) & [code](https://github.com/facebookresearch/FixRes).
 - **Object Recognition**: Data Distillation: Towards Omni-Supervised Learning - [paper](https://arxiv.org/pdf/1712.04440v1.pdf) & [code](https://github.com/facebookresearch/detectron) & [code](Data Distillation: Towards Omni-Supervised Learning).
 - **Person Re-identification**: Sparse Label Smoothing Regularization for Person Re-Identification - [paper](https://arxiv.org/pdf/1809.04976v3.pdf) & [code](https://github.com/jpainam/SLS_ReID).
 
-### Audio (Automatic Speech Recognition - ASR)
+### :sound: Audio (Automatic Speech Recognition - ASR)
 
 - **Speech to Text/ Text to Speech**: Libri-Light: A Benchmark for ASR with Limited or No Supervision - [paper]() & [code](https://github.com/facebookresearch/libri-light).
 - **Speech recognition**: Semi-Supervised Speech Recognition via Local Prior Matching - [paper](https://arxiv.org/pdf/2002.10336v1.pdf) & [code](https://github.com/facebookresearch/wav2letter).
@@ -182,14 +182,14 @@ Self-Supervised Learning is mostly use for motion-object detection as in this [p
 
 ### Self-supervised Learning in different areas:
 
-### Text (Natural Language Processing - NLP)
+### :abc: Text (Natural Language Processing - NLP)
 
 - **Language Modelling**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations - [paper](https://arxiv.org/pdf/1909.11942v6.pdf) & [code](https://github.com/tensorflow/models/tree/master/official/nlp/albert).
 - **Machine Translation**: Self-Supervised Neural Machine Translation - [paper](https://www.aclweb.org/anthology/P19-1178.pdf) & code not provided.
 - **Text Classification**: Supervised Multimodal Bitransformers for Classifying Images and Text - [paper](https://arxiv.org/pdf/1909.02950v1.pdf) & [code](https://github.com/huggingface/transformers).
 - **Abstractive Summarization**: PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization - [paper](https://arxiv.org/pdf/1912.08777v2.pdf) & [code](https://github.com/google-research/pegasus).
 
-### Image (Computer Vision)
+### :cinema: Image (Computer Vision)
 
 - **Semantic Segmentation**: Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation - [paper](https://arxiv.org/pdf/2004.04581v1.pdf) & [code](https://github.com/YudeWang/SEAM).
 - **Image Classification**: Self-Supervised Learning For Few-Shot Image Classification - [paper](https://arxiv.org/pdf/1911.06045v2.pdf) & [code](https://github.com/phecy/SSL-FEW-SHOT).
@@ -197,7 +197,7 @@ Self-Supervised Learning is mostly use for motion-object detection as in this [p
 - **Person Re-identification**: Enhancing Person Re-identification in a Self-trained
 Subspace - [paper](https://arxiv.org/pdf/1704.06020v2.pdf) & [code](https://github.com/Xun-Yang/ReID_slef-training_TOMM2017).
 
-### Audio (Automatic Speech Recognition - ASR)
+### :sound: Audio (Automatic Speech Recognition - ASR)
 
 - **Speech recognition**: Multi-task self-supervised learning for Robust Speech Recognition - [paper](https://arxiv.org/pdf/2001.09239v2.pdf) & [code](https://github.com/santi-pdp/pase).
 - **Speeche Enhancement**: More Grounded Image Captioning by Distilling Image-Text Matching Model - [paper](https://arxiv.org/pdf/2004.00390v1.pdf) & [code](https://github.com/YuanEZhou/Grounded-Image-Captioning).
