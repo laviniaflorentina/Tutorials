@@ -134,7 +134,7 @@ model.score(x, y)
 
 -	**Naive Bayes Classification**.
 
-![[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
 
 Multi-class classification:
 
