@@ -7,7 +7,9 @@
 
 ## Introduction
 
-Let's say you want to run a project from GitHub. They usually have multiple folders, subfolders and other interconnected function files which cannot be easily managed in an Online Notebook due to memory limilations. 
+Let's say you want to run a project from GitHub. Here is an [official tutorial](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) on how to open GitHub notebooks and browse them from Colab.
+
+Although, if you have a bigger GitHub project with multiple folders, subfolders and other interconnected function files, this cannot be easily managed in an Online Notebook due to memory limilations. 
 
 However, you can still run that project with having access to a server with better resources! 
 
