@@ -25,6 +25,7 @@ Content:
 - [Clustering]():
   - k-Means
 - [Dimensionality reduction]()
+- [Visualization]():
   - PCA
 --------------------------
 
@@ -132,9 +133,7 @@ model.score(x, y)
 
 ```
 
--	**Naive Bayes Classification**.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
+-	**Naive Bayes Classification**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
 
 Multi-class classification:
 
@@ -236,32 +235,31 @@ These algorithms are used for problems such as:
 •	Forecast prediction
 •	Stock predictions
 
-
 ### Regression Algorithms
 Regression Algorithms can be grouped as the following:
 
--	**Linear Regression** 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-
--	**Polynomial Regression**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-
--	**Exponential Regression**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+-	**Linear Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+-	**Polynomial Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+-	**Exponential Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Clustering
 
-- **K-Means**
+Clustering is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+**When do we use Regression Algorithms?**
+These algorithms are used for problems such as:
+
+### Clustering Algorithms
+
+- **K-Means**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+- **KNN**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+- **DBSCAN**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()   
+- **Hierarchical Cluster Analysis (HCA)**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
 
 ## Dimensionality reduction 
-  - **PCA**
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+## Visualization  
+  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
 
 --------------------------
 
