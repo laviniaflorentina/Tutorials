@@ -9,14 +9,6 @@
 
 Content:
 
-<div align="right">
-<img align="right" src="https://miro.medium.com/max/1400/0*botktOR526S9maYd" width=700 height=300>
-</div>   
-
-<div align="right">
-<p> <i>:copyright: Image found on <a href="https://medium.com/@priyalwalpita/types-of-machine-learning-556529ad6a23"> medium </a> </i> </p>
-</div> 
-
 - [Classification]():
   - Perceptron
   - Logistic Regression
@@ -24,6 +16,13 @@ Content:
   - Support Vector Machines (SVM)
   - k-nearest neighbor (KNN)
   - Decision trees
+  
+<div align="right">
+<img align="right" src="https://miro.medium.com/max/1400/0*botktOR526S9maYd" width=700 height=300>
+  
+<p> <i>:copyright: Image found on <a href="https://medium.com/@priyalwalpita/types-of-machine-learning-556529ad6a23"> medium </a> </i> </p>
+
+</div>   
 
 - [Regression]():
   - Linear Regression 
@@ -31,9 +30,12 @@ Content:
   - Exponential Regression 
   - Logistic Regression 
   - Logarithmic Regression 
+  
 - [Clustering]():
   - k-Means
+  
 - [Dimensionality reduction]()
+
 - [Visualization]():
   - PCA
 --------------------------
