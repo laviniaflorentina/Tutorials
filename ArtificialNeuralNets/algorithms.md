@@ -255,15 +255,62 @@ These algorithms are used for problems such as:
 
 ### Clustering Algorithms
 
-- **K-Means**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
-- **KNN**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
-- **DBSCAN**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()   
-- **Hierarchical Cluster Analysis (HCA)**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+- **K-Means**: 
+
+The *k*-means algorithm searches for a pre-determined number of clusters within an unlabeled multidimensional dataset.
+It accomplishes this using a simple conception of what the optimal clustering looks like:
+
+- The "cluster center" is the arithmetic mean of all the points belonging to the cluster.
+- Each point is closer to its own cluster center than to other cluster centers.
+
+Those two assumptions are the basis of the *k*-means model.
+We will soon dive into exactly *how* the algorithm reaches this solution, but for now let's take a look at a simple dataset and see the *k*-means result.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)  
+
+- **KNN**:  
+
+This algorithm is used to solve the classification model problems. K-nearest neighbor or K-NN algorithm basically creates an imaginary boundary to classify the data. When new data points come in, the algorithm will try to predict that to the nearest of the boundary line.
+
+Therefore, larger k value means smother curves of separation resulting in less complex models. Whereas, smaller k value tends to overfit the data and resulting in complex models.
+
+Note: It’s very important to have the right k-value when analyzing the dataset to avoid overfitting and underfitting of the dataset.
+
+Using the k-nearest neighbor algorithm we fit the historical data (or train the model) and predict the future.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My8UggN12Opt_gscK3tl4VLhZkHiQSyX)  
+ or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nholmber/google-colab-cs231n/blob/master/assignment1/knn.ipynb)  
+
+- **DBSCAN**:
+
+DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. This technique is one of the most common clustering algorithms which works based on density of object. The whole idea is that if a particular point belongs to a cluster, it should be near to lots of other points in that cluster.
+
+It works based on two parameters: _Epsilon_ and _Minimum Points_.
+
+**Epsilon** determine a specified radius that if includes enough number of points within, we call it dense area.
+
+**Minimum Samples** determine the minimum number of data points we want in a neighborhood to define a cluster.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gurubux/CognitiveClass-ML/blob/master/Course_MachineLearningWithPython/5-Clustering/ML0101EN-Clus-DBSCN-weather-py-v1.ipynb#scrollTo=SvJqeKgGBruX)   
+
+- **Hierarchical Cluster Analysis (HCA)**: 
+
+Hierarchical clustering works by first putting each data point in their own cluster and then merging clusters based on some rule, until there are only the wanted number of clusters remaining. For this to work, there needs to be a distance measure between the data points. With this distance measure `d`, we can define another distance measure between the **clusters** U and V.
+
+At each iteration of the algorithm two clusters that are closest to each other are merged. After this the distance between the clusters are recomputed, and then it continues to the next iteration.
+
+Below is an example with a botanical dataset with 150 samples from three species. Each species appears in the dataset 50 times. Each sample point has 4 features, which are basically dimensions of the "leaves" of the flower.
+
+We use the [seaborn](https://seaborn.pydata.org/index.html) library to both to compute the clustering and to visualize the result. The visualization consists of two parts: the *heatmap*, whose rows and/or columns may be reordered so as to have the elements of the same cluster next to each other; and the *dendrogram*, which shows the way the clusters were merged. The colors give the length of the corresponding features.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jttoivon/data-analysis-with-python-spring-2019/blob/master/clustering.ipynb#scrollTo=78nax17B9FGa)  
 
 ## Dimensionality reduction 
+
+  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)
   
 ## Visualization  
-  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)  
 
 --------------------------
 
