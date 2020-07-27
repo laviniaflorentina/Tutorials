@@ -5,6 +5,10 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
+<div align="right">
+  <p> <img src="https://cdn2.hubspot.net/hubfs/202339/machine%20learning.png" width="600" height="340"></p>
+</div>
+
 Content:
 
 [Introduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/MachineLearning.md#introduction)
