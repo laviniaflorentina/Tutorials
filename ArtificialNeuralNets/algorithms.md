@@ -250,7 +250,8 @@ Regression Algorithms can be grouped as the following:
 
 Clustering is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
 
-**When do we use Regression Algorithms?**
+**When do we use Clustering Algorithms?**
+
 These algorithms are used for problems such as:
 
 ### Clustering Algorithms
@@ -278,8 +279,7 @@ Note: It’s very important to have the right k-value when analyzing the dataset
 
 Using the k-nearest neighbor algorithm we fit the historical data (or train the model) and predict the future.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My8UggN12Opt_gscK3tl4VLhZkHiQSyX)  
- or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nholmber/google-colab-cs231n/blob/master/assignment1/knn.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My8UggN12Opt_gscK3tl4VLhZkHiQSyX) and [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nholmber/google-colab-cs231n/blob/master/assignment1/knn.ipynb)  
 
 - **DBSCAN**:
 
@@ -310,6 +310,7 @@ We use the [seaborn](https://seaborn.pydata.org/index.html) library to both to c
   - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)
   
 ## Visualization  
+
   - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)  
 
 --------------------------
