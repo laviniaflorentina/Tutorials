@@ -1,4 +1,4 @@
-# About this ... :dizzy: 
+# About this ... 
 
 <div align="right">
 <p> :calendar: Summer, 2020
