@@ -124,6 +124,25 @@ This folder brings forth explanations about AI concepts, such as _Artificial Neu
  - Dimensionality reduction: PCA, T-SNE, Autoencoders, SVD.
 --> 
 :soon:
+
+- Classification:
+ - Perceptron
+ - Logistic Regression
+ - Naive Bayes Classification
+ - Support Vector Machines (SVM)
+ - k-nearest neighbor (KNN)
+ - Decision trees
+- Regression:
+ - Linear Regression
+ - Polynomial Regression
+ - Exponential Regression
+ - Logistic Regression
+ - Logarithmic Regression
+- Clustering:
+  - k-Means
+- Dimensionality reduction
+- Visualization:
+  - PCA
  
  ### Training an AI model. What I cover:
  
