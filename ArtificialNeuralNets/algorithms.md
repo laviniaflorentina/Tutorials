@@ -29,16 +29,15 @@ Content:
   - PCA
 --------------------------
 
+
+<div align="right">
+<img align="right" src="https://miro.medium.com/max/1400/0*botktOR526S9maYd" width=500 height=300>
+<p> <i>:copyright: Image found on <a href="https://medium.com/@priyalwalpita/types-of-machine-learning-556529ad6a23"> medium </a> </i> </p>
+</div>  
+
 ## Classification - [RealPython Tutorial](https://realpython.com/logistic-regression-python/)
 
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
-
-<!---
-<div align="right">
-<img align="right" src="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png" width=500 height=300>
-<p> <i>:copyright: Image found on <a href="https://miro.medium.com/max/2886/1*xpRoFLy0BHsCr62Uf1FfTQ.png"> medium </a> </i> </p>
-</div>  
---->
 
 There are several general steps you’ll take when you’re preparing your classification models:
 
