@@ -219,3 +219,4 @@ by _Yves Hilpisch_ - [Amazon](https://www.amazon.com/Python-Finance-Mastering-Da
   - https://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html
   - https://en.wikipedia.org/wiki/Neural_Turing_machine
   - https://www.youtube.com/watch?v=GwIo3gDZCVQ
+  - https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0
