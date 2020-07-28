@@ -7,7 +7,7 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
-**Artificial Inteligence (AI)** is a field in Computer Science where the code is _dynamic_, being able to learn by itself, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
+**Artificial Intelligence (AI)** is a field in Computer Science where the code is _dynamic_, being able to learn by itself, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
 If you want to apply some of the exciting models that creates false images or videos of celebrities or drive self-driving cars, or if you just wonder about what Artificial Inteligence is about, you might find this repository useful.
 
