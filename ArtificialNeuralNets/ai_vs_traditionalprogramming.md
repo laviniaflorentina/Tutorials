@@ -37,6 +37,8 @@ However, they are not totally independent of eachother.
 
 Notice that traditional computing is still important! All the new tools of AI are just a smart combination of functions from conventional approaches. For example, to create a text prediction system (AI model) you need to translate the input text examples into something that a computer understands – a vector representation, which is word processing (traditional computing method).
 
+# :gift: BONUS:
+
 ## What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
 Some people use Artificial Intelligence, Machine Learning and Deep Learning interchangeably, along with NLP, Computer Vision and Speech Recognition. 
