@@ -8,7 +8,6 @@
 </div>
 
 Content:
-
 - [Classification](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#classification---realpython-tutorial):
   - Perceptron
   - Logistic Regression
@@ -16,19 +15,15 @@ Content:
   - Support Vector Machines (SVM)
   - k-nearest neighbor (KNN)
   - Decision trees 
-
 - [Regression](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#regression):
   - Linear Regression 
   - Polynomial Regression 
   - Exponential Regression 
   - Logistic Regression 
   - Logarithmic Regression 
-  
 - [Clustering](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#clustering):
   - k-Means
-  
 - [Dimensionality reduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#dimensionality-reduction)
-
 - [Visualization](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#visualization):
   - PCA
 --------------------------
