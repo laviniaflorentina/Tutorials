@@ -44,6 +44,16 @@ Content:
 
 Classification is the task for identifying similarity among items in order to group them while having a name for that group (a label). 
 
+**When do we use Classification Algorithms?**
+
+These algorithms are used for problems such as:
+-	Email spam classification.
+-	Sentiment analysis. 
+- Facial key-points detection.
+-	Pedestrian detection in automotive car driving.
+
+### Classification Algorithms
+
 There are several general steps you’ll take when you’re preparing your classification models:
 
 1. Import packages, functions, and classes
@@ -53,26 +63,13 @@ There are several general steps you’ll take when you’re preparing your class
 
 A sufficiently good model that you define can be used to make further predictions related to new, unseen data. The above procedure is the same for classification and regression.
 
-**When do we use Classification Algorithms?**
-
-These algorithms are used for problems such as:
--	Email spam classification.
--	Sentiment analysis. 
-- Facial key-points detection.
--	Pedestrian detection in automotive car driving.
-
-There are different kinds of classification:
--	**Binary (Binomial) Classification**: when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
--	**Multi-class (Multinomial) Classification**: when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
--	**Multi-label Classification**: when each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
-
-### Classification Algorithms
-
 Classification Algorithms can be grouped as the following:
 
-Binary Classification:
+1. **Binary (Binomial) Classification** - when there are two possible outcomes. _**Example**_: Gender classification (Male/Female).
 
-- **Perceptron**. In perceptron, we take weighted linear combination of input features and pass it through a thresholding function which outputs 1 or 0. 
+#### Perceptron 
+
+In perceptron, we take weighted linear combination of input features and pass it through a thresholding function which outputs 1 or 0. 
 
 <!---
 ``` python
@@ -104,7 +101,9 @@ class Perceptron:
         return np.mean(y == pred_y)
 --->
 
--	**Logistic regression**. In logistic regression, we take weighted linear combination of input features and pass it through a sigmoid function which outputs a number between 1 and 0. Moreover, unlike perceptron, which just tells us which side of the plane the point lies on, logistic regression gives a probability of a point lying on a particular side of the plane. 
+#### Logistic regression
+
+In logistic regression, we take weighted linear combination of input features and pass it through a sigmoid function which outputs a number between 1 and 0. Moreover, unlike perceptron, which just tells us which side of the plane the point lies on, logistic regression gives a probability of a point lying on a particular side of the plane. 
 
 <!---
 ``` python
@@ -121,13 +120,16 @@ model.score(x, y)
 ```
 --->
 
--	**Naive Bayes Classification**: 
+#### Naive Bayes Classification 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=olqAAQnoMtIR)
 
-Multi-class classification:
+2. **Multi-class (Multinomial) Classification** - when there are more than two possible outcomes. Each sample is assigned to one and only one target group. _**Example**_: An animal can be _a cat_ or _dog_ but not both at the same time. 
 
--	**Support Vector Machines (SVM)**. There can be multiple hyperplanes that separate linearly separable data. SVM calculates the optimal separating hyperplane using concepts of geometry. 
+#### Support Vector Machines (SVM)
+
+There can be multiple hyperplanes that separate linearly separable data. SVM calculates the optimal separating hyperplane using concepts of geometry. 
+
 ``` python
 
 # importing necessary libraries 
@@ -157,7 +159,8 @@ accuracy = svm_model_linear.score(X_test, y_test)
 cm = confusion_matrix(y_test, svm_predictions) 
 
 ```
--	**Kernel estimation**: k-Nearest Neighbor (KNN)
+#### k-Nearest Neighbor (KNN)
+
 ``` python
 
 # importing necessary libraries 
@@ -188,7 +191,7 @@ knn_predictions = knn.predict(X_test)
 cm = confusion_matrix(y_test, knn_predictions) 
 ```
 
--	**Decision trees**
+#### Decision trees
 
 ``` python
 # importing necessary libraries 
@@ -214,6 +217,7 @@ dtree_predictions = dtree_model.predict(X_test)
 # creating a confusion matrix 
 cm = confusion_matrix(y_test, dtree_predictions) 
 ```
+3.	**Multi-label Classification** - when each sample is mapped to a set of target labels (more than one class). _**Example**_: A text can be about fashion, a person, and location at the same time.
 
 ## Regression
 
@@ -229,9 +233,9 @@ These algorithms are used for problems such as:
 ### Regression Algorithms
 Regression Algorithms can be grouped as the following:
 
--	**Linear Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
--	**Polynomial Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
--	**Exponential Regression**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+#### Linear Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+#### Polynomial Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+#### Exponential Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Clustering
 
@@ -247,7 +251,7 @@ These algorithms are used for problems such as:
 
 ### Clustering Algorithms
 
-- **K-Means**: 
+#### K-Means 
 
 K-means clustering algorithm is also called flat clustering algorithm. It is classifying n objects into k groups (called clusters) of greatest possible distinction. A value is assigned from the beginning to k, meaning that you need to have a first guess on the number of clusters in your data. Then, each object goes to a specific cluster depending on its distance to a point that is declared to be the center of that cluster. 
 
@@ -255,7 +259,7 @@ In this algorithm, the data points are assigned to a cluster in such a manner th
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)  
 
-- **K-Nearest Neighbor (KNN)**:  
+#### K-Nearest Neighbor (KNN)  
 
 This algorithm is used to solve the classification model problems. K-nearest neighbor or K-NN algorithm basically creates an imaginary boundary to classify the data. When new data points come in, the algorithm will try to predict that to the nearest of the boundary line.
 
@@ -267,7 +271,7 @@ Using the k-nearest neighbor algorithm we fit the historical data (or train the 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My8UggN12Opt_gscK3tl4VLhZkHiQSyX) and [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nholmber/google-colab-cs231n/blob/master/assignment1/knn.ipynb)  
 
-- **DBSCAN**:
+#### DBSCAN
 
 DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. This technique is one of the most common clustering algorithms which works based on density of object. The whole idea is that if a particular point belongs to a cluster, it should be near to lots of other points in that cluster.
 
@@ -279,7 +283,7 @@ It works based on two parameters: _Epsilon_ and _Minimum Points_.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gurubux/CognitiveClass-ML/blob/master/Course_MachineLearningWithPython/5-Clustering/ML0101EN-Clus-DBSCN-weather-py-v1.ipynb#scrollTo=SvJqeKgGBruX)   
 
-- **Hierarchical Cluster Analysis (HCA)**: 
+#### Hierarchical Cluster Analysis (HCA)
 
 Hierarchical clustering works by first putting each data point in their own cluster and then merging clusters based on some rule, until there are only the wanted number of clusters remaining. For this to work, there needs to be a distance measure between the data points. With this distance measure `d`, we can define another distance measure between the **clusters** U and V.
 
@@ -293,11 +297,11 @@ We use the [seaborn](https://seaborn.pydata.org/index.html) library to both to c
 
 ## Dimensionality reduction 
 
-  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)
+#### PCA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)
   
 ## Visualization  
 
-  - **PCA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)  
+#### PCA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb#scrollTo=8gU1tEBi8vGM)  
 
 --------------------------
 
