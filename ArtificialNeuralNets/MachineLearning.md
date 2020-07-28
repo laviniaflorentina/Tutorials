@@ -71,7 +71,7 @@ Whenever the problem lies in one of the two subcategories: **regression** or **c
 
 ### :cinema: Image (Computer Vision)
 
-- **Semantic Segmentation**: ResNeSt: Split-Attention Networks - [paper](https://arxiv.org/pdf/2004.08955v1.pdf) & code [Tensorflow](https://github.com/dmlc/gluon-cv)/[PyTorch](https://github.com/zhanghang1989/ResNeSt).
+- **Semantic Segmentation**: ResNeSt: Split-Attention Networks - [paper](https://arxiv.org/pdf/2004.08955v1.pdf) & code [Tensorflow](https://github.com/dmlc/gluon-cv)/[PyTorch](https://github.com/zhanghang1989/ResNeSt); Invisibility Cloak -[Tutorial](https://lnkd.in/gSpeKx7) & [code](https://lnkd.in/gYq_nku), [another Code](https://lnkd.in/ggSmHwB).
 - **Image Classification**: Dynamic Routing Between Capsules - [paper](https://arxiv.org/pdf/1710.09829.pdf) & [code](https://github.com/Sarasra/models/tree/master/research/capsules).
 - **Visual Question Answering**: Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning - [paper](https://arxiv.org/pdf/1703.06585v2.pdf) & [code](https://github.com/batra-mlp-lab/visdial-rl).
 - **Person Re-identification**: Weakly supervised discriminative feature learning with state information for person identification - [paper](https://arxiv.org/pdf/2002.11939v1.pdf) & [code](https://github.com/KovenYu/state-information).
