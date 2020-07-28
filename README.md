@@ -60,7 +60,7 @@ This folder provides helpful information on _What Python is, Basic steps of how 
    - Defined functions/ Algorithms/ Build-in functions
    - Output
 
-## 2. [Artificial Inteligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
+## 2. [Artificial Intelligence](https://github.com/laviniaflorentina/Tutorials/tree/master/ArtificialNeuralNets)
 This folder brings forth explanations about AI concepts, such as _Artificial Neural Networks, Machine Learning_ and _Deep Learning Algorithms._
 
 ### How Artificial Intelligence differs from traditional programming?. What I cover:
