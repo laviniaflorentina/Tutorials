@@ -9,7 +9,7 @@
 
 Content:
 
-- [Classification]():
+- [Classification](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#classification---realpython-tutorial):
   - Perceptron
   - Logistic Regression
   - Naive Bayes Classification
@@ -17,19 +17,19 @@ Content:
   - k-nearest neighbor (KNN)
   - Decision trees 
 
-- [Regression]():
+- [Regression](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#regression):
   - Linear Regression 
   - Polynomial Regression 
   - Exponential Regression 
   - Logistic Regression 
   - Logarithmic Regression 
   
-- [Clustering]():
+- [Clustering](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#clustering):
   - k-Means
   
-- [Dimensionality reduction]()
+- [Dimensionality reduction](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#dimensionality-reduction)
 
-- [Visualization]():
+- [Visualization](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/algorithms.md#visualization):
   - PCA
 --------------------------
 
