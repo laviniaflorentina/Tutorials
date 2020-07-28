@@ -44,7 +44,7 @@ Notice that traditional computing is still important! All the new tools of AI ar
 
 Some people use Artificial Intelligence, Machine Learning and Deep Learning interchangeably, along with NLP, Computer Vision and Speech Recognition. 
 
-But here's the truth ...
+But here's the truth ... :unlock:
 
 **Artificial Inteligence (AI)** is a field in Computer Science where computers are programmed to think and act like humans, with a special dynamic code called _Artificial Neural Network_ also known as _Artificial Neural Network model_ (or simply, _model_). All possible ways in which such a code could be made to learn are part of a category called **Machine Learning (ML)**. Furthermore, **Deep Learning (DL)** refers to those models that are more complex in structure, being combined with high computing power and large datasets.
 
