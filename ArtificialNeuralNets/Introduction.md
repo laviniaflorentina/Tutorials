@@ -8,15 +8,11 @@
 
 Content:
 
-[What is an Artificial Neural Network?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-is-an-artificial-neural-network)
-
-[What are the main components and why do we need each of them?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-are-the-main-components-and-why-do-we-need-each-of-them)
-
-- Weights, Bias and Layers
-
-- Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
-
-- Derivatives
+- [What is an Artificial Neural Network?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-is-an-artificial-neural-network)
+- [What are the main components and why do we need each of them?](https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#what-are-the-main-components-and-why-do-we-need-each-of-them)
+    - Weights, Bias and Layers
+    - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
+    - Derivatives
     
 ----------------------------------
 
