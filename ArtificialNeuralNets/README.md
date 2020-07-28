@@ -7,7 +7,10 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
-**Artificial Intelligence (AI)** is a domain in Computer Science. Considering the field of applience, AI has the following branches: **Natural Language Processing (NLP)** (for text applications: _text summarization, machine translation,_ etc.), **Computer Vision (CV)** (for images/videos applications: _object detection, pattern recognition,_ etc.) and **Automated Speech Recognision (ASR)** (for audio applications: _speech-to-text, sound generation,_ etc.).
+**Artificial Intelligence (AI)** is a domain in Computer Science. Considering the field of applience, AI has the following branches: 
+- **Natural Language Processing (NLP)** (for text applications: _text summarization, machine translation,_ etc.), 
+- **Computer Vision (CV)** (for images/videos applications: _object detection, pattern recognition,_ etc.) 
+- **Automated Speech Recognision (ASR)** (for audio applications: _speech-to-text, sound generation,_ etc.).
 
 In these AI fields the code is _dynamic_ and able to _learn by itself_, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
