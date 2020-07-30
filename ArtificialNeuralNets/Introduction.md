@@ -21,7 +21,7 @@ Content:
 **Artificial Neural networks (ANN)** are a set of algorithms, modeled in a similar way the human brain works, developed to recognize and predict patterns. They interpret given data through a machine perception, using labeling or collecting raw input. The patterns they recognize are numerical, expressed as vectors, and so is the output before having assigned a meaning (check this [video](https://www.youtube.com/watch?v=aircAruvnKk) explanation). 
 Therefore, it is essential to convert the real-world input data, like images, sounds or text, into numerical values.
 
-Most of the existing neural networks architectures are shown in the following amazing diagram, that I’m going to credit the [Asimov Institute](https://www.asimovinstitute.org) for:
+Most of the existing neural networks architectures are shown in the following amazing diagram, :copyright: [Asimov Institute](https://www.asimovinstitute.org):
 
 ![ANNs](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/ann1.png)
 
