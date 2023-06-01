@@ -152,7 +152,7 @@ If you want to share the notebook file: click on **Share** (top right corner), a
 
 1. By e-mail invite: type in the person e-mail address:
 
-![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab11.png)
+// ![](https://github.com/laviniaflorentina/Tutorials/blob/master/images/colab11.png)
 
 2. By link sharing. Here, you can customize the viewer rights: _viewer/ commenter/ editor_, as well as who might have access: _Restricted_ (only people with the link) or _Anyone on the internet with the link_.
 
